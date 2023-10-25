@@ -15,33 +15,33 @@ T2 = date(2003, 1, 1)
 
 # PESEL, Imię, Nazwisko, Płeć, Data urodzenia, Data uzyskania prawa jazdy
 users_data = []
+
+def generateUzytkownik(id):
+    birth_date = fake.date_of_birth(minimum_age=18, maximum_age=90).strftime("%d-%m-%Y"),
+    licence_date = fake.date_of_birth(minimum_age=0, maximum_age=70).strftime("%d-%m-%Y"),  
+        
+    users_data.append([
+        id + 10**11,
+        fake.first_name(),
+        fake.last_name(),
+        fake.random_element(elements=('Mezczyzna', 'Kobieta')),
+        birth_date,
+        licence_date
+    ])
+
 def generateUzytkownicy():
     for i in range(AMOUNT_OF_UZYTKOWNICY):
+        generateUzytkownik(i)
         
-        birth_date = fake.date_of_birth(minimum_age=18, maximum_age=90).strftime("%d-%m-%Y"),
-        licence_date = fake.date_of_birth(minimum_age=0, maximum_age=70).strftime("%d-%m-%Y"),  
-        
-        
-        users_data.append([
-            i + 10**11,
-            fake.first_name(),
-            fake.last_name(),
-            fake.random_element(elements=('Mezczyzna', 'Kobieta')),
-            birth_date,
-            licence_date
-        ])
-        
-    # Nazwy kolumn w DataFrame
-    csv_columns = ["PESEL", "Imie", "Nazwisko", "Plec", "Data_urodzenia", "Data_uzyskania_prawa_jazdy"]
-    # Utworzenie DataFrame z danymi użytkowników
-    df = pd.DataFrame(users_data, columns=csv_columns)
-    # Nazwa pliku CSV do zapisu danych
-    csv_filename = "users.csv"
-    # Zapisanie danych do pliku CSV
-    df.to_csv(csv_filename, index=False)
-    print(f"Zapisano dane użytkowników do pliku {csv_filename}")
-        
-        
+
+def createCsv(data, columns_names, file_name):
+    df = pd.DataFrame(data, columns=columns_names)
+    df.to_csv(file_name, index=False)
+    print(f"Zapisano dane do pliku {file_name}")
+            
+
+
+
     
 
 
@@ -64,3 +64,8 @@ def generateUzytkownicy():
     
 
 generateUzytkownicy()
+createCsv(
+    users_data,
+    ["PESEL", "Imie", "Nazwisko", "Plec", "Data_urodzenia", "Data_uzyskania_prawa_jazdy"],
+    "users.csv"
+    )
