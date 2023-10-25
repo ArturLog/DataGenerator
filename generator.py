@@ -37,13 +37,7 @@ def generateUserData(users):
         users_data.append(user.getCsvData())
     return users_data
         
-# # Id, PESEL_użytkownika, Nr_rejestracyjny_pojazdu,
-# # Data_rozpoczecia, Data_zakonczenia,
-# # Godzina_rozpoczecia, Godzina_zakonczenia,
-# # Miejsce_rozpoczęcia, Miejsce_zakonczenia,
-# # Dystans, Ocena_przejazdu, Ocena_techniki_jazdy
-# # Ocena_przestrzegania_przepisow_drogowych
-# # Mnoznik_ceny, Koszt_przejazdu
+
 # def generatePrzejazd(id):
 #     rides_data.append([
 #         id,
