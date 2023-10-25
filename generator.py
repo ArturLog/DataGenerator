@@ -1,14 +1,15 @@
 import pandas as pd
-import numpy as np
-import functions as fun
+import random as rand
 from faker import Faker
 from datetime import date
 from User import User
+from Ride import Ride
 fake = Faker()
 
 AMOUNT_OF_UZYTKOWNICY = 10
 AMOUNT_OF_PRZEJAZD = 100
 AMOUNT_OF_BLAD_PRZEJAZDU = 100
+TODAY_DATE = date(2023, 10, 25)
 
 T0 = date(2001, 1, 1)
 T1 = date(2002, 1, 1)
@@ -22,52 +23,27 @@ def createCsv(data, columns_names, file_name):
     df.to_csv(file_name, index=False)
     print(f"Zapisano dane do pliku {file_name}")
 
-
-def generateNrRejestracyjny():
-    return 0
-
-
 def generateUsers(users):
     for i in range(AMOUNT_OF_UZYTKOWNICY):
         users.append(User(i))
         
-def generateUserData(users):
-    users_data = []
-    for user in users:
-        users_data.append(user.getCsvData())
-    return users_data
-        
+def generateRaids(raids, users):
+    for i in range(AMOUNT_OF_PRZEJAZD):
+        raids.append(Ride(i, users[rand.randint(0, AMOUNT_OF_UZYTKOWNICY-1)]))
 
-# def generatePrzejazd(id):
-#     rides_data.append([
-#         id,
-#         generatePESEL(id), # tutaj randomowy musi byc
-#         generateNrRejestracyjny(), # zalezny od pliku excel, sprawdzanie po dacie, zeby nie zostal wypozyczony ten sam 2 razy w tym samym momencie sry za dlugi koment
-        
-#     ])
+def generateCsvData(generatedData):
+    data = []
+    for d in generatedData:
+        data.append(d.getCsvData())
+    return data
     
-# def generatePrzejazdy():
-#     for i in range(AMOUNT_OF_PRZEJAZD):
-#         generatePrzejazd(i)
     
 # # Id, Id_przejazdu, Data, Godzina, Miejsce, Typ,
 # # Odchyl_od_poprawnej_wartosci
-# def generateBladPrzejazdu(id):
-#     print("Generuje błędy przejazdu")
     
 # def generateBledyPrzejazdu():
 #     for i in range(AMOUNT_OF_BLAD_PRZEJAZDU):
 #         generateBladPrzejazdu(i)
-
-# generatePrzejazdy()
-# createCsv(
-#     rides_data,
-#     ["Id", "PESEL_uzytkownika", "Nr_rejestracyjny_pojazdu", "Data_rozpoczecia", "Data_zakonczenia",
-#      "Godzina_rozpoczecia", "Godzina_zakonczenia", "Miejsce_rozpoczecia", "Miejsce_zakonczenia",
-#      "Dystans", "Ocena_przejazdu", "Ocena_techniki_jazdy", "Ocena_przestrzegania_przepisow_drogowych",
-#      "Mnoznik_ceny", "Koszt_przejazdu"],
-#     "rides.csv"
-#     )
 
 # generateBledyPrzejazdu()
 # createCsv(
@@ -79,8 +55,21 @@ def generateUserData(users):
 
 users = []
 generateUsers(users)
+
+rides = []
+generateRaids(rides, users)
+
 createCsv(
-    generateUserData(users),
+    generateCsvData(users),
     ["PESEL", "Imie", "Nazwisko", "Plec", "Data_urodzenia", "Data_uzyskania_prawa_jazdy"],
     "users.csv"
+    )
+
+createCsv(
+    generateCsvData(rides),
+    ["Id", "PESEL_uzytkownika", "Nr_rejestracyjny_pojazdu", "Data_rozpoczecia", "Data_zakonczenia",
+     "Godzina_rozpoczecia", "Godzina_zakonczenia", "Miejsce_rozpoczecia", "Miejsce_zakonczenia",
+     "Dystans", "Ocena_przejazdu", "Ocena_techniki_jazdy", "Ocena_przestrzegania_przepisow_drogowych",
+     "Mnoznik_ceny", "Koszt_przejazdu"],
+    "rides.csv"
     )
