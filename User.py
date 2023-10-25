@@ -1,12 +1,26 @@
 from faker import Faker
+import functions as fun
 
 
+# PESEL, Imię, Nazwisko, Płeć, Data urodzenia, Data uzyskania prawa jazdy
 class User:
-    def __init__(self, id):
+    def __init__(self, id, min_age=18, max_age=90, death_at_age=90):
         fake = Faker()
-        self.PESEL = id + 10**11
+        self.PESEL = fun.generatePESEL(id)
         self.first_name = fake.first_name()
         self.last_name = fake.last_name()
         self.sex = fake.random_element(elements=('Mezczyzna', 'Kobieta'))
-        self.birth_date = fake.date_of_birth(minimum_age=18, maximum_age=90).strftime("%d-%m-%Y"),
-        self.licence_date = fake.date_of_birth(minimum_age=0, maximum_age=70).strftime("%d-%m-%Y"), 
+        self.birth_date = fake.date_of_birth(minimum_age=min_age, maximum_age=max_age)
+        self.licence_date = fake.date_between_dates(fun.add_years(self.birth_date, min_age), 
+                                                    fun.add_years(self.birth_date, max_age))
+        self.alive = fun.calculateAge(self.birth_date) > death_at_age
+    
+    def getCsvData(self):
+        return [
+            self.PESEL,
+            self.first_name,
+            self.last_name,
+            self.sex,
+            self.birth_date,
+            self.licence_date
+        ]

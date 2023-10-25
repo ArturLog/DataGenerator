@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import functions as fun
 from faker import Faker
 from datetime import date
 from User import User
@@ -13,7 +14,6 @@ T0 = date(2001, 1, 1)
 T1 = date(2002, 1, 1)
 T2 = date(2003, 1, 1)
 
-
 road_mistakes_data = []
 rides_data = []
 
@@ -22,14 +22,11 @@ def createCsv(data, columns_names, file_name):
     df.to_csv(file_name, index=False)
     print(f"Zapisano dane do pliku {file_name}")
 
-def generatePESEL(id):
-    return id + 10**11
 
 def generateNrRejestracyjny():
     return 0
 
 
-# PESEL, Imię, Nazwisko, Płeć, Data urodzenia, Data uzyskania prawa jazdy
 def generateUsers(users):
     for i in range(AMOUNT_OF_UZYTKOWNICY):
         users.append(User(i))
@@ -37,14 +34,7 @@ def generateUsers(users):
 def generateUserData(users):
     users_data = []
     for user in users:
-        users_data.append([
-            user.PESEL,
-            user.first_name,
-            user.last_name,
-            user.sex,
-            user.birth_date,
-            user.licence_date
-        ])
+        users_data.append(user.getCsvData())
     return users_data
         
 # # Id, PESEL_użytkownika, Nr_rejestracyjny_pojazdu,
