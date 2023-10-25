@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from faker import Faker
 from datetime import date
+from User import User
 fake = Faker()
 
 AMOUNT_OF_UZYTKOWNICY = 10
@@ -13,38 +14,39 @@ T1 = date(2002, 1, 1)
 T2 = date(2003, 1, 1)
 
 
-# PESEL, Imię, Nazwisko, Płeć, Data urodzenia, Data uzyskania prawa jazdy
-users_data = []
-
-def generateUzytkownik(id):
-    birth_date = fake.date_of_birth(minimum_age=18, maximum_age=90).strftime("%d-%m-%Y"),
-    licence_date = fake.date_of_birth(minimum_age=0, maximum_age=70).strftime("%d-%m-%Y"),  
-        
-    users_data.append([
-        id + 10**11,
-        fake.first_name(),
-        fake.last_name(),
-        fake.random_element(elements=('Mezczyzna', 'Kobieta')),
-        birth_date,
-        licence_date
-    ])
-
-def generateUzytkownicy():
-    for i in range(AMOUNT_OF_UZYTKOWNICY):
-        generateUzytkownik(i)
-        
+road_mistakes_data = []
+rides_data = []
 
 def createCsv(data, columns_names, file_name):
     df = pd.DataFrame(data, columns=columns_names)
     df.to_csv(file_name, index=False)
     print(f"Zapisano dane do pliku {file_name}")
-            
+
+def generatePESEL(id):
+    return id + 10**11
+
+def generateNrRejestracyjny():
+    return 0
 
 
-
-    
-
-
+# PESEL, Imię, Nazwisko, Płeć, Data urodzenia, Data uzyskania prawa jazdy
+def generateUsers(users):
+    for i in range(AMOUNT_OF_UZYTKOWNICY):
+        users.append(User(i))
+        
+def generateUserData(users):
+    users_data = []
+    for user in users:
+        users_data.append([
+            user.PESEL,
+            user.first_name,
+            user.last_name,
+            user.sex,
+            user.birth_date,
+            user.licence_date
+        ])
+    return users_data
+        
 # # Id, PESEL_użytkownika, Nr_rejestracyjny_pojazdu,
 # # Data_rozpoczecia, Data_zakonczenia,
 # # Godzina_rozpoczecia, Godzina_zakonczenia,
@@ -52,20 +54,49 @@ def createCsv(data, columns_names, file_name):
 # # Dystans, Ocena_przejazdu, Ocena_techniki_jazdy
 # # Ocena_przestrzegania_przepisow_drogowych
 # # Mnoznik_ceny, Koszt_przejazdu
-# def generatePrzejazd():
-#     print("Generuje przejazdy")
+# def generatePrzejazd(id):
+#     rides_data.append([
+#         id,
+#         generatePESEL(id), # tutaj randomowy musi byc
+#         generateNrRejestracyjny(), # zalezny od pliku excel, sprawdzanie po dacie, zeby nie zostal wypozyczony ten sam 2 razy w tym samym momencie sry za dlugi koment
+        
+#     ])
     
+# def generatePrzejazdy():
+#     for i in range(AMOUNT_OF_PRZEJAZD):
+#         generatePrzejazd(i)
     
 # # Id, Id_przejazdu, Data, Godzina, Miejsce, Typ,
 # # Odchyl_od_poprawnej_wartosci
-# def generateBladPrzejazdu():
+# def generateBladPrzejazdu(id):
 #     print("Generuje błędy przejazdu")
     
-    
+# def generateBledyPrzejazdu():
+#     for i in range(AMOUNT_OF_BLAD_PRZEJAZDU):
+#         generateBladPrzejazdu(i)
 
-generateUzytkownicy()
+# generatePrzejazdy()
+# createCsv(
+#     rides_data,
+#     ["Id", "PESEL_uzytkownika", "Nr_rejestracyjny_pojazdu", "Data_rozpoczecia", "Data_zakonczenia",
+#      "Godzina_rozpoczecia", "Godzina_zakonczenia", "Miejsce_rozpoczecia", "Miejsce_zakonczenia",
+#      "Dystans", "Ocena_przejazdu", "Ocena_techniki_jazdy", "Ocena_przestrzegania_przepisow_drogowych",
+#      "Mnoznik_ceny", "Koszt_przejazdu"],
+#     "rides.csv"
+#     )
+
+# generateBledyPrzejazdu()
+# createCsv(
+#     road_mistakes_data,
+#     ["Id", "Id_przejazdu", "Data", "Godzina", "Miejsce", "Typ", "Odchyl_od_poprawnej_wartosci"],
+#     "road_mistakes.csv"
+#     )
+  
+
+users = []
+generateUsers(users)
 createCsv(
-    users_data,
+    generateUserData(users),
     ["PESEL", "Imie", "Nazwisko", "Plec", "Data_urodzenia", "Data_uzyskania_prawa_jazdy"],
     "users.csv"
     )
