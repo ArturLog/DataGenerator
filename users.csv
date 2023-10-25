@@ -1,0 +1,11 @@
+PESEL,Imie,Nazwisko,Plec,Data_urodzenia,Data_uzyskania_prawa_jazdy
+100000000000,Aaron,Moran,Kobieta,"('25-08-1999',)","('26-05-2002',)"
+100000000001,Jason,Anderson,Kobieta,"('03-10-2004',)","('26-03-1964',)"
+100000000002,Justin,Carr,Kobieta,"('08-08-1942',)","('25-04-1960',)"
+100000000003,James,Armstrong,Kobieta,"('19-02-1989',)","('26-05-1967',)"
+100000000004,Johnny,Avery,Kobieta,"('29-07-1942',)","('06-02-2004',)"
+100000000005,Bobby,Banks,Mezczyzna,"('25-10-1991',)","('30-06-1992',)"
+100000000006,John,Carpenter,Kobieta,"('03-02-1986',)","('10-04-1959',)"
+100000000007,David,Hudson,Kobieta,"('21-01-1968',)","('13-11-1975',)"
+100000000008,Carlos,Pittman,Kobieta,"('09-10-1950',)","('21-05-1957',)"
+100000000009,Evan,Anderson,Kobieta,"('21-01-1986',)","('07-06-1962',)"
