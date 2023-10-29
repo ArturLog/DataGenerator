@@ -2,10 +2,10 @@ import pandas as pd
 import random as rand
 from faker import Faker
 from datetime import date
-from User import User
-from Ride import Ride
-from Car import Car
-from Mistake import Mistake
+from models.classes.User import User
+from models.classes.Ride import Ride
+from models.classes.Car import Car
+from models.classes.Mistake import Mistake
 
 class Generator:
     def __init__(self, t0, t1, t2, users_amount=100, rides_amount=100, mistakes_amount=100, cars_amount=100, locations_amount=100):
