@@ -1,5 +1,5 @@
 from datetime import date
-from Generator import Generator
+from services.Generator import Generator
 
 AMOUNT_OF_USERS = 100
 AMOUNT_OF_RIDE = 100

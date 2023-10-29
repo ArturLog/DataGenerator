@@ -1,7 +1,9 @@
 import functions as fun
-from CsvData import CsvData
+import sys
 from datetime import date
 from faker import Faker
+sys.path.append("models/interfaces")
+from CsvData import CsvData
 
 MIN_AGE = 18
 MAX_AGE = 90

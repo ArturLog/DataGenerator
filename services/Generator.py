@@ -6,6 +6,7 @@ from models.classes.User import User
 from models.classes.Ride import Ride
 from models.classes.Car import Car
 from models.classes.Mistake import Mistake
+from models.classes.Location import Location
 
 class Generator:
     def __init__(self, t0, t1, t2, users_amount=100, rides_amount=100, mistakes_amount=100, cars_amount=100, locations_amount=100):
@@ -27,6 +28,7 @@ class Generator:
         #self.generate_rides()
         self.generate_cars()
         self.generate_mistakes()
+        self.generate_locations()
         
     def generate_users(self):
         for i in range(self.users_amount):
@@ -35,14 +37,18 @@ class Generator:
     def generate_cars(self):
         for i in range(self.cars_amount):
             self.cars.append(Car(t0=self.t0, t2=self.t1))
-        
+    
+    def generate_locations(self):
+        for i in range(1, self.locations_amount+1):
+            self.locations.append(Location(i))
+    
     def generate_rides(self):
-        for i in range(self.rides_amount):
+        for i in range(1, self.rides_amount+1):
             self.rides.append(Ride(i, self.users[rand.randint(0, self.users_amount-1)]))
             
     def generate_mistakes(self):
-        for i in range(self.mistakes_amount):
-            self.mistakes.append(Mistake((i-1), self.t0, self.t2, self.rides_amount, self.locations_amount))
+        for i in range(1, self.mistakes_amount+1):
+            self.mistakes.append(Mistake(i, self.t0, self.t2, self.rides_amount, self.locations_amount))
 
     def generate_csv_data(self, generatedData):
         data = []
@@ -76,6 +82,12 @@ class Generator:
             data=self.generate_csv_data(self.cars),
             columns_names=["Rejestracja", "VIN", "Marka", "Model", "Generacja", "Rok_produkcji", "Data_ostatniego_przeglądu"],
             file_name="csv/cars.csv"
+        )
+        
+        self.create_csv(
+            data=self.generate_csv_data(self.locations),
+            columns_names=["ID", "Miasto", "Dzielnica", "Ulica", "Numer ulicy", "Kod pocztowy"],
+            file_name="csv/locations.csv"
         )
         
         
