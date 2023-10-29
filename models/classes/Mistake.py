@@ -1,6 +1,9 @@
 import random
-from CsvData import CsvData
+from models.interfaces.CsvData import CsvData
 from functions import generate_random_date, generate_random_time
+
+OBSERVANCE_OF_ROAD_REGULATIONS_MISTAKES_AMOUNT = 4
+TECHNICAL_MISTAKES_AMOUNT = 2
 
 mistake_types = {
     "Przekroczenie prędkości": [10, 20, 30, 40, 50],
@@ -24,6 +27,18 @@ class Mistake(CsvData):
         self.location_id = random.randint(1, self.locations_amount)
         self.mistake_type = random.choice(list(mistake_types.keys()))
         self.deviation = random.choice(list(mistake_types[self.mistake_type]))
+        
+        self.mistake_nature = self.check_mistake_nature()
+    
+    # Zakładam, że pierwsze sa zawsze wykroczenia
+    def check_mistake_nature(self):
+        i = 0
+        for mistake_type in mistake_types:
+            i += 1
+            if mistake_type == self.mistake_type and i <= OBSERVANCE_OF_ROAD_REGULATIONS_MISTAKES_AMOUNT:
+                return "T"
+            else:
+                return "O"
     
     def get_csv_data(self):
         return [

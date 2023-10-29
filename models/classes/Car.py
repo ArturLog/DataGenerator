@@ -1,6 +1,7 @@
 import random
 import string
-from CsvData import CsvData
+from datetime import date
+from models.interfaces.CsvData import CsvData
 from functions import generate_random_date
 
 car_brands = {
@@ -10,7 +11,7 @@ car_brands = {
 }
 
 class Car(CsvData):
-    def __init__(self, t0, t2):
+    def __init__(self, t0, t2, locations_amount):
         self.t0 = t0
         self.t2 = t2
         self.registration = self.generate_registration()
@@ -20,6 +21,10 @@ class Car(CsvData):
         self.generation = random.randint(1,3)
         self.production_year = random.randint(2010, 2012)
         self.last_inspection = generate_random_date(self.t0, self.t2)
+        
+        self.last_rental = date(1000, 1, 1)
+        self.location = random.randint(1, locations_amount)
+        
         
     def generate_registration(self):
         city = self.generate_city_part()

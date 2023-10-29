@@ -24,11 +24,13 @@ class Generator:
         self.cars_amount = cars_amount
         self.locations_amount = locations_amount
         
-        self.generate_users()
-        #self.generate_rides()
-        self.generate_cars()
-        self.generate_mistakes()
         self.generate_locations()
+        self.generate_cars()
+        
+        self.generate_users()
+        self.generate_mistakes()
+        self.generate_rides()
+        
         
     def generate_users(self):
         for i in range(self.users_amount):
@@ -36,7 +38,7 @@ class Generator:
     
     def generate_cars(self):
         for i in range(self.cars_amount):
-            self.cars.append(Car(t0=self.t0, t2=self.t1))
+            self.cars.append(Car(t0=self.t0, t2=self.t1, locations_amount=self.locations_amount))
     
     def generate_locations(self):
         for i in range(1, self.locations_amount+1):
@@ -44,7 +46,7 @@ class Generator:
     
     def generate_rides(self):
         for i in range(1, self.rides_amount+1):
-            self.rides.append(Ride(i, self.users[rand.randint(0, self.users_amount-1)]))
+            self.rides.append(Ride(i, self.users, self.mistakes, self.cars, self.locations))
             
     def generate_mistakes(self):
         for i in range(1, self.mistakes_amount+1):
@@ -63,14 +65,14 @@ class Generator:
             file_name="csv/users.csv"
             )
 
-        # self.create_csv(
-        #     self.generate_csv_data(self.rides),
-        #     ["Id", "PESEL_uzytkownika", "Nr_rejestracyjny_pojazdu", "Data_rozpoczecia", "Data_zakonczenia",
-        #     "Godzina_rozpoczecia", "Godzina_zakonczenia", "Miejsce_rozpoczecia", "Miejsce_zakonczenia",
-        #     "Dystans", "Ocena_przejazdu", "Ocena_techniki_jazdy", "Ocena_przestrzegania_przepisow_drogowych",
-        #     "Mnoznik_ceny", "Koszt_przejazdu"],
-        #     "csv/rides.csv"
-        #     )
+        self.create_csv(
+            self.generate_csv_data(self.rides),
+            ["Id", "PESEL_uzytkownika", "Nr_rejestracyjny_pojazdu", "Data_rozpoczecia", "Data_zakonczenia",
+            "Godzina_rozpoczecia", "Godzina_zakonczenia", "Miejsce_rozpoczecia", "Miejsce_zakonczenia",
+            "Dystans", "Ocena_przejazdu", "Ocena_techniki_jazdy", "Ocena_przestrzegania_przepisow_drogowych",
+            "Mnoznik_ceny", "Koszt_przejazdu"],
+            "csv/rides.csv"
+            )
         
         self.create_csv(
             data=self.generate_csv_data(self.mistakes),
