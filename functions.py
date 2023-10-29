@@ -1,7 +1,6 @@
 import random
-import time
 from datetime import date
-from datetime import date, timedelta, datetime
+from datetime import date, timedelta
 
 date_format = '%d/%m/%Y'  ################################
  
@@ -29,3 +28,10 @@ def generate_random_date(start_date, end_date):
     random_date = start_date + timedelta(days=random_days)
         
     return random_date.strftime(date_format)
+
+def generate_random_time():
+    hour = random.randint(0, 23)
+    minute = random.randint(0, 59)
+    time = f"{hour:02d}:{minute:02d}"
+    
+    return time

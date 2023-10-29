@@ -1,0 +1,101 @@
+ID,ID_przejazdu,Data,Godzina,Miejsce,Typ,Odchył_od_poprawnej_wartości
+0,36,04/01/2001,04:31,98,Przekroczenie prędkości,40
+1,91,30/11/2001,09:52,66,Parking w niedozwolonym miejscu,1
+2,3,16/01/2001,06:56,57,Nieprzepisowa zmiana pasa ruchu,1
+3,8,28/06/2001,05:01,40,Gwałtowne hamowanie,1
+4,90,03/03/2001,03:15,91,Parking w niedozwolonym miejscu,1
+5,67,25/01/2001,12:27,71,Niedostosowanie się do znaku nakazu/zakazu,1
+6,71,20/01/2001,12:46,12,Jazda na zbyt wysokich obrotach,2500
+7,85,09/11/2001,13:10,57,Przekroczenie prędkości,20
+8,76,12/03/2001,19:02,50,Gwałtowne hamowanie,1
+9,57,02/07/2001,16:55,51,Niedostosowanie się do znaku nakazu/zakazu,1
+10,25,16/08/2001,21:49,10,Niedostosowanie się do znaku nakazu/zakazu,1
+11,42,01/01/2001,09:03,34,Parking w niedozwolonym miejscu,1
+12,78,24/06/2001,03:12,57,Nieprzepisowa zmiana pasa ruchu,1
+13,64,24/05/2001,02:32,55,Gwałtowne hamowanie,1
+14,84,09/11/2001,20:04,65,Nieprzepisowa zmiana pasa ruchu,1
+15,71,13/04/2001,17:10,28,Przekroczenie prędkości,10
+16,5,24/07/2001,13:02,52,Gwałtowne hamowanie,1
+17,76,12/01/2001,05:01,25,Jazda na zbyt wysokich obrotach,3000
+18,93,16/12/2001,22:48,67,Gwałtowne hamowanie,1
+19,50,20/04/2001,21:27,48,Nieprzepisowa zmiana pasa ruchu,1
+20,63,12/12/2001,21:29,1,Niedostosowanie się do znaku nakazu/zakazu,1
+21,60,01/07/2001,16:05,66,Nieprzepisowa zmiana pasa ruchu,1
+22,97,08/08/2001,03:35,9,Przekroczenie prędkości,40
+23,93,02/07/2001,22:24,52,Jazda na zbyt wysokich obrotach,2000
+24,90,29/07/2001,16:41,74,Gwałtowne hamowanie,1
+25,10,16/05/2001,05:34,67,Jazda na zbyt wysokich obrotach,2000
+26,60,27/08/2001,05:05,27,Jazda na zbyt wysokich obrotach,2500
+27,48,03/09/2001,07:56,22,Nieprzepisowa zmiana pasa ruchu,1
+28,67,26/10/2001,13:59,82,Przekroczenie prędkości,40
+29,26,20/08/2001,00:06,76,Jazda na zbyt wysokich obrotach,2000
+30,43,06/11/2001,00:25,20,Gwałtowne hamowanie,1
+31,90,21/06/2001,06:28,7,Gwałtowne hamowanie,1
+32,40,21/05/2001,03:17,59,Nieprzepisowa zmiana pasa ruchu,1
+33,84,28/11/2001,12:25,27,Gwałtowne hamowanie,1
+34,93,14/03/2001,08:31,72,Parking w niedozwolonym miejscu,1
+35,11,20/11/2001,16:19,84,Niedostosowanie się do znaku nakazu/zakazu,1
+36,2,08/03/2001,13:12,13,Niedostosowanie się do znaku nakazu/zakazu,1
+37,57,07/07/2001,03:27,7,Nieprzepisowa zmiana pasa ruchu,1
+38,86,11/12/2001,07:35,37,Niedostosowanie się do znaku nakazu/zakazu,1
+39,95,19/11/2001,04:28,64,Niedostosowanie się do znaku nakazu/zakazu,1
+40,68,15/12/2001,22:13,66,Jazda na zbyt wysokich obrotach,2000
+41,5,02/06/2001,07:45,36,Jazda na zbyt wysokich obrotach,1500
+42,88,22/11/2001,03:40,27,Parking w niedozwolonym miejscu,1
+43,6,18/11/2001,18:12,56,Gwałtowne hamowanie,1
+44,29,11/07/2001,07:43,74,Nieprzepisowa zmiana pasa ruchu,1
+45,47,16/10/2001,09:14,80,Gwałtowne hamowanie,1
+46,84,03/07/2001,22:22,27,Jazda na zbyt wysokich obrotach,1000
+47,40,15/12/2001,14:53,52,Niedostosowanie się do znaku nakazu/zakazu,1
+48,59,09/04/2001,18:49,33,Przekroczenie prędkości,20
+49,28,27/01/2001,06:12,97,Nieprzepisowa zmiana pasa ruchu,1
+50,48,27/06/2001,04:52,1,Nieprzepisowa zmiana pasa ruchu,1
+51,21,02/11/2001,08:04,56,Gwałtowne hamowanie,1
+52,73,24/09/2001,01:58,61,Parking w niedozwolonym miejscu,1
+53,72,02/04/2001,10:23,15,Gwałtowne hamowanie,1
+54,71,22/05/2001,13:52,9,Parking w niedozwolonym miejscu,1
+55,20,24/05/2001,02:38,85,Niedostosowanie się do znaku nakazu/zakazu,1
+56,83,28/02/2001,13:18,100,Parking w niedozwolonym miejscu,1
+57,14,28/02/2001,07:08,90,Parking w niedozwolonym miejscu,1
+58,67,09/07/2001,13:21,80,Jazda na zbyt wysokich obrotach,1500
+59,32,11/07/2001,02:52,70,Parking w niedozwolonym miejscu,1
+60,70,06/02/2001,12:14,70,Gwałtowne hamowanie,1
+61,49,19/04/2001,06:21,4,Nieprzepisowa zmiana pasa ruchu,1
+62,59,09/11/2001,22:43,1,Parking w niedozwolonym miejscu,1
+63,73,10/12/2001,12:08,57,Nieprzepisowa zmiana pasa ruchu,1
+64,16,01/03/2001,05:34,62,Niedostosowanie się do znaku nakazu/zakazu,1
+65,22,23/08/2001,14:57,42,Przekroczenie prędkości,20
+66,27,11/04/2001,07:40,75,Niedostosowanie się do znaku nakazu/zakazu,1
+67,69,31/05/2001,00:16,71,Jazda na zbyt wysokich obrotach,1500
+68,48,25/08/2001,11:44,100,Gwałtowne hamowanie,1
+69,58,02/07/2001,01:41,55,Przekroczenie prędkości,20
+70,32,31/12/2001,02:16,14,Nieprzepisowa zmiana pasa ruchu,1
+71,71,03/03/2001,23:16,82,Gwałtowne hamowanie,1
+72,7,12/09/2001,16:51,44,Jazda na zbyt wysokich obrotach,1000
+73,60,25/04/2001,19:36,84,Niedostosowanie się do znaku nakazu/zakazu,1
+74,74,30/12/2001,11:02,24,Parking w niedozwolonym miejscu,1
+75,58,26/12/2001,17:06,62,Niedostosowanie się do znaku nakazu/zakazu,1
+76,99,08/11/2001,13:24,57,Jazda na zbyt wysokich obrotach,1000
+77,6,01/04/2001,10:16,90,Przekroczenie prędkości,50
+78,76,13/10/2001,10:54,24,Przekroczenie prędkości,10
+79,24,29/05/2001,23:57,30,Przekroczenie prędkości,40
+80,83,14/05/2001,10:38,55,Niedostosowanie się do znaku nakazu/zakazu,1
+81,65,31/03/2001,14:08,17,Niedostosowanie się do znaku nakazu/zakazu,1
+82,72,27/07/2001,08:40,31,Niedostosowanie się do znaku nakazu/zakazu,1
+83,80,04/03/2001,23:12,17,Niedostosowanie się do znaku nakazu/zakazu,1
+84,70,29/05/2001,17:47,40,Nieprzepisowa zmiana pasa ruchu,1
+85,71,24/04/2001,15:08,97,Przekroczenie prędkości,40
+86,7,22/10/2001,06:33,72,Parking w niedozwolonym miejscu,1
+87,20,26/05/2001,04:26,19,Przekroczenie prędkości,10
+88,92,20/07/2001,02:43,48,Parking w niedozwolonym miejscu,1
+89,6,01/10/2001,20:57,21,Niedostosowanie się do znaku nakazu/zakazu,1
+90,100,12/10/2001,10:27,38,Niedostosowanie się do znaku nakazu/zakazu,1
+91,52,16/10/2001,05:37,56,Jazda na zbyt wysokich obrotach,2500
+92,4,21/06/2001,13:22,95,Niedostosowanie się do znaku nakazu/zakazu,1
+93,26,22/08/2001,19:18,48,Nieprzepisowa zmiana pasa ruchu,1
+94,77,03/08/2001,11:55,69,Nieprzepisowa zmiana pasa ruchu,1
+95,68,25/10/2001,14:55,76,Parking w niedozwolonym miejscu,1
+96,90,11/03/2001,16:28,67,Parking w niedozwolonym miejscu,1
+97,17,12/04/2001,15:47,28,Niedostosowanie się do znaku nakazu/zakazu,1
+98,35,31/07/2001,15:17,81,Gwałtowne hamowanie,1
+99,26,17/09/2001,17:41,86,Przekroczenie prędkości,30

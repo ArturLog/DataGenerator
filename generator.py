@@ -5,6 +5,7 @@ from datetime import date
 from User import User
 from Ride import Ride
 from Car import Car
+from Mistake import Mistake
 
 class Generator:
     def __init__(self, t0, t1, t2, users_amount=100, rides_amount=100, mistakes_amount=100, cars_amount=100, locations_amount=100):
@@ -25,8 +26,7 @@ class Generator:
         self.generate_users()
         #self.generate_rides()
         self.generate_cars()
-        
-        
+        self.generate_mistakes()
         
     def generate_users(self):
         for i in range(self.users_amount):
@@ -39,6 +39,10 @@ class Generator:
     def generate_rides(self):
         for i in range(self.rides_amount):
             self.rides.append(Ride(i, self.users[rand.randint(0, self.users_amount-1)]))
+            
+    def generate_mistakes(self):
+        for i in range(self.mistakes_amount):
+            self.mistakes.append(Mistake((i-1), self.t0, self.t2, self.rides_amount, self.locations_amount))
 
     def generate_csv_data(self, generatedData):
         data = []
@@ -48,9 +52,9 @@ class Generator:
         
     def create_all_csv(self):
         self.create_csv(
-            self.generate_csv_data(self.users),
-            ["PESEL", "Imie", "Nazwisko", "Plec", "Data_urodzenia", "Data_uzyskania_prawa_jazdy"],
-            "csv/users.csv"
+            data=self.generate_csv_data(self.users),
+            columns_names=["PESEL", "Imie", "Nazwisko", "Plec", "Data_urodzenia", "Data_uzyskania_prawa_jazdy"],
+            file_name="csv/users.csv"
             )
 
         # self.create_csv(
@@ -63,9 +67,15 @@ class Generator:
         #     )
         
         self.create_csv(
-        self.generate_csv_data(self.cars),
-        ["Rejestracja", "VIN", "Marka", "Model", "Generacja", "Rok produkcji", "Data ostatniego przeglądu"],
-        "csv/cars.csv"
+            data=self.generate_csv_data(self.mistakes),
+            columns_names=["ID", "ID_przejazdu", "Data", "Godzina", "Miejsce", "Typ", "Odchył_od_poprawnej_wartości"],
+            file_name="csv/mistakes.csv"
+        )
+        
+        self.create_csv(
+            data=self.generate_csv_data(self.cars),
+            columns_names=["Rejestracja", "VIN", "Marka", "Model", "Generacja", "Rok_produkcji", "Data_ostatniego_przeglądu"],
+            file_name="csv/cars.csv"
         )
         
         
