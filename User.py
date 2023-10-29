@@ -1,21 +1,26 @@
-from datetime import date
 import functions as fun
+from CsvData import CsvData
+from datetime import date
 from faker import Faker
 
+MIN_AGE = 18
+MAX_AGE = 90
+DEATH_AT_AGE = 90
+
 # PESEL, Imię, Nazwisko, Płeć, Data urodzenia, Data uzyskania prawa jazdy
-class User:
-    def __init__(self, id, min_age=18, max_age=90, death_at_age=90):
+class User(CsvData):
+    def __init__(self, id, min_age=MIN_AGE, max_age=MAX_AGE, death_at_age=DEATH_AT_AGE):
         fake = Faker()
         self.PESEL = fun.generatePESEL(id)
         self.first_name = fake.first_name()
         self.last_name = fake.last_name()
         self.sex = fake.random_element(elements=('Mezczyzna', 'Kobieta'))
         self.birth_date = fake.date_of_birth(minimum_age=min_age, maximum_age=max_age)
-        self.licence_date = fake.date_between_dates(fun.add_years(self.birth_date, min_age + 1), 
+        self.licence_date = fun.generate_random_date(fun.add_years(self.birth_date, min_age), 
                                                     date.today())
         self.alive = fun.calculateAge(self.birth_date) > death_at_age
     
-    def getCsvData(self):
+    def get_csv_data(self):
         return [
             self.PESEL,
             self.first_name,

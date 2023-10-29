@@ -1,4 +1,9 @@
+import random
+import time
 from datetime import date
+from datetime import date, timedelta, datetime
+
+date_format = '%d/%m/%Y'  ################################
  
 def calculateAge(birthDate):
     today = date.today()
@@ -16,3 +21,11 @@ def add_years(start_date, years):
 
 def generatePESEL(id):
     return id + 10**11
+
+def generate_random_date(start_date, end_date):
+    date_range = end_date - start_date
+    #print(str(end_date) + "-" + str(start_date) + " = " + str(date_range)) #################################
+    random_days = random.randint(0, date_range.days)        
+    random_date = start_date + timedelta(days=random_days)
+        
+    return random_date.strftime(date_format)

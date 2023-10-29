@@ -1,6 +1,7 @@
 import functions as fun
 import random as rand
 import numpy as np
+from CsvData import CsvData
 from datetime import date
 from faker import Faker
 
@@ -14,7 +15,7 @@ USER_LICENCE = date(2001, 1, 1)
 # Dystans, Ocena_przejazdu, Ocena_techniki_jazdy
 # Ocena_przestrzegania_przepisow_drogowych
 # Mnoznik_ceny, Koszt_przejazdu
-class Ride:
+class Ride(CsvData):
     def __init__(self, id, user, max_days_rent=3, min_distance=1, max_distance=10, 
                  multiplier_zero_digit=7, min_rating=1, max_rating=10, rating_rounding=2,
                  start_price=5, price_per_kilometer=5
@@ -36,7 +37,7 @@ class Ride:
         self.price_multiplier = round(self.ride_rating/multiplier_zero_digit, rating_rounding)
         self.ride_price = (start_price + self.distance*price_per_kilometer)*self.price_multiplier        
     
-    def getCsvData(self):
+    def get_csv_data(self):
         return [
             self.id,
             self.user_PESEL,
