@@ -1,6 +1,6 @@
 from datetime import datetime
 from services.Generator import Generator
-
+chuj = 0
 AMOUNT_OF_USERS_FIRST_PERIOD = 1000
 AMOUNT_OF_USERS_SECOND_PERIOD = 500
 AMOUNT_OF_RIDES_FIRST_PERIOD = 1000
