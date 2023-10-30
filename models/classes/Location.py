@@ -5,6 +5,7 @@ cities = ["Warszawa", "Kraków", "Poznań", "Wrocław", "Gdańsk", "Gdynia", "So
 disctricts = ["Północ", "Południe", "Wschód", "Zachód", "Centrum", "Stare Miasto"]
 streets = ["Grunwaldzka", "Piłsudskiego", "Pogodna", "Miła", "Klonowa", "Sosnowa", "Mickiewicza"]
 
+# Aktulanie moga sie powtarzac
 class Location(CsvData):
     def __init__(self, id):
         self.id = id

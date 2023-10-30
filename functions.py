@@ -1,5 +1,4 @@
 import random
-from datetime import date
 from datetime import date, timedelta
 
 date_format = '%d/%m/%Y'  ################################
@@ -26,8 +25,13 @@ def generate_random_date(start_date, end_date):
     #print(str(end_date) + "-" + str(start_date) + " = " + str(date_range)) #################################
     random_days = random.randint(0, date_range.days)        
     random_date = start_date + timedelta(days=random_days)
-        
-    return random_date.strftime(date_format)
+    return random_date
+
+def generate_random_datetime(start_datetime, end_datetime):
+    time_difference = end_datetime - start_datetime
+    random_time_difference = random.random() * time_difference.total_seconds()
+    random_datetime = start_datetime + timedelta(seconds=random_time_difference)
+    return random_datetime
 
 def generate_random_time():
     hour = random.randint(0, 23)

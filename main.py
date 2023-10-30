@@ -1,38 +1,38 @@
-from datetime import date
+from datetime import datetime
 from services.Generator import Generator
 
-AMOUNT_OF_USERS = 100
-AMOUNT_OF_RIDE = 100
-AMOUNT_OF_MISTAKE = 100
-AMOUNT_OF_CARS = 100
-AMOUNT_OF_LOCATIONS = 100
-# TODAY_DATE = date(2023, 10, 25)
+AMOUNT_OF_USERS_FIRST_PERIOD = 1000
+AMOUNT_OF_USERS_SECOND_PERIOD = 500
+AMOUNT_OF_RIDES_FIRST_PERIOD = 1000
+AMOUNT_OF_RIDES_SECOND_PERIOD = 500
+AMOUNT_OF_MISTAKES_FIRST_PERIOD = 1000
+AMOUNT_OF_MISTAKES_SECOND_PERIOD = 500
+AMOUNT_OF_CARS_FIRST_PERIOD = 1000
+AMOUNT_OF_CARS_SECOND_PERIOD = 500
+AMOUNT_OF_LOCATIONS_FIRST_PERIOD = 1000
+AMOUNT_OF_LOCATIONS_SECOND_PERIOD = 500
 
-T0 = date(2001, 1, 1)
-T1 = date(2001, 6, 6)
-T2 = date(2002, 1, 1)
+T0 = datetime(2001, 1, 1, 0, 0, 1)
+T1 = datetime(2001, 6, 6, 0, 0, 1)
+T2 = datetime(2002, 1, 1, 0, 0, 1)
 
 if __name__ == '__main__':
-    generator = Generator(t0=T0, t1=T1, t2=T2,
-                          users_amount=AMOUNT_OF_USERS,
-                          rides_amount=AMOUNT_OF_RIDE,
-                          mistakes_amount=AMOUNT_OF_MISTAKE,
-                          cars_amount=AMOUNT_OF_CARS,
-                          locations_amount=AMOUNT_OF_LOCATIONS)
-    generator.create_all_csv()
-    
-    
-# # # Id, Id_przejazdu, Data, Godzina, Miejsce, Typ,
-# # # Odchyl_od_poprawnej_wartosci
-    
-# # def generateBledyPrzejazdu():
-# #     for i in range(AMOUNT_OF_BLAD_PRZEJAZDU):
-# #         generateBladPrzejazdu(i)
-
-# # generateBledyPrzejazdu()
-# # createCsv(
-# #     road_mistakes_data,
-# #     ["Id", "Id_przejazdu", "Data", "Godzina", "Miejsce", "Typ", "Odchyl_od_poprawnej_wartosci"],
-# #     "road_mistakes.csv"
-# #     )
+    generator = Generator()
+    generator.config(start_date=T0, end_date=T1,
+                          users_amount=AMOUNT_OF_USERS_FIRST_PERIOD,
+                          rides_amount=AMOUNT_OF_RIDES_FIRST_PERIOD,
+                          mistakes_amount=AMOUNT_OF_MISTAKES_FIRST_PERIOD,
+                          cars_amount=AMOUNT_OF_CARS_FIRST_PERIOD,
+                          locations_amount=AMOUNT_OF_LOCATIONS_FIRST_PERIOD)
+    generator.generate_all(modify=False)
+    generator.create_all_csv("first")
+    generator.config(     
+                          start_date=T0, end_date=T2,
+                          users_amount=AMOUNT_OF_USERS_SECOND_PERIOD,
+                          rides_amount=AMOUNT_OF_RIDES_SECOND_PERIOD,
+                          mistakes_amount=AMOUNT_OF_MISTAKES_SECOND_PERIOD,
+                          cars_amount=AMOUNT_OF_CARS_SECOND_PERIOD,
+                          locations_amount=AMOUNT_OF_LOCATIONS_SECOND_PERIOD)
+    generator.generate_all(modify=True)
+    generator.create_all_csv("second")
   

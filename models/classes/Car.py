@@ -1,6 +1,6 @@
 import random
 import string
-from datetime import date
+from datetime import datetime
 from models.interfaces.CsvData import CsvData
 from functions import generate_random_date
 
@@ -10,6 +10,7 @@ car_brands = {
     "BMW": ["M3", "M4", "X5", "X6"],
 }
 
+#Aktualnie moga sie powtarzac
 class Car(CsvData):
     def __init__(self, t0, t2, locations_amount):
         self.t0 = t0
@@ -22,7 +23,7 @@ class Car(CsvData):
         self.production_year = random.randint(2010, 2012)
         self.last_inspection = generate_random_date(self.t0, self.t2)
         
-        self.last_rental = date(1000, 1, 1)
+        self.last_rental = datetime(1000, 1, 1)
         self.location = random.randint(1, locations_amount)
         
         
