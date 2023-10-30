@@ -75,10 +75,10 @@ class Generator:
 
     def generate_cars(self, modify=False):
         if modify:
-            for i in range(len(self.users)):
+            for i in range(len(self.cars)):
                 if random.uniform(0, 1) < 0.04:
                     print(f"[{datetime.now().strftime('%H:%M:%S')}] Modyfing car {i + 1}...")
-                    self.cars[i].last_inspection = fun.generate_random_date(self.start_date, self.end_date)
+                    self.cars[i].last_inspection = fun.generate_random_date(self.cars[i].last_inspection, self.end_date)
                     
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Generating cars...")
         while len(self.unique_cars) < self.cars_amount:
@@ -91,6 +91,12 @@ class Generator:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Cars generated!")
 
     def generate_locations(self, modify=False):
+        if modify:
+            for i in range(len(self.locations)):
+                if random.uniform(0, 1) < 0.001:
+                    print(f"[{datetime.now().strftime('%H:%M:%S')}] Modyfing location {i + 1}...")
+                    self.locations[i].street = random.choice(['Wajdeloty', 'Politechniczna', 'Uniwersytecka'])
+                    
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Generating locations...")
         current_index = len(self.locations) + 1
         while len(self.unique_locations) < self.locations_amount:
@@ -102,6 +108,12 @@ class Generator:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Locations generated!")
     
     def generate_rides(self, modify=False):
+        if modify:
+            for i in range(len(self.rides)):
+                if random.uniform(0, 1) < 0.005:
+                    print(f"[{datetime.now().strftime('%H:%M:%S')}] Modyfing ride {i + 1}...")
+                    self.rides[i].ride_price = round(self.rides[i].ride_price - (random.random() * self.rides[i].ride_price), 2)
+
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Generating rides...")
         for i in range(len(self.rides) + 1, self.rides_amount+1):
             self.rides.append(Ride(id=i, t0=self.start_date, t2=self.end_date, users=self.users, mistakes=self.mistakes, 
