@@ -1,1001 +1,1001 @@
 ID,Miasto,Dzielnica,Ulica,Numer ulicy,Kod pocztowy
-1,Wrocław,Centrum,Piłsudskiego,36B,83-398
-2,Poznań,Centrum,Sosnowa,17B,26-830
-3,Wrocław,Wschód,Mickiewicza,90C,88-226
-4,Wrocław,Południe,Grunwaldzka,20B,93-234
-5,Warszawa,Centrum,Klonowa,39B,91-192
-6,Wrocław,Zachód,Mickiewicza,4A,10-261
-7,Wrocław,Wschód,Sosnowa,65C,28-180
-8,Poznań,Południe,Piłsudskiego,5C,75-541
-9,Kraków,Północ,Mickiewicza,42B,16-459
-10,Gdynia,Stare Miasto,Miła,57A,46-437
-11,Gdynia,Północ,Pogodna,67A,82-705
-12,Gdańsk,Północ,Piłsudskiego,8A,81-823
-13,Sopot,Północ,Miła,75C,51-326
-14,Poznań,Stare Miasto,Pogodna,9B,81-271
-15,Warszawa,Południe,Grunwaldzka,10C,73-602
-16,Wrocław,Wschód,Piłsudskiego,97B,48-814
-17,Poznań,Stare Miasto,Grunwaldzka,39B,97-132
-18,Warszawa,Południe,Grunwaldzka,28C,77-621
-19,Sopot,Zachód,Grunwaldzka,51A,82-514
-20,Gdynia,Centrum,Grunwaldzka,19C,51-409
-21,Wrocław,Centrum,Mickiewicza,73B,23-358
-22,Gdynia,Wschód,Klonowa,7A,78-515
-23,Sopot,Stare Miasto,Klonowa,78A,23-873
-24,Sopot,Stare Miasto,Grunwaldzka,14A,25-419
-25,Sopot,Północ,Miła,43C,62-600
-26,Wrocław,Północ,Piłsudskiego,94A,31-525
-27,Poznań,Zachód,Klonowa,46C,26-249
-28,Gdynia,Południe,Piłsudskiego,50C,23-499
-29,Warszawa,Wschód,Miła,22C,57-625
-30,Poznań,Południe,Miła,10C,66-362
-31,Poznań,Południe,Pogodna,92C,83-422
-32,Warszawa,Wschód,Piłsudskiego,42B,45-527
-33,Gdynia,Stare Miasto,Klonowa,7C,44-300
-34,Gdynia,Stare Miasto,Mickiewicza,35A,15-506
-35,Poznań,Centrum,Mickiewicza,92A,27-392
-36,Poznań,Wschód,Pogodna,19C,77-178
-37,Kraków,Południe,Sosnowa,6B,77-485
-38,Warszawa,Wschód,Klonowa,44B,84-234
-39,Poznań,Stare Miasto,Sosnowa,18C,24-729
-40,Gdynia,Stare Miasto,Mickiewicza,33B,92-517
-41,Gdynia,Zachód,Miła,19C,53-830
-42,Gdynia,Północ,Klonowa,65B,17-267
-43,Kraków,Południe,Grunwaldzka,15A,45-601
-44,Gdańsk,Południe,Grunwaldzka,64C,83-396
-45,Gdynia,Centrum,Klonowa,37B,80-495
-46,Kraków,Zachód,Grunwaldzka,34A,24-267
-47,Sopot,Wschód,Piłsudskiego,83B,74-344
-48,Kraków,Zachód,Grunwaldzka,98A,69-763
-49,Wrocław,Wschód,Pogodna,62C,60-622
-50,Sopot,Stare Miasto,Piłsudskiego,31C,25-475
-51,Poznań,Centrum,Mickiewicza,62A,39-855
-52,Gdynia,Centrum,Sosnowa,13C,67-446
-53,Gdańsk,Południe,Klonowa,82C,63-316
-54,Wrocław,Centrum,Mickiewicza,53A,96-230
-55,Wrocław,Zachód,Pogodna,65C,27-192
-56,Kraków,Południe,Miła,38A,34-868
-57,Gdynia,Północ,Grunwaldzka,26B,29-943
-58,Kraków,Stare Miasto,Mickiewicza,26C,30-981
-59,Gdańsk,Stare Miasto,Pogodna,97B,63-323
-60,Gdańsk,Stare Miasto,Klonowa,10C,72-713
-61,Sopot,Południe,Sosnowa,53A,32-754
-62,Kraków,Wschód,Klonowa,5B,71-819
-63,Warszawa,Wschód,Sosnowa,65B,40-264
-64,Sopot,Wschód,Grunwaldzka,48A,26-847
-65,Sopot,Stare Miasto,Sosnowa,18A,27-675
-66,Wrocław,Północ,Mickiewicza,13B,37-386
-67,Gdynia,Zachód,Pogodna,24B,55-559
-68,Sopot,Stare Miasto,Sosnowa,35C,86-425
-69,Gdynia,Południe,Piłsudskiego,34B,86-241
-70,Gdynia,Wschód,Miła,70A,17-317
-71,Poznań,Stare Miasto,Piłsudskiego,88B,76-786
-72,Wrocław,Centrum,Sosnowa,37A,28-232
-73,Warszawa,Stare Miasto,Klonowa,44B,39-721
-74,Warszawa,Wschód,Sosnowa,73A,96-220
-75,Wrocław,Północ,Sosnowa,86C,41-761
-76,Wrocław,Stare Miasto,Sosnowa,70B,83-345
-77,Gdynia,Zachód,Klonowa,23B,95-882
-78,Wrocław,Zachód,Pogodna,53C,25-977
-79,Sopot,Zachód,Pogodna,92A,39-750
-80,Poznań,Zachód,Pogodna,32A,86-573
-81,Kraków,Północ,Pogodna,17B,72-129
-82,Kraków,Północ,Sosnowa,2C,36-133
-83,Kraków,Północ,Sosnowa,69A,40-728
-84,Poznań,Stare Miasto,Sosnowa,47B,83-949
-85,Wrocław,Północ,Piłsudskiego,16C,24-963
-86,Poznań,Zachód,Mickiewicza,51C,12-668
-87,Wrocław,Północ,Klonowa,38A,74-916
-88,Kraków,Północ,Grunwaldzka,2C,64-834
-89,Sopot,Południe,Sosnowa,35A,76-457
-90,Wrocław,Północ,Sosnowa,51B,42-334
-91,Wrocław,Wschód,Sosnowa,76B,49-248
-92,Sopot,Centrum,Piłsudskiego,82A,70-262
-93,Sopot,Zachód,Klonowa,15B,55-156
-94,Gdynia,Stare Miasto,Sosnowa,41A,66-123
-95,Gdynia,Stare Miasto,Miła,26A,40-154
-96,Sopot,Północ,Grunwaldzka,25B,63-448
-97,Gdańsk,Północ,Klonowa,47C,20-725
-98,Gdańsk,Południe,Pogodna,46B,85-302
-99,Sopot,Stare Miasto,Sosnowa,6C,24-292
-100,Gdynia,Zachód,Piłsudskiego,85A,58-752
-101,Kraków,Południe,Pogodna,93A,83-414
-102,Gdańsk,Północ,Miła,74C,52-625
-103,Sopot,Południe,Miła,45B,55-824
-104,Warszawa,Południe,Grunwaldzka,10A,16-271
-105,Gdynia,Wschód,Pogodna,70B,85-264
-106,Gdynia,Wschód,Sosnowa,68C,61-536
-107,Gdańsk,Stare Miasto,Miła,82B,28-516
-108,Kraków,Wschód,Klonowa,57A,85-524
-109,Wrocław,Wschód,Piłsudskiego,47C,64-705
-110,Poznań,Zachód,Miła,47B,57-913
-111,Gdańsk,Stare Miasto,Grunwaldzka,65C,83-538
-112,Gdańsk,Północ,Klonowa,22C,99-744
-113,Poznań,Wschód,Mickiewicza,90A,65-995
-114,Warszawa,Południe,Pogodna,53A,91-992
-115,Gdynia,Centrum,Grunwaldzka,9A,47-924
-116,Gdynia,Wschód,Klonowa,79A,84-180
-117,Kraków,Zachód,Piłsudskiego,83B,96-134
-118,Gdynia,Stare Miasto,Grunwaldzka,7B,78-977
-119,Warszawa,Stare Miasto,Mickiewicza,5A,26-348
-120,Kraków,Północ,Miła,30C,10-160
-121,Poznań,Zachód,Grunwaldzka,89C,19-564
-122,Warszawa,Południe,Sosnowa,61B,26-150
-123,Sopot,Zachód,Pogodna,61C,84-779
-124,Gdynia,Południe,Grunwaldzka,76A,45-360
-125,Warszawa,Zachód,Grunwaldzka,13C,31-638
-126,Sopot,Północ,Sosnowa,50C,77-423
-127,Gdynia,Centrum,Piłsudskiego,76C,51-365
-128,Wrocław,Wschód,Grunwaldzka,10A,38-659
-129,Sopot,Wschód,Grunwaldzka,42B,28-255
-130,Wrocław,Zachód,Miła,87A,42-514
-131,Poznań,Zachód,Grunwaldzka,19A,60-720
-132,Sopot,Wschód,Miła,67C,95-872
-133,Kraków,Centrum,Piłsudskiego,45B,59-126
-134,Gdańsk,Stare Miasto,Pogodna,82C,77-746
-135,Sopot,Centrum,Miła,76B,46-518
-136,Poznań,Centrum,Miła,85C,87-130
-137,Kraków,Centrum,Grunwaldzka,6B,98-865
-138,Poznań,Zachód,Mickiewicza,35B,44-870
-139,Gdańsk,Wschód,Pogodna,17C,82-913
-140,Sopot,Stare Miasto,Klonowa,15A,99-823
-141,Wrocław,Centrum,Miła,73A,34-164
-142,Poznań,Wschód,Pogodna,56C,79-470
-143,Gdańsk,Zachód,Klonowa,71B,56-226
-144,Poznań,Północ,Sosnowa,99A,17-964
-145,Kraków,Wschód,Piłsudskiego,42C,37-344
-146,Poznań,Wschód,Grunwaldzka,51A,72-312
-147,Sopot,Zachód,Mickiewicza,5C,64-993
-148,Gdynia,Północ,Mickiewicza,87C,84-414
-149,Gdańsk,Północ,Grunwaldzka,71B,66-826
-150,Warszawa,Północ,Miła,42B,38-464
-151,Poznań,Południe,Mickiewicza,16C,82-422
-152,Gdynia,Północ,Piłsudskiego,21A,32-999
-153,Gdynia,Wschód,Klonowa,21A,28-560
-154,Kraków,Centrum,Mickiewicza,97A,69-747
-155,Warszawa,Zachód,Klonowa,21C,25-730
-156,Poznań,Centrum,Sosnowa,43B,14-494
-157,Wrocław,Północ,Grunwaldzka,37A,63-325
-158,Warszawa,Południe,Miła,86C,35-967
-159,Wrocław,Południe,Sosnowa,11C,82-197
-160,Gdańsk,Południe,Sosnowa,14C,34-732
-161,Gdynia,Północ,Grunwaldzka,32A,88-889
-162,Gdańsk,Zachód,Grunwaldzka,60B,92-961
-163,Warszawa,Północ,Mickiewicza,52B,67-713
-164,Gdańsk,Południe,Klonowa,99C,70-426
-165,Gdańsk,Zachód,Klonowa,72A,41-818
-166,Gdańsk,Północ,Grunwaldzka,68A,18-110
-167,Warszawa,Zachód,Mickiewicza,55B,67-278
-168,Sopot,Północ,Miła,36A,45-949
-169,Sopot,Stare Miasto,Mickiewicza,26C,55-697
-170,Wrocław,Północ,Grunwaldzka,46C,15-917
-171,Poznań,Centrum,Mickiewicza,9C,34-544
-172,Sopot,Zachód,Piłsudskiego,55C,20-207
-173,Wrocław,Północ,Klonowa,11C,26-699
-174,Kraków,Centrum,Sosnowa,6B,19-569
-175,Gdynia,Wschód,Pogodna,20A,17-208
-176,Gdańsk,Wschód,Sosnowa,19C,13-514
-177,Poznań,Centrum,Mickiewicza,54B,24-492
-178,Kraków,Północ,Klonowa,37B,98-612
-179,Kraków,Zachód,Miła,36A,59-627
-180,Gdańsk,Stare Miasto,Grunwaldzka,54A,52-452
-181,Wrocław,Zachód,Klonowa,69C,94-810
-182,Sopot,Stare Miasto,Sosnowa,34B,50-585
-183,Poznań,Centrum,Mickiewicza,99B,36-250
-184,Sopot,Południe,Pogodna,15A,35-685
-185,Gdańsk,Południe,Sosnowa,86A,26-130
-186,Gdynia,Wschód,Pogodna,95A,17-906
-187,Kraków,Centrum,Pogodna,98A,38-938
-188,Gdańsk,Południe,Piłsudskiego,15B,22-251
-189,Kraków,Zachód,Mickiewicza,19C,47-780
-190,Wrocław,Północ,Klonowa,72A,32-355
-191,Gdynia,Zachód,Piłsudskiego,49A,70-374
-192,Gdynia,Centrum,Pogodna,52C,53-176
-193,Sopot,Centrum,Mickiewicza,70B,72-541
-194,Gdańsk,Stare Miasto,Grunwaldzka,7A,18-444
-195,Poznań,Centrum,Klonowa,82C,65-819
-196,Sopot,Północ,Miła,4C,98-621
-197,Warszawa,Centrum,Sosnowa,86C,72-635
-198,Warszawa,Centrum,Klonowa,42B,53-222
-199,Kraków,Południe,Miła,49B,93-882
-200,Poznań,Wschód,Sosnowa,10A,30-935
-201,Gdynia,Południe,Klonowa,8B,35-189
-202,Kraków,Wschód,Piłsudskiego,25B,47-460
-203,Poznań,Wschód,Miła,81C,60-181
-204,Kraków,Centrum,Grunwaldzka,4C,67-275
-205,Gdańsk,Północ,Piłsudskiego,88B,94-121
-206,Sopot,Stare Miasto,Pogodna,43B,45-597
-207,Warszawa,Wschód,Miła,4A,28-470
-208,Gdynia,Wschód,Klonowa,68A,72-889
-209,Warszawa,Południe,Sosnowa,51A,23-346
-210,Gdańsk,Centrum,Klonowa,12A,16-696
-211,Gdańsk,Centrum,Miła,19B,37-528
-212,Gdańsk,Wschód,Mickiewicza,34A,59-118
-213,Poznań,Południe,Klonowa,4B,39-430
-214,Sopot,Stare Miasto,Piłsudskiego,71C,74-875
-215,Wrocław,Północ,Klonowa,28C,33-102
-216,Kraków,Północ,Mickiewicza,40C,58-889
-217,Poznań,Stare Miasto,Piłsudskiego,79C,55-193
-218,Poznań,Wschód,Mickiewicza,64B,25-147
-219,Gdynia,Zachód,Miła,73B,82-898
-220,Wrocław,Centrum,Grunwaldzka,93A,92-934
-221,Sopot,Wschód,Sosnowa,40C,46-547
-222,Wrocław,Stare Miasto,Grunwaldzka,29A,51-828
-223,Kraków,Stare Miasto,Piłsudskiego,90C,90-290
-224,Gdynia,Południe,Grunwaldzka,41C,78-949
-225,Poznań,Południe,Mickiewicza,19A,27-639
-226,Gdańsk,Wschód,Piłsudskiego,27C,96-321
-227,Sopot,Stare Miasto,Miła,51B,23-835
-228,Sopot,Północ,Piłsudskiego,6B,28-208
-229,Wrocław,Północ,Piłsudskiego,9C,49-688
-230,Kraków,Zachód,Piłsudskiego,86B,24-933
-231,Sopot,Wschód,Sosnowa,7B,31-966
-232,Wrocław,Południe,Pogodna,33B,45-258
-233,Sopot,Centrum,Mickiewicza,82A,52-679
-234,Warszawa,Wschód,Grunwaldzka,29B,11-320
-235,Poznań,Centrum,Miła,8C,94-703
-236,Gdynia,Zachód,Pogodna,35C,64-540
-237,Poznań,Centrum,Grunwaldzka,53C,10-940
-238,Wrocław,Stare Miasto,Pogodna,64C,52-665
-239,Kraków,Stare Miasto,Klonowa,62B,72-434
-240,Gdańsk,Północ,Mickiewicza,76B,72-699
-241,Wrocław,Północ,Pogodna,40A,59-552
-242,Poznań,Zachód,Miła,44B,82-954
-243,Poznań,Wschód,Klonowa,39B,64-402
-244,Poznań,Zachód,Miła,71A,61-130
-245,Kraków,Stare Miasto,Miła,17B,61-379
-246,Kraków,Południe,Grunwaldzka,48B,42-385
-247,Gdańsk,Centrum,Grunwaldzka,55A,38-332
-248,Poznań,Południe,Miła,60C,74-492
-249,Poznań,Zachód,Grunwaldzka,17A,19-650
-250,Wrocław,Północ,Piłsudskiego,96A,46-807
-251,Warszawa,Wschód,Klonowa,80C,24-489
-252,Gdańsk,Północ,Klonowa,37B,80-865
-253,Sopot,Wschód,Klonowa,82B,21-474
-254,Sopot,Zachód,Klonowa,84A,84-782
-255,Kraków,Stare Miasto,Mickiewicza,86C,96-629
-256,Warszawa,Stare Miasto,Klonowa,7C,63-448
-257,Wrocław,Wschód,Sosnowa,7A,41-216
-258,Gdańsk,Zachód,Miła,13B,75-366
-259,Poznań,Południe,Mickiewicza,59A,32-893
-260,Kraków,Południe,Sosnowa,11C,54-391
-261,Gdańsk,Południe,Pogodna,90A,21-638
-262,Sopot,Wschód,Klonowa,16B,23-187
-263,Sopot,Stare Miasto,Piłsudskiego,8A,34-190
-264,Poznań,Stare Miasto,Sosnowa,19C,60-602
-265,Wrocław,Stare Miasto,Piłsudskiego,23A,72-450
-266,Wrocław,Stare Miasto,Piłsudskiego,4B,22-169
-267,Poznań,Północ,Miła,11C,29-182
-268,Gdańsk,Centrum,Piłsudskiego,69C,80-787
-269,Sopot,Południe,Mickiewicza,90B,56-756
-270,Poznań,Zachód,Pogodna,79C,40-834
-271,Wrocław,Zachód,Miła,7C,55-680
-272,Poznań,Zachód,Grunwaldzka,64C,67-402
-273,Warszawa,Wschód,Klonowa,57C,66-587
-274,Gdynia,Południe,Mickiewicza,31A,62-788
-275,Warszawa,Zachód,Sosnowa,97A,21-638
-276,Wrocław,Wschód,Miła,31A,65-672
-277,Wrocław,Północ,Piłsudskiego,22A,16-913
-278,Gdańsk,Centrum,Pogodna,3A,16-421
-279,Warszawa,Zachód,Sosnowa,81C,95-675
-280,Warszawa,Północ,Grunwaldzka,67C,74-991
-281,Poznań,Wschód,Grunwaldzka,95C,22-793
-282,Warszawa,Południe,Sosnowa,68B,26-265
-283,Kraków,Północ,Klonowa,88A,23-288
-284,Gdynia,Wschód,Klonowa,88C,68-973
-285,Poznań,Stare Miasto,Piłsudskiego,95A,56-531
-286,Poznań,Centrum,Piłsudskiego,19A,80-401
-287,Warszawa,Wschód,Pogodna,40A,35-788
-288,Gdynia,Wschód,Piłsudskiego,23A,19-795
-289,Gdynia,Południe,Pogodna,67C,90-776
-290,Kraków,Południe,Klonowa,25C,29-670
-291,Kraków,Południe,Miła,4A,69-527
-292,Wrocław,Stare Miasto,Klonowa,12C,33-952
-293,Warszawa,Zachód,Mickiewicza,60C,38-292
-294,Kraków,Wschód,Sosnowa,31C,69-239
-295,Sopot,Stare Miasto,Grunwaldzka,21C,39-983
-296,Sopot,Wschód,Sosnowa,90C,79-919
-297,Gdynia,Zachód,Piłsudskiego,37A,44-944
-298,Wrocław,Stare Miasto,Miła,87B,40-153
-299,Poznań,Południe,Pogodna,84B,74-775
-300,Sopot,Wschód,Pogodna,4B,11-690
-301,Wrocław,Centrum,Klonowa,21A,23-730
-302,Wrocław,Stare Miasto,Pogodna,100C,70-701
-303,Warszawa,Stare Miasto,Pogodna,56B,30-608
-304,Sopot,Wschód,Mickiewicza,31A,52-294
-305,Sopot,Północ,Piłsudskiego,62C,50-429
-306,Warszawa,Centrum,Miła,32B,53-813
-307,Kraków,Północ,Piłsudskiego,26A,27-396
-308,Wrocław,Zachód,Miła,50A,35-357
-309,Wrocław,Stare Miasto,Grunwaldzka,2C,56-536
-310,Sopot,Zachód,Pogodna,77C,46-226
-311,Wrocław,Stare Miasto,Mickiewicza,66A,65-424
-312,Poznań,Centrum,Miła,58C,80-440
-313,Gdynia,Stare Miasto,Mickiewicza,59B,23-177
-314,Gdynia,Wschód,Pogodna,36C,37-665
-315,Wrocław,Zachód,Sosnowa,74B,90-535
-316,Wrocław,Stare Miasto,Grunwaldzka,21B,64-625
-317,Gdynia,Północ,Klonowa,3C,57-768
-318,Gdańsk,Zachód,Pogodna,15B,59-733
-319,Gdynia,Północ,Pogodna,24C,42-864
-320,Kraków,Stare Miasto,Pogodna,17B,46-788
-321,Kraków,Centrum,Sosnowa,33B,23-301
-322,Gdynia,Południe,Klonowa,87B,20-675
-323,Sopot,Centrum,Grunwaldzka,96B,17-240
-324,Sopot,Wschód,Sosnowa,29C,82-545
-325,Wrocław,Centrum,Pogodna,12C,55-815
-326,Kraków,Północ,Miła,96C,65-928
-327,Kraków,Stare Miasto,Piłsudskiego,3C,17-464
-328,Poznań,Południe,Sosnowa,3A,68-947
-329,Gdańsk,Zachód,Grunwaldzka,85B,81-549
-330,Wrocław,Południe,Grunwaldzka,55A,50-767
-331,Poznań,Wschód,Klonowa,40A,96-504
-332,Gdynia,Wschód,Piłsudskiego,58B,14-567
-333,Wrocław,Północ,Grunwaldzka,65A,26-308
-334,Gdańsk,Wschód,Sosnowa,2A,23-876
-335,Kraków,Zachód,Piłsudskiego,21A,85-475
-336,Gdynia,Stare Miasto,Miła,59C,97-648
-337,Wrocław,Centrum,Pogodna,24B,85-734
-338,Gdańsk,Centrum,Sosnowa,31B,21-232
-339,Gdynia,Północ,Miła,94C,86-998
-340,Sopot,Północ,Klonowa,5B,66-117
-341,Gdańsk,Zachód,Mickiewicza,38A,54-643
-342,Warszawa,Południe,Grunwaldzka,84A,57-806
-343,Sopot,Centrum,Pogodna,57B,62-887
-344,Kraków,Zachód,Pogodna,58B,73-420
-345,Gdańsk,Południe,Piłsudskiego,82C,69-996
-346,Sopot,Centrum,Miła,70C,26-850
-347,Poznań,Zachód,Mickiewicza,65A,85-544
-348,Gdynia,Stare Miasto,Klonowa,53C,67-816
-349,Wrocław,Stare Miasto,Pogodna,61C,99-243
-350,Gdynia,Wschód,Grunwaldzka,39C,62-121
-351,Warszawa,Zachód,Miła,87B,65-161
-352,Gdynia,Zachód,Sosnowa,12A,57-465
-353,Sopot,Południe,Klonowa,100C,15-167
-354,Wrocław,Południe,Miła,54C,70-262
-355,Gdynia,Stare Miasto,Piłsudskiego,44A,39-527
-356,Gdynia,Centrum,Mickiewicza,57A,65-386
-357,Gdańsk,Wschód,Klonowa,82B,29-902
-358,Warszawa,Północ,Piłsudskiego,43B,47-803
-359,Poznań,Zachód,Mickiewicza,58B,64-394
-360,Gdynia,Stare Miasto,Klonowa,59C,55-277
-361,Sopot,Północ,Sosnowa,11B,33-169
-362,Kraków,Wschód,Grunwaldzka,64A,88-911
-363,Kraków,Centrum,Piłsudskiego,2C,38-270
-364,Warszawa,Centrum,Mickiewicza,55A,42-419
-365,Gdynia,Stare Miasto,Miła,83C,27-426
-366,Sopot,Północ,Piłsudskiego,11C,89-599
-367,Poznań,Wschód,Miła,6C,44-903
-368,Warszawa,Zachód,Grunwaldzka,80B,77-859
-369,Sopot,Wschód,Sosnowa,53A,33-986
-370,Gdynia,Północ,Sosnowa,85A,53-759
-371,Gdynia,Zachód,Klonowa,37B,74-609
-372,Gdańsk,Północ,Miła,48C,89-625
-373,Wrocław,Stare Miasto,Grunwaldzka,16B,73-712
-374,Gdynia,Stare Miasto,Miła,39B,27-784
-375,Poznań,Centrum,Pogodna,35A,50-861
-376,Kraków,Południe,Piłsudskiego,74C,90-200
-377,Sopot,Wschód,Sosnowa,77B,66-485
-378,Wrocław,Południe,Mickiewicza,72B,36-892
-379,Gdynia,Stare Miasto,Miła,58C,64-423
-380,Kraków,Zachód,Pogodna,44C,41-290
-381,Kraków,Południe,Grunwaldzka,79C,49-319
-382,Warszawa,Wschód,Klonowa,91A,39-896
-383,Sopot,Południe,Mickiewicza,78C,33-915
-384,Kraków,Centrum,Pogodna,13C,53-784
-385,Gdynia,Południe,Klonowa,1B,45-751
-386,Wrocław,Północ,Mickiewicza,58A,55-375
-387,Gdynia,Zachód,Grunwaldzka,32C,84-874
-388,Warszawa,Północ,Mickiewicza,29A,75-894
-389,Gdańsk,Zachód,Mickiewicza,62C,51-183
-390,Wrocław,Południe,Sosnowa,74C,43-869
-391,Gdynia,Wschód,Mickiewicza,60A,30-704
-392,Sopot,Wschód,Sosnowa,18B,40-424
-393,Poznań,Północ,Sosnowa,31B,82-696
-394,Poznań,Centrum,Pogodna,86A,42-110
-395,Gdańsk,Wschód,Pogodna,79B,23-415
-396,Gdynia,Wschód,Sosnowa,40C,75-886
-397,Wrocław,Zachód,Miła,49B,45-460
-398,Wrocław,Centrum,Miła,71A,45-250
-399,Gdańsk,Północ,Grunwaldzka,28A,80-500
-400,Warszawa,Stare Miasto,Pogodna,79A,18-601
-401,Sopot,Stare Miasto,Pogodna,67C,72-178
-402,Gdynia,Centrum,Pogodna,18B,35-636
-403,Kraków,Centrum,Piłsudskiego,89C,19-595
-404,Gdańsk,Północ,Pogodna,23B,52-158
-405,Poznań,Wschód,Pogodna,3B,80-190
-406,Poznań,Wschód,Piłsudskiego,81C,17-796
-407,Warszawa,Wschód,Grunwaldzka,27C,14-141
-408,Wrocław,Wschód,Mickiewicza,18A,55-359
-409,Gdańsk,Północ,Sosnowa,35B,96-784
-410,Wrocław,Północ,Klonowa,73A,52-964
-411,Gdynia,Zachód,Grunwaldzka,48B,98-920
-412,Wrocław,Centrum,Pogodna,20C,28-777
-413,Gdynia,Północ,Sosnowa,85C,50-756
-414,Gdańsk,Południe,Sosnowa,55A,14-686
-415,Kraków,Północ,Pogodna,29B,96-218
-416,Gdynia,Stare Miasto,Klonowa,85A,66-765
-417,Wrocław,Stare Miasto,Miła,65B,80-402
-418,Warszawa,Południe,Mickiewicza,6C,78-501
-419,Warszawa,Południe,Grunwaldzka,5A,95-303
-420,Wrocław,Wschód,Klonowa,98C,48-123
-421,Gdańsk,Wschód,Sosnowa,19A,66-304
-422,Warszawa,Centrum,Miła,7B,94-133
-423,Wrocław,Centrum,Pogodna,47A,45-173
-424,Kraków,Południe,Piłsudskiego,9C,59-547
-425,Gdynia,Zachód,Pogodna,93C,36-944
-426,Sopot,Północ,Piłsudskiego,31A,73-553
-427,Wrocław,Centrum,Grunwaldzka,37B,93-909
-428,Gdańsk,Zachód,Grunwaldzka,39B,60-517
-429,Kraków,Stare Miasto,Grunwaldzka,91C,59-915
-430,Warszawa,Stare Miasto,Klonowa,25A,10-810
-431,Warszawa,Wschód,Miła,54B,66-899
-432,Gdynia,Północ,Pogodna,34A,18-603
-433,Sopot,Zachód,Sosnowa,67B,53-698
-434,Wrocław,Północ,Grunwaldzka,38C,74-874
-435,Warszawa,Południe,Klonowa,88C,91-356
-436,Wrocław,Zachód,Mickiewicza,17B,40-584
-437,Poznań,Stare Miasto,Sosnowa,85B,72-481
-438,Poznań,Północ,Mickiewicza,84A,85-399
-439,Sopot,Południe,Pogodna,21A,50-850
-440,Warszawa,Południe,Klonowa,75A,91-676
-441,Wrocław,Centrum,Grunwaldzka,1B,18-927
-442,Gdynia,Stare Miasto,Sosnowa,4B,56-922
-443,Wrocław,Północ,Grunwaldzka,17B,50-565
-444,Wrocław,Wschód,Mickiewicza,36A,16-923
-445,Gdynia,Wschód,Pogodna,13B,33-367
-446,Poznań,Stare Miasto,Mickiewicza,83B,72-580
-447,Gdańsk,Północ,Klonowa,39B,66-259
-448,Kraków,Centrum,Mickiewicza,69A,81-404
-449,Gdańsk,Wschód,Pogodna,63C,45-378
-450,Wrocław,Zachód,Mickiewicza,64B,83-594
-451,Gdynia,Zachód,Miła,69A,33-943
-452,Gdynia,Północ,Sosnowa,3C,39-162
-453,Wrocław,Północ,Mickiewicza,42B,17-805
-454,Gdynia,Stare Miasto,Sosnowa,53B,89-568
-455,Gdańsk,Wschód,Piłsudskiego,87B,53-285
-456,Poznań,Centrum,Grunwaldzka,19C,60-483
-457,Warszawa,Południe,Piłsudskiego,88A,48-957
-458,Sopot,Zachód,Pogodna,12B,20-866
-459,Poznań,Wschód,Miła,8A,58-891
-460,Wrocław,Stare Miasto,Sosnowa,59B,55-862
-461,Wrocław,Południe,Grunwaldzka,12C,29-736
-462,Gdańsk,Stare Miasto,Sosnowa,85A,43-413
-463,Gdańsk,Zachód,Mickiewicza,21A,57-718
-464,Poznań,Stare Miasto,Miła,51A,39-855
-465,Gdynia,Wschód,Sosnowa,27C,69-738
-466,Warszawa,Stare Miasto,Miła,67C,61-993
-467,Gdynia,Centrum,Mickiewicza,12C,40-104
-468,Wrocław,Zachód,Pogodna,82C,22-673
-469,Poznań,Południe,Pogodna,49B,50-715
-470,Gdynia,Centrum,Klonowa,67C,69-381
-471,Poznań,Wschód,Mickiewicza,23C,50-115
-472,Poznań,Północ,Mickiewicza,29B,58-513
-473,Sopot,Stare Miasto,Piłsudskiego,8C,41-262
-474,Sopot,Północ,Piłsudskiego,37C,54-602
-475,Poznań,Południe,Miła,69B,43-341
-476,Sopot,Południe,Piłsudskiego,50C,72-736
-477,Gdańsk,Centrum,Mickiewicza,47C,75-193
-478,Warszawa,Wschód,Miła,61A,12-950
-479,Gdańsk,Wschód,Klonowa,81B,67-742
-480,Wrocław,Wschód,Miła,33B,93-939
-481,Sopot,Stare Miasto,Mickiewicza,14C,69-248
-482,Wrocław,Wschód,Sosnowa,84C,27-344
-483,Gdańsk,Północ,Sosnowa,4C,43-874
-484,Gdańsk,Stare Miasto,Pogodna,20A,38-855
-485,Gdynia,Południe,Mickiewicza,30C,84-278
-486,Gdynia,Zachód,Pogodna,67A,13-204
-487,Gdynia,Północ,Sosnowa,84A,57-727
-488,Kraków,Centrum,Mickiewicza,83A,17-322
-489,Sopot,Centrum,Grunwaldzka,47A,18-547
-490,Wrocław,Południe,Sosnowa,38A,20-690
-491,Wrocław,Zachód,Klonowa,98B,78-194
-492,Gdynia,Południe,Miła,39A,19-247
-493,Gdynia,Wschód,Klonowa,15A,20-324
-494,Sopot,Stare Miasto,Grunwaldzka,73B,99-739
-495,Warszawa,Wschód,Sosnowa,12C,41-606
-496,Kraków,Południe,Miła,90C,66-642
-497,Sopot,Zachód,Miła,61B,87-425
-498,Warszawa,Centrum,Klonowa,20B,43-190
-499,Gdynia,Południe,Sosnowa,82C,96-169
-500,Sopot,Centrum,Klonowa,5C,32-957
-501,Poznań,Południe,Grunwaldzka,37B,57-581
-502,Warszawa,Północ,Piłsudskiego,91B,68-592
-503,Gdańsk,Centrum,Mickiewicza,44C,81-648
-504,Kraków,Zachód,Pogodna,37B,17-702
-505,Gdynia,Północ,Miła,95A,52-582
-506,Poznań,Centrum,Grunwaldzka,31C,14-255
-507,Warszawa,Wschód,Piłsudskiego,44C,38-651
-508,Poznań,Południe,Klonowa,80B,40-283
-509,Poznań,Wschód,Grunwaldzka,84A,33-956
-510,Wrocław,Południe,Klonowa,66B,53-728
-511,Gdynia,Południe,Grunwaldzka,37B,75-717
-512,Wrocław,Centrum,Piłsudskiego,65C,48-147
-513,Gdynia,Stare Miasto,Miła,25C,42-669
-514,Poznań,Południe,Mickiewicza,66B,27-423
-515,Wrocław,Stare Miasto,Sosnowa,76C,66-705
-516,Sopot,Wschód,Pogodna,90B,25-148
-517,Gdynia,Zachód,Grunwaldzka,79B,29-634
-518,Sopot,Wschód,Piłsudskiego,12B,18-110
-519,Warszawa,Północ,Pogodna,74C,74-440
-520,Kraków,Wschód,Sosnowa,79B,27-757
-521,Sopot,Zachód,Grunwaldzka,65C,93-102
-522,Kraków,Zachód,Pogodna,42C,71-992
-523,Poznań,Wschód,Klonowa,32B,25-369
-524,Poznań,Południe,Pogodna,74B,49-303
-525,Gdynia,Wschód,Sosnowa,5A,35-696
-526,Warszawa,Stare Miasto,Miła,67A,72-326
-527,Gdańsk,Zachód,Mickiewicza,89B,84-730
-528,Gdańsk,Południe,Pogodna,87C,71-490
-529,Warszawa,Południe,Mickiewicza,31C,25-682
-530,Wrocław,Centrum,Klonowa,85A,94-630
-531,Kraków,Południe,Mickiewicza,61B,39-842
-532,Gdańsk,Północ,Piłsudskiego,11A,74-244
-533,Wrocław,Wschód,Klonowa,18C,89-694
-534,Gdynia,Północ,Grunwaldzka,89B,13-198
-535,Wrocław,Zachód,Klonowa,21B,70-516
-536,Wrocław,Centrum,Sosnowa,13C,26-394
-537,Poznań,Północ,Grunwaldzka,27B,11-916
-538,Wrocław,Centrum,Miła,61B,90-730
-539,Warszawa,Stare Miasto,Klonowa,87B,20-834
-540,Sopot,Wschód,Klonowa,32C,96-603
-541,Sopot,Zachód,Mickiewicza,41A,18-875
-542,Gdynia,Zachód,Miła,45A,79-126
-543,Sopot,Północ,Klonowa,38A,57-390
-544,Gdańsk,Stare Miasto,Mickiewicza,91B,24-784
-545,Kraków,Południe,Pogodna,31C,20-413
-546,Wrocław,Centrum,Klonowa,93B,35-209
-547,Gdynia,Centrum,Grunwaldzka,64C,48-121
-548,Warszawa,Centrum,Grunwaldzka,11C,64-460
-549,Sopot,Wschód,Mickiewicza,2B,44-758
-550,Poznań,Stare Miasto,Sosnowa,50A,97-944
-551,Wrocław,Zachód,Klonowa,14B,81-214
-552,Sopot,Centrum,Klonowa,51A,28-257
-553,Kraków,Centrum,Klonowa,25A,36-378
-554,Gdynia,Południe,Klonowa,27A,95-984
-555,Sopot,Stare Miasto,Pogodna,58C,56-543
-556,Poznań,Zachód,Sosnowa,95A,33-483
-557,Gdańsk,Centrum,Mickiewicza,90B,80-977
-558,Kraków,Wschód,Pogodna,18C,88-400
-559,Poznań,Południe,Mickiewicza,27B,46-880
-560,Gdańsk,Zachód,Klonowa,19A,82-515
-561,Poznań,Zachód,Klonowa,4C,96-156
-562,Warszawa,Stare Miasto,Klonowa,2A,62-607
-563,Sopot,Stare Miasto,Miła,63C,22-166
-564,Sopot,Północ,Sosnowa,79C,49-554
-565,Gdańsk,Stare Miasto,Mickiewicza,29C,57-420
-566,Sopot,Północ,Grunwaldzka,28A,37-687
-567,Gdynia,Południe,Piłsudskiego,96C,81-656
-568,Poznań,Wschód,Sosnowa,51C,53-465
-569,Wrocław,Północ,Miła,98C,95-133
-570,Gdańsk,Stare Miasto,Piłsudskiego,23C,78-182
-571,Gdynia,Południe,Klonowa,65B,45-706
-572,Gdynia,Południe,Sosnowa,6A,40-414
-573,Gdańsk,Północ,Miła,25B,58-939
-574,Gdańsk,Stare Miasto,Miła,34C,21-305
-575,Kraków,Południe,Piłsudskiego,90C,43-191
-576,Sopot,Północ,Sosnowa,43A,12-364
-577,Warszawa,Północ,Sosnowa,29B,23-883
-578,Poznań,Wschód,Sosnowa,17A,88-703
-579,Poznań,Wschód,Pogodna,40C,99-146
-580,Poznań,Zachód,Piłsudskiego,96C,87-133
-581,Gdynia,Stare Miasto,Grunwaldzka,65C,53-367
-582,Poznań,Centrum,Sosnowa,32B,38-223
-583,Kraków,Północ,Miła,87B,58-782
-584,Poznań,Południe,Grunwaldzka,11A,78-369
-585,Wrocław,Stare Miasto,Piłsudskiego,17A,49-658
-586,Wrocław,Wschód,Piłsudskiego,13C,84-193
-587,Wrocław,Centrum,Klonowa,6C,75-199
-588,Gdańsk,Południe,Pogodna,40A,15-446
-589,Gdańsk,Północ,Miła,66B,94-220
-590,Gdańsk,Wschód,Sosnowa,65B,25-594
-591,Sopot,Zachód,Sosnowa,57C,86-610
-592,Gdynia,Centrum,Klonowa,6A,58-609
-593,Kraków,Zachód,Sosnowa,39C,98-842
-594,Warszawa,Zachód,Piłsudskiego,97B,23-709
-595,Gdańsk,Centrum,Piłsudskiego,24A,96-121
-596,Gdynia,Zachód,Grunwaldzka,22C,87-716
-597,Gdańsk,Stare Miasto,Sosnowa,60C,23-368
-598,Sopot,Południe,Pogodna,8A,60-369
-599,Wrocław,Zachód,Sosnowa,34C,20-875
-600,Gdynia,Zachód,Grunwaldzka,51A,20-425
-601,Gdańsk,Zachód,Pogodna,17B,86-170
-602,Gdynia,Stare Miasto,Pogodna,46B,18-177
-603,Gdynia,Zachód,Klonowa,36B,10-493
-604,Gdańsk,Południe,Pogodna,27A,12-582
-605,Gdańsk,Zachód,Grunwaldzka,15A,29-507
-606,Gdańsk,Zachód,Mickiewicza,9B,41-680
-607,Sopot,Wschód,Pogodna,15A,53-738
-608,Sopot,Centrum,Grunwaldzka,40B,58-724
-609,Kraków,Południe,Mickiewicza,66B,78-362
-610,Kraków,Północ,Mickiewicza,48A,81-615
-611,Sopot,Północ,Klonowa,97C,54-985
-612,Gdynia,Stare Miasto,Mickiewicza,2C,59-437
-613,Kraków,Południe,Miła,41A,27-108
-614,Poznań,Południe,Piłsudskiego,39C,84-871
-615,Poznań,Północ,Klonowa,57C,65-612
-616,Gdańsk,Stare Miasto,Mickiewicza,36C,46-710
-617,Gdańsk,Centrum,Mickiewicza,96B,99-962
-618,Gdańsk,Centrum,Mickiewicza,29B,55-213
-619,Wrocław,Południe,Klonowa,7A,77-910
-620,Poznań,Wschód,Pogodna,69B,29-755
-621,Sopot,Stare Miasto,Piłsudskiego,78C,44-758
-622,Sopot,Stare Miasto,Piłsudskiego,50C,91-112
-623,Wrocław,Północ,Pogodna,42A,40-561
-624,Wrocław,Stare Miasto,Grunwaldzka,77B,88-170
-625,Gdańsk,Północ,Sosnowa,86A,13-637
-626,Kraków,Stare Miasto,Piłsudskiego,46B,34-455
-627,Poznań,Wschód,Mickiewicza,4A,76-562
-628,Wrocław,Wschód,Klonowa,45A,87-532
-629,Gdynia,Południe,Grunwaldzka,93C,83-963
-630,Gdynia,Wschód,Klonowa,57C,17-746
-631,Wrocław,Zachód,Klonowa,35B,39-787
-632,Gdańsk,Stare Miasto,Klonowa,66A,99-327
-633,Kraków,Wschód,Piłsudskiego,60C,79-433
-634,Warszawa,Zachód,Sosnowa,2A,98-159
-635,Sopot,Zachód,Miła,3B,12-289
-636,Kraków,Stare Miasto,Sosnowa,40C,45-977
-637,Sopot,Zachód,Mickiewicza,97B,88-659
-638,Gdynia,Południe,Miła,18A,34-864
-639,Wrocław,Wschód,Sosnowa,89A,45-564
-640,Gdańsk,Zachód,Klonowa,27A,29-461
-641,Sopot,Zachód,Miła,92C,93-158
-642,Warszawa,Południe,Pogodna,16B,10-339
-643,Poznań,Południe,Grunwaldzka,36A,88-285
-644,Kraków,Wschód,Klonowa,90A,58-292
-645,Poznań,Południe,Klonowa,35C,71-810
-646,Gdańsk,Zachód,Mickiewicza,56C,15-548
-647,Poznań,Stare Miasto,Klonowa,83A,16-594
-648,Wrocław,Centrum,Piłsudskiego,13A,36-330
-649,Warszawa,Stare Miasto,Sosnowa,60B,94-444
-650,Kraków,Centrum,Sosnowa,47B,82-265
-651,Kraków,Zachód,Pogodna,9C,27-219
-652,Kraków,Wschód,Miła,49C,10-876
-653,Warszawa,Wschód,Grunwaldzka,47A,46-651
-654,Wrocław,Północ,Miła,21A,62-995
-655,Gdynia,Północ,Grunwaldzka,49A,22-404
-656,Gdańsk,Wschód,Klonowa,69B,48-272
-657,Poznań,Wschód,Piłsudskiego,78C,59-272
-658,Poznań,Wschód,Mickiewicza,72C,69-366
-659,Kraków,Południe,Pogodna,71C,59-518
-660,Sopot,Zachód,Piłsudskiego,55C,65-686
-661,Warszawa,Centrum,Klonowa,44A,43-770
-662,Gdańsk,Południe,Mickiewicza,71B,66-563
-663,Sopot,Północ,Piłsudskiego,30B,84-775
-664,Gdańsk,Północ,Grunwaldzka,82A,99-237
-665,Wrocław,Zachód,Piłsudskiego,88C,36-972
-666,Poznań,Południe,Klonowa,8C,46-975
-667,Sopot,Zachód,Klonowa,35A,21-209
-668,Gdynia,Zachód,Grunwaldzka,92A,97-933
-669,Warszawa,Stare Miasto,Pogodna,28B,65-443
-670,Wrocław,Centrum,Sosnowa,52B,73-796
-671,Warszawa,Zachód,Mickiewicza,79A,37-120
-672,Sopot,Północ,Klonowa,69C,74-361
-673,Gdynia,Zachód,Piłsudskiego,10A,31-192
-674,Gdynia,Wschód,Pogodna,33A,88-661
-675,Warszawa,Południe,Grunwaldzka,32A,94-249
-676,Kraków,Wschód,Sosnowa,26C,75-266
-677,Sopot,Zachód,Pogodna,75C,93-492
-678,Warszawa,Wschód,Sosnowa,60B,23-224
-679,Warszawa,Zachód,Miła,89A,85-613
-680,Poznań,Północ,Mickiewicza,24C,23-574
-681,Kraków,Centrum,Sosnowa,60B,59-387
-682,Wrocław,Południe,Grunwaldzka,28A,19-715
-683,Warszawa,Zachód,Grunwaldzka,65A,57-125
-684,Sopot,Południe,Sosnowa,63B,72-541
-685,Warszawa,Centrum,Klonowa,63C,39-658
-686,Kraków,Centrum,Grunwaldzka,21A,98-193
-687,Sopot,Wschód,Piłsudskiego,37A,23-261
-688,Gdynia,Północ,Grunwaldzka,66A,57-379
-689,Poznań,Południe,Mickiewicza,31A,67-898
-690,Wrocław,Wschód,Sosnowa,70B,29-990
-691,Sopot,Zachód,Miła,32C,19-340
-692,Gdańsk,Południe,Piłsudskiego,64C,26-979
-693,Kraków,Centrum,Grunwaldzka,100C,93-764
-694,Poznań,Wschód,Pogodna,38A,53-760
-695,Kraków,Centrum,Grunwaldzka,93B,20-358
-696,Sopot,Południe,Miła,96A,16-571
-697,Warszawa,Południe,Miła,97B,15-680
-698,Warszawa,Południe,Sosnowa,19B,37-490
-699,Wrocław,Północ,Pogodna,9B,67-723
-700,Sopot,Centrum,Grunwaldzka,93C,45-967
-701,Sopot,Wschód,Sosnowa,54C,96-303
-702,Gdynia,Zachód,Mickiewicza,37C,93-940
-703,Wrocław,Wschód,Grunwaldzka,37C,17-511
-704,Warszawa,Południe,Klonowa,34B,22-403
-705,Wrocław,Centrum,Mickiewicza,30C,93-883
-706,Warszawa,Zachód,Klonowa,59B,90-907
-707,Poznań,Północ,Piłsudskiego,67C,56-645
-708,Kraków,Zachód,Klonowa,61C,92-400
-709,Warszawa,Zachód,Pogodna,46A,30-710
-710,Wrocław,Południe,Mickiewicza,93B,52-431
-711,Poznań,Centrum,Pogodna,96A,14-636
-712,Wrocław,Wschód,Sosnowa,13C,31-538
-713,Poznań,Centrum,Piłsudskiego,65A,65-777
-714,Sopot,Stare Miasto,Miła,43C,10-388
-715,Poznań,Południe,Piłsudskiego,93C,72-956
-716,Wrocław,Północ,Mickiewicza,25B,25-493
-717,Sopot,Stare Miasto,Miła,84A,56-386
-718,Kraków,Północ,Grunwaldzka,14A,19-397
-719,Wrocław,Zachód,Mickiewicza,87B,71-467
-720,Sopot,Wschód,Sosnowa,97A,79-205
-721,Gdańsk,Południe,Piłsudskiego,87C,13-469
-722,Gdańsk,Stare Miasto,Sosnowa,8B,50-767
-723,Warszawa,Zachód,Miła,30A,19-932
-724,Warszawa,Północ,Miła,72C,84-259
-725,Wrocław,Centrum,Sosnowa,14A,82-196
-726,Gdańsk,Zachód,Sosnowa,74B,90-197
-727,Gdynia,Stare Miasto,Mickiewicza,18C,69-537
-728,Warszawa,Zachód,Miła,73C,39-677
-729,Gdańsk,Południe,Mickiewicza,32A,51-566
-730,Kraków,Północ,Klonowa,36B,38-476
-731,Poznań,Północ,Klonowa,37C,24-487
-732,Wrocław,Południe,Miła,87B,80-611
-733,Kraków,Centrum,Miła,72A,39-666
-734,Gdańsk,Wschód,Sosnowa,13B,53-968
-735,Kraków,Stare Miasto,Grunwaldzka,19C,53-198
-736,Warszawa,Zachód,Mickiewicza,91A,82-226
-737,Warszawa,Południe,Pogodna,17C,14-235
-738,Poznań,Centrum,Grunwaldzka,100C,65-126
-739,Wrocław,Stare Miasto,Pogodna,74B,38-689
-740,Kraków,Zachód,Klonowa,27C,72-764
-741,Warszawa,Północ,Miła,61C,30-569
-742,Wrocław,Zachód,Pogodna,54B,81-535
-743,Wrocław,Wschód,Grunwaldzka,92B,31-180
-744,Kraków,Północ,Klonowa,26B,99-320
-745,Gdańsk,Centrum,Pogodna,30B,90-776
-746,Kraków,Centrum,Sosnowa,15B,96-882
-747,Poznań,Stare Miasto,Pogodna,32A,13-714
-748,Kraków,Północ,Miła,41C,37-550
-749,Kraków,Zachód,Sosnowa,10B,27-157
-750,Warszawa,Wschód,Klonowa,95A,56-361
-751,Warszawa,Zachód,Miła,9B,19-772
-752,Poznań,Wschód,Pogodna,99C,33-435
-753,Poznań,Północ,Sosnowa,58C,17-202
-754,Kraków,Południe,Klonowa,48B,14-595
-755,Gdańsk,Wschód,Mickiewicza,3A,36-568
-756,Poznań,Północ,Piłsudskiego,28B,83-735
-757,Kraków,Północ,Mickiewicza,75B,41-420
-758,Wrocław,Centrum,Klonowa,62B,33-424
-759,Wrocław,Południe,Klonowa,26B,94-427
-760,Wrocław,Zachód,Grunwaldzka,13B,12-452
-761,Warszawa,Stare Miasto,Miła,73B,68-742
-762,Wrocław,Południe,Sosnowa,9C,95-963
-763,Kraków,Zachód,Grunwaldzka,68A,66-404
-764,Sopot,Północ,Grunwaldzka,86A,33-358
-765,Kraków,Zachód,Mickiewicza,74A,55-686
-766,Wrocław,Północ,Sosnowa,60A,85-421
-767,Kraków,Północ,Pogodna,6C,54-402
-768,Gdańsk,Wschód,Sosnowa,70C,49-554
-769,Wrocław,Południe,Pogodna,77C,49-395
-770,Poznań,Północ,Sosnowa,28B,79-825
-771,Warszawa,Zachód,Sosnowa,56B,69-443
-772,Kraków,Centrum,Grunwaldzka,78C,96-677
-773,Poznań,Stare Miasto,Sosnowa,36A,32-843
-774,Gdynia,Północ,Sosnowa,33A,37-205
-775,Gdańsk,Północ,Piłsudskiego,69C,39-132
-776,Gdynia,Północ,Sosnowa,1A,57-419
-777,Kraków,Południe,Sosnowa,47C,81-351
-778,Sopot,Stare Miasto,Grunwaldzka,16C,44-470
-779,Poznań,Stare Miasto,Pogodna,7B,73-609
-780,Poznań,Wschód,Sosnowa,19B,63-957
-781,Poznań,Wschód,Grunwaldzka,57B,62-905
-782,Gdynia,Zachód,Sosnowa,9A,17-256
-783,Kraków,Południe,Sosnowa,59C,92-810
-784,Warszawa,Zachód,Mickiewicza,91C,46-988
-785,Gdynia,Północ,Grunwaldzka,54C,66-579
-786,Gdańsk,Stare Miasto,Piłsudskiego,31B,19-711
-787,Sopot,Południe,Grunwaldzka,42C,38-925
-788,Poznań,Zachód,Pogodna,26B,39-974
-789,Gdańsk,Wschód,Miła,20B,21-515
-790,Gdynia,Stare Miasto,Mickiewicza,1C,51-288
-791,Gdańsk,Wschód,Pogodna,51C,99-249
-792,Gdańsk,Stare Miasto,Piłsudskiego,19B,50-691
-793,Gdynia,Stare Miasto,Grunwaldzka,65C,44-295
-794,Sopot,Wschód,Pogodna,34A,90-754
-795,Kraków,Zachód,Klonowa,10B,52-901
-796,Poznań,Południe,Klonowa,30B,76-737
-797,Gdańsk,Południe,Miła,95A,11-773
-798,Poznań,Północ,Klonowa,53A,56-837
-799,Gdynia,Centrum,Sosnowa,81B,20-639
-800,Kraków,Południe,Klonowa,67C,68-882
-801,Sopot,Centrum,Sosnowa,47C,80-562
-802,Poznań,Zachód,Mickiewicza,32C,66-501
-803,Kraków,Zachód,Klonowa,52A,45-903
-804,Kraków,Zachód,Piłsudskiego,61C,47-326
-805,Kraków,Wschód,Klonowa,62A,75-498
-806,Kraków,Centrum,Piłsudskiego,34C,33-108
-807,Sopot,Południe,Grunwaldzka,35A,77-558
-808,Poznań,Północ,Piłsudskiego,51A,81-250
-809,Gdynia,Wschód,Miła,26C,34-604
-810,Wrocław,Północ,Grunwaldzka,25A,80-855
-811,Gdynia,Stare Miasto,Mickiewicza,22B,55-702
-812,Sopot,Południe,Pogodna,66B,61-171
-813,Kraków,Zachód,Klonowa,66A,17-496
-814,Warszawa,Południe,Sosnowa,71B,51-926
-815,Sopot,Południe,Miła,64C,82-969
-816,Wrocław,Wschód,Sosnowa,94C,86-411
-817,Sopot,Wschód,Grunwaldzka,57B,32-457
-818,Poznań,Południe,Grunwaldzka,99C,38-940
-819,Poznań,Centrum,Mickiewicza,83A,97-201
-820,Kraków,Wschód,Miła,3B,21-286
-821,Warszawa,Wschód,Grunwaldzka,30C,72-450
-822,Wrocław,Południe,Pogodna,62A,62-277
-823,Sopot,Wschód,Piłsudskiego,66B,69-140
-824,Wrocław,Stare Miasto,Mickiewicza,100C,13-551
-825,Warszawa,Północ,Miła,9A,87-598
-826,Kraków,Wschód,Pogodna,57C,62-848
-827,Warszawa,Północ,Klonowa,5B,84-981
-828,Poznań,Stare Miasto,Piłsudskiego,46B,14-217
-829,Sopot,Południe,Klonowa,1C,44-354
-830,Gdańsk,Południe,Pogodna,50C,26-349
-831,Warszawa,Zachód,Piłsudskiego,26B,87-133
-832,Wrocław,Centrum,Klonowa,35C,75-723
-833,Kraków,Stare Miasto,Grunwaldzka,18B,87-356
-834,Sopot,Południe,Pogodna,21C,64-237
-835,Gdańsk,Stare Miasto,Sosnowa,34B,50-185
-836,Warszawa,Północ,Sosnowa,57A,74-280
-837,Gdynia,Centrum,Miła,92C,49-736
-838,Gdynia,Zachód,Piłsudskiego,76A,61-944
-839,Warszawa,Centrum,Klonowa,81B,44-830
-840,Kraków,Centrum,Piłsudskiego,92A,27-232
-841,Kraków,Północ,Klonowa,53A,54-941
-842,Poznań,Zachód,Klonowa,6B,70-421
-843,Kraków,Wschód,Piłsudskiego,34A,43-283
-844,Poznań,Południe,Pogodna,33B,56-970
-845,Gdynia,Południe,Mickiewicza,76A,14-276
-846,Gdynia,Południe,Sosnowa,65B,55-262
-847,Gdynia,Południe,Pogodna,70C,66-267
-848,Sopot,Zachód,Grunwaldzka,90A,59-312
-849,Warszawa,Zachód,Grunwaldzka,100C,42-123
-850,Warszawa,Północ,Mickiewicza,9A,21-841
-851,Kraków,Stare Miasto,Klonowa,53C,64-117
-852,Sopot,Wschód,Pogodna,74B,52-307
-853,Poznań,Południe,Piłsudskiego,27C,38-133
-854,Sopot,Stare Miasto,Miła,68B,43-534
-855,Gdynia,Stare Miasto,Miła,85A,72-736
-856,Gdynia,Zachód,Sosnowa,83A,24-187
-857,Kraków,Północ,Pogodna,51C,84-716
-858,Sopot,Stare Miasto,Pogodna,95C,83-938
-859,Warszawa,Stare Miasto,Sosnowa,51A,71-978
-860,Kraków,Wschód,Miła,21A,17-594
-861,Gdynia,Wschód,Pogodna,31B,39-436
-862,Sopot,Centrum,Piłsudskiego,31B,16-448
-863,Kraków,Stare Miasto,Piłsudskiego,98A,73-383
-864,Wrocław,Południe,Grunwaldzka,80B,73-902
-865,Gdańsk,Południe,Sosnowa,71B,28-843
-866,Warszawa,Centrum,Pogodna,36A,33-900
-867,Gdynia,Północ,Pogodna,9C,45-254
-868,Sopot,Centrum,Piłsudskiego,8B,61-895
-869,Poznań,Stare Miasto,Piłsudskiego,70A,38-922
-870,Warszawa,Północ,Pogodna,21C,65-593
-871,Poznań,Południe,Sosnowa,98C,64-339
-872,Poznań,Stare Miasto,Grunwaldzka,38B,16-431
-873,Poznań,Wschód,Miła,29B,69-300
-874,Gdańsk,Północ,Piłsudskiego,67B,39-750
-875,Gdynia,Zachód,Sosnowa,79A,63-290
-876,Gdynia,Centrum,Sosnowa,68C,88-247
-877,Gdańsk,Stare Miasto,Klonowa,83A,84-414
-878,Gdańsk,Centrum,Mickiewicza,21A,89-713
-879,Sopot,Południe,Miła,81B,27-376
-880,Poznań,Zachód,Pogodna,16A,54-183
-881,Sopot,Północ,Miła,40A,13-831
-882,Gdańsk,Stare Miasto,Sosnowa,73C,84-899
-883,Gdynia,Południe,Grunwaldzka,10B,76-407
-884,Poznań,Południe,Klonowa,69B,22-666
-885,Wrocław,Wschód,Sosnowa,29A,20-507
-886,Gdynia,Wschód,Grunwaldzka,46C,52-448
-887,Gdynia,Zachód,Miła,2A,96-657
-888,Gdynia,Południe,Grunwaldzka,54C,47-979
-889,Gdynia,Południe,Sosnowa,77A,84-537
-890,Gdańsk,Centrum,Grunwaldzka,8A,78-965
-891,Gdynia,Północ,Piłsudskiego,84A,45-849
-892,Kraków,Wschód,Mickiewicza,68B,80-316
-893,Poznań,Wschód,Miła,77B,19-259
-894,Gdynia,Północ,Piłsudskiego,13B,82-595
-895,Poznań,Wschód,Miła,75C,21-902
-896,Poznań,Północ,Sosnowa,38A,29-637
-897,Poznań,Stare Miasto,Grunwaldzka,84A,13-522
-898,Sopot,Stare Miasto,Grunwaldzka,59B,99-218
-899,Gdynia,Centrum,Pogodna,69A,79-273
-900,Gdynia,Stare Miasto,Piłsudskiego,36B,55-480
-901,Poznań,Północ,Klonowa,75C,35-623
-902,Warszawa,Wschód,Grunwaldzka,9C,95-528
-903,Gdańsk,Południe,Sosnowa,60C,18-238
-904,Kraków,Zachód,Grunwaldzka,98A,82-226
-905,Kraków,Północ,Klonowa,34B,26-255
-906,Sopot,Centrum,Sosnowa,98B,26-766
-907,Gdańsk,Wschód,Klonowa,60B,38-180
-908,Kraków,Południe,Grunwaldzka,9A,81-843
-909,Wrocław,Stare Miasto,Piłsudskiego,39C,76-695
-910,Wrocław,Stare Miasto,Mickiewicza,2B,27-904
-911,Sopot,Wschód,Pogodna,9B,40-136
-912,Gdańsk,Południe,Mickiewicza,37B,95-171
-913,Gdynia,Wschód,Miła,53C,40-313
-914,Kraków,Północ,Miła,42C,71-470
-915,Poznań,Południe,Mickiewicza,19B,71-473
-916,Poznań,Północ,Klonowa,7B,75-439
-917,Kraków,Zachód,Klonowa,60B,12-171
-918,Kraków,Stare Miasto,Klonowa,38B,52-135
-919,Warszawa,Południe,Klonowa,44B,86-907
-920,Poznań,Południe,Klonowa,22C,20-613
-921,Sopot,Zachód,Mickiewicza,67B,24-532
-922,Warszawa,Wschód,Pogodna,48B,30-224
-923,Kraków,Stare Miasto,Pogodna,2C,97-872
-924,Poznań,Stare Miasto,Miła,86C,82-720
-925,Poznań,Centrum,Piłsudskiego,96C,68-483
-926,Sopot,Zachód,Sosnowa,6A,83-441
-927,Sopot,Południe,Grunwaldzka,96B,27-824
-928,Warszawa,Stare Miasto,Miła,42A,79-382
-929,Kraków,Wschód,Klonowa,20B,23-270
-930,Wrocław,Wschód,Pogodna,73C,55-829
-931,Poznań,Południe,Grunwaldzka,46C,33-349
-932,Poznań,Centrum,Sosnowa,56B,79-177
-933,Poznań,Północ,Klonowa,22C,56-507
-934,Gdańsk,Południe,Klonowa,41B,71-682
-935,Wrocław,Południe,Grunwaldzka,32A,71-439
-936,Sopot,Centrum,Grunwaldzka,72C,25-964
-937,Warszawa,Północ,Miła,6A,64-752
-938,Kraków,Wschód,Grunwaldzka,54C,32-378
-939,Wrocław,Wschód,Grunwaldzka,50C,50-669
-940,Wrocław,Południe,Pogodna,12C,67-719
-941,Poznań,Centrum,Piłsudskiego,13C,34-816
-942,Gdańsk,Południe,Klonowa,19B,82-325
-943,Kraków,Południe,Klonowa,40A,67-542
-944,Kraków,Centrum,Klonowa,39C,99-925
-945,Gdynia,Wschód,Miła,5A,45-879
-946,Gdynia,Zachód,Pogodna,21B,77-307
-947,Sopot,Zachód,Sosnowa,20C,26-180
-948,Sopot,Stare Miasto,Mickiewicza,9B,75-349
-949,Sopot,Wschód,Miła,25B,75-735
-950,Kraków,Północ,Sosnowa,47B,77-288
-951,Poznań,Wschód,Sosnowa,92B,48-848
-952,Wrocław,Południe,Miła,72A,84-900
-953,Gdańsk,Stare Miasto,Piłsudskiego,66B,40-649
-954,Poznań,Południe,Grunwaldzka,100B,12-227
-955,Sopot,Północ,Sosnowa,42A,95-547
-956,Sopot,Zachód,Piłsudskiego,37C,35-569
-957,Wrocław,Północ,Mickiewicza,22C,21-411
-958,Warszawa,Północ,Piłsudskiego,55A,16-554
-959,Sopot,Południe,Piłsudskiego,79A,11-861
-960,Wrocław,Północ,Sosnowa,53B,78-691
-961,Gdańsk,Centrum,Klonowa,91B,16-276
-962,Gdańsk,Stare Miasto,Sosnowa,71B,64-601
-963,Wrocław,Północ,Grunwaldzka,57A,11-924
-964,Wrocław,Południe,Miła,20A,32-294
-965,Warszawa,Zachód,Grunwaldzka,66B,39-874
-966,Sopot,Stare Miasto,Klonowa,12A,34-789
-967,Sopot,Północ,Pogodna,73C,71-109
-968,Kraków,Wschód,Piłsudskiego,84A,59-165
-969,Sopot,Północ,Piłsudskiego,94B,84-311
-970,Poznań,Wschód,Mickiewicza,57A,19-286
-971,Wrocław,Zachód,Pogodna,15B,78-203
-972,Poznań,Południe,Miła,35C,30-536
-973,Warszawa,Południe,Klonowa,91A,84-389
-974,Kraków,Wschód,Pogodna,38B,27-263
-975,Sopot,Wschód,Piłsudskiego,37C,66-447
-976,Poznań,Południe,Pogodna,24C,46-184
-977,Poznań,Wschód,Miła,73A,64-945
-978,Warszawa,Zachód,Piłsudskiego,54C,96-780
-979,Gdynia,Północ,Mickiewicza,95A,39-620
-980,Poznań,Centrum,Klonowa,87A,24-156
-981,Sopot,Wschód,Klonowa,44B,62-912
-982,Gdynia,Południe,Klonowa,98A,69-887
-983,Poznań,Wschód,Miła,71A,74-123
-984,Gdańsk,Zachód,Pogodna,18C,38-233
-985,Gdańsk,Zachód,Sosnowa,9A,31-250
-986,Warszawa,Północ,Pogodna,17B,18-837
-987,Gdynia,Północ,Piłsudskiego,64A,74-432
-988,Gdańsk,Południe,Piłsudskiego,86B,81-940
-989,Gdynia,Północ,Sosnowa,52B,64-927
-990,Wrocław,Południe,Miła,26A,90-244
-991,Gdynia,Zachód,Mickiewicza,1A,41-971
-992,Warszawa,Stare Miasto,Miła,39C,92-275
-993,Wrocław,Centrum,Klonowa,5A,98-693
-994,Wrocław,Południe,Klonowa,75B,90-325
-995,Warszawa,Stare Miasto,Miła,100A,67-406
-996,Gdynia,Zachód,Miła,51C,25-606
-997,Poznań,Stare Miasto,Pogodna,42C,77-143
-998,Warszawa,Zachód,Grunwaldzka,88C,58-117
-999,Gdańsk,Stare Miasto,Sosnowa,97B,59-741
-1000,Gdańsk,Północ,Grunwaldzka,67C,35-794
+1,Gdynia,Wschód,Miła,63B,14-130
+2,Warszawa,Wschód,Miła,81A,52-211
+3,Warszawa,Zachód,Mickiewicza,55A,87-733
+4,Poznań,Wschód,Piłsudskiego,57C,77-547
+5,Kraków,Południe,Grunwaldzka,32A,25-102
+6,Wrocław,Zachód,Miła,32A,29-378
+7,Gdańsk,Zachód,Piłsudskiego,44C,76-509
+8,Gdynia,Stare Miasto,Miła,39A,78-592
+9,Gdańsk,Centrum,Grunwaldzka,93B,51-588
+10,Poznań,Centrum,Mickiewicza,59A,99-267
+11,Poznań,Wschód,Mickiewicza,35A,44-352
+12,Gdynia,Południe,Miła,27A,82-444
+13,Poznań,Stare Miasto,Grunwaldzka,78C,67-348
+14,Gdańsk,Południe,Piłsudskiego,21A,41-761
+15,Kraków,Północ,Piłsudskiego,87C,91-407
+16,Sopot,Południe,Sosnowa,44A,61-321
+17,Kraków,Zachód,Piłsudskiego,25A,94-229
+18,Wrocław,Północ,Pogodna,53B,90-179
+19,Warszawa,Południe,Mickiewicza,50A,30-983
+20,Wrocław,Południe,Mickiewicza,80B,71-815
+21,Gdańsk,Południe,Pogodna,18C,42-136
+22,Gdańsk,Centrum,Mickiewicza,41C,74-305
+23,Gdańsk,Stare Miasto,Pogodna,77A,58-347
+24,Gdynia,Zachód,Miła,75C,98-176
+25,Gdańsk,Stare Miasto,Miła,3B,87-881
+26,Gdynia,Północ,Grunwaldzka,95A,43-103
+27,Gdynia,Wschód,Piłsudskiego,95B,28-524
+28,Sopot,Zachód,Mickiewicza,11B,18-154
+29,Wrocław,Centrum,Pogodna,37B,69-723
+30,Kraków,Stare Miasto,Pogodna,56B,45-290
+31,Kraków,Zachód,Sosnowa,85B,57-411
+32,Gdynia,Stare Miasto,Miła,15B,10-110
+33,Warszawa,Stare Miasto,Grunwaldzka,84C,31-307
+34,Wrocław,Centrum,Piłsudskiego,72B,52-918
+35,Wrocław,Północ,Piłsudskiego,5B,53-585
+36,Sopot,Centrum,Mickiewicza,73C,76-932
+37,Wrocław,Północ,Grunwaldzka,91A,31-152
+38,Kraków,Wschód,Grunwaldzka,1A,27-482
+39,Gdańsk,Wschód,Sosnowa,72B,89-300
+40,Kraków,Stare Miasto,Grunwaldzka,72B,83-604
+41,Gdynia,Centrum,Pogodna,74A,34-933
+42,Warszawa,Północ,Grunwaldzka,41C,75-119
+43,Kraków,Centrum,Piłsudskiego,30C,52-506
+44,Gdańsk,Południe,Klonowa,34C,25-274
+45,Poznań,Zachód,Pogodna,29B,13-614
+46,Poznań,Centrum,Mickiewicza,28A,45-600
+47,Sopot,Wschód,Mickiewicza,6A,94-473
+48,Wrocław,Północ,Sosnowa,58B,38-407
+49,Gdańsk,Centrum,Pogodna,14A,90-300
+50,Warszawa,Północ,Piłsudskiego,14B,40-274
+51,Wrocław,Zachód,Grunwaldzka,84C,82-697
+52,Gdynia,Stare Miasto,Mickiewicza,16C,55-847
+53,Warszawa,Stare Miasto,Piłsudskiego,15B,48-430
+54,Poznań,Południe,Grunwaldzka,57A,67-430
+55,Sopot,Zachód,Klonowa,45A,70-735
+56,Wrocław,Południe,Sosnowa,69C,49-638
+57,Gdynia,Wschód,Klonowa,71C,80-848
+58,Sopot,Centrum,Klonowa,29B,56-856
+59,Poznań,Północ,Piłsudskiego,37A,94-518
+60,Warszawa,Południe,Sosnowa,25C,71-138
+61,Wrocław,Północ,Mickiewicza,76A,63-467
+62,Kraków,Północ,Piłsudskiego,23C,80-760
+63,Poznań,Wschód,Klonowa,9B,53-520
+64,Sopot,Zachód,Mickiewicza,1B,62-552
+65,Sopot,Centrum,Piłsudskiego,13A,91-859
+66,Gdynia,Północ,Miła,63A,70-897
+67,Poznań,Południe,Grunwaldzka,93C,36-537
+68,Gdańsk,Centrum,Piłsudskiego,74B,66-707
+69,Wrocław,Południe,Piłsudskiego,70C,88-645
+70,Warszawa,Północ,Pogodna,33A,93-856
+71,Warszawa,Północ,Mickiewicza,26A,87-464
+72,Kraków,Stare Miasto,Sosnowa,74B,38-488
+73,Sopot,Stare Miasto,Pogodna,44A,71-210
+74,Poznań,Centrum,Klonowa,1A,99-662
+75,Sopot,Zachód,Pogodna,15A,50-242
+76,Sopot,Wschód,Pogodna,64B,64-358
+77,Wrocław,Południe,Miła,62C,23-257
+78,Wrocław,Południe,Grunwaldzka,28B,83-129
+79,Wrocław,Centrum,Miła,2A,73-769
+80,Gdańsk,Centrum,Pogodna,94C,64-909
+81,Gdańsk,Zachód,Grunwaldzka,66C,30-536
+82,Warszawa,Północ,Miła,39A,29-421
+83,Wrocław,Północ,Pogodna,55C,75-590
+84,Wrocław,Stare Miasto,Miła,2B,56-300
+85,Kraków,Północ,Klonowa,96C,15-292
+86,Sopot,Północ,Mickiewicza,42B,56-175
+87,Warszawa,Północ,Sosnowa,30C,23-570
+88,Poznań,Wschód,Klonowa,75A,77-332
+89,Warszawa,Stare Miasto,Mickiewicza,5C,18-536
+90,Warszawa,Wschód,Miła,12A,79-148
+91,Kraków,Zachód,Sosnowa,95B,72-655
+92,Gdańsk,Wschód,Grunwaldzka,2B,36-965
+93,Kraków,Stare Miasto,Mickiewicza,33A,30-730
+94,Poznań,Południe,Grunwaldzka,63C,75-131
+95,Warszawa,Północ,Miła,48B,97-137
+96,Wrocław,Wschód,Klonowa,95C,44-730
+97,Wrocław,Stare Miasto,Mickiewicza,26A,50-723
+98,Gdynia,Zachód,Klonowa,1C,59-499
+99,Gdańsk,Zachód,Piłsudskiego,85B,30-842
+100,Warszawa,Południe,Mickiewicza,50B,66-967
+101,Gdynia,Centrum,Mickiewicza,24C,32-970
+102,Wrocław,Północ,Grunwaldzka,8C,39-749
+103,Kraków,Wschód,Piłsudskiego,94B,26-555
+104,Sopot,Centrum,Mickiewicza,2B,38-540
+105,Gdynia,Centrum,Piłsudskiego,30C,82-556
+106,Gdańsk,Centrum,Sosnowa,82B,63-293
+107,Warszawa,Stare Miasto,Pogodna,17B,57-807
+108,Sopot,Północ,Mickiewicza,2B,13-597
+109,Warszawa,Wschód,Mickiewicza,30A,14-632
+110,Wrocław,Zachód,Mickiewicza,77B,17-535
+111,Wrocław,Północ,Piłsudskiego,63B,78-533
+112,Gdynia,Wschód,Pogodna,72B,37-693
+113,Wrocław,Zachód,Grunwaldzka,18C,38-114
+114,Poznań,Północ,Piłsudskiego,55A,75-333
+115,Wrocław,Zachód,Grunwaldzka,44C,81-522
+116,Kraków,Stare Miasto,Klonowa,17C,73-672
+117,Sopot,Północ,Pogodna,68C,51-802
+118,Kraków,Północ,Sosnowa,32A,64-581
+119,Gdańsk,Stare Miasto,Grunwaldzka,39A,35-928
+120,Gdańsk,Północ,Miła,93A,21-662
+121,Wrocław,Południe,Grunwaldzka,97A,59-671
+122,Sopot,Południe,Piłsudskiego,81A,61-634
+123,Gdańsk,Centrum,Mickiewicza,78C,67-425
+124,Sopot,Stare Miasto,Sosnowa,72C,25-230
+125,Gdynia,Zachód,Klonowa,79C,41-491
+126,Poznań,Wschód,Miła,93A,70-253
+127,Kraków,Zachód,Pogodna,24C,27-504
+128,Poznań,Południe,Piłsudskiego,10B,73-334
+129,Wrocław,Centrum,Mickiewicza,69B,94-258
+130,Gdynia,Północ,Piłsudskiego,16A,99-840
+131,Kraków,Południe,Sosnowa,37A,56-436
+132,Sopot,Południe,Miła,96C,90-419
+133,Gdynia,Południe,Pogodna,16C,80-360
+134,Poznań,Północ,Pogodna,81A,44-114
+135,Poznań,Centrum,Pogodna,73C,25-170
+136,Sopot,Wschód,Miła,7A,27-135
+137,Sopot,Stare Miasto,Sosnowa,9A,53-432
+138,Sopot,Północ,Pogodna,97A,95-372
+139,Sopot,Stare Miasto,Piłsudskiego,47B,31-779
+140,Gdynia,Centrum,Piłsudskiego,48A,24-986
+141,Gdańsk,Wschód,Piłsudskiego,54A,70-248
+142,Gdańsk,Wschód,Pogodna,58A,31-396
+143,Gdynia,Zachód,Sosnowa,86A,51-371
+144,Gdynia,Zachód,Pogodna,21B,32-175
+145,Wrocław,Północ,Klonowa,19A,27-113
+146,Gdańsk,Południe,Pogodna,89A,70-188
+147,Warszawa,Wschód,Sosnowa,63A,42-671
+148,Gdynia,Północ,Pogodna,73B,74-218
+149,Warszawa,Centrum,Mickiewicza,62C,46-920
+150,Kraków,Zachód,Sosnowa,28A,67-399
+151,Warszawa,Południe,Piłsudskiego,76A,27-257
+152,Sopot,Północ,Mickiewicza,90B,34-708
+153,Gdynia,Stare Miasto,Mickiewicza,41B,59-354
+154,Kraków,Północ,Sosnowa,61C,76-654
+155,Kraków,Południe,Grunwaldzka,90A,73-658
+156,Warszawa,Wschód,Grunwaldzka,28A,94-716
+157,Gdańsk,Wschód,Sosnowa,26A,64-505
+158,Gdynia,Południe,Sosnowa,51A,96-263
+159,Warszawa,Zachód,Grunwaldzka,53A,60-316
+160,Warszawa,Centrum,Sosnowa,11C,70-857
+161,Wrocław,Północ,Mickiewicza,5B,86-247
+162,Kraków,Centrum,Klonowa,7A,83-959
+163,Gdynia,Stare Miasto,Klonowa,63A,32-662
+164,Gdynia,Zachód,Piłsudskiego,8C,14-306
+165,Gdynia,Stare Miasto,Grunwaldzka,32C,71-589
+166,Kraków,Północ,Klonowa,36B,47-893
+167,Poznań,Centrum,Piłsudskiego,88A,71-222
+168,Sopot,Centrum,Piłsudskiego,54A,50-401
+169,Warszawa,Zachód,Klonowa,80C,65-996
+170,Sopot,Stare Miasto,Miła,97C,78-133
+171,Kraków,Stare Miasto,Piłsudskiego,51B,34-123
+172,Sopot,Zachód,Pogodna,11C,87-694
+173,Kraków,Południe,Sosnowa,41B,30-335
+174,Warszawa,Północ,Sosnowa,45C,17-459
+175,Gdynia,Stare Miasto,Grunwaldzka,8A,91-727
+176,Sopot,Zachód,Piłsudskiego,97C,99-922
+177,Sopot,Stare Miasto,Klonowa,99B,47-902
+178,Kraków,Centrum,Klonowa,64A,83-204
+179,Wrocław,Zachód,Piłsudskiego,89C,87-913
+180,Gdynia,Zachód,Grunwaldzka,13B,96-627
+181,Sopot,Północ,Sosnowa,15A,97-175
+182,Wrocław,Południe,Grunwaldzka,89A,11-328
+183,Gdynia,Stare Miasto,Pogodna,47A,72-832
+184,Gdańsk,Centrum,Sosnowa,96C,84-243
+185,Gdynia,Północ,Piłsudskiego,2C,24-374
+186,Gdańsk,Wschód,Piłsudskiego,14C,53-534
+187,Gdańsk,Stare Miasto,Grunwaldzka,91C,71-193
+188,Gdańsk,Zachód,Pogodna,30A,34-852
+189,Kraków,Północ,Piłsudskiego,3A,83-570
+190,Sopot,Południe,Mickiewicza,90A,87-112
+191,Warszawa,Centrum,Pogodna,47A,13-727
+192,Sopot,Stare Miasto,Sosnowa,53B,99-595
+193,Wrocław,Centrum,Miła,79B,75-733
+194,Warszawa,Zachód,Mickiewicza,68A,85-542
+195,Wrocław,Zachód,Pogodna,36A,86-900
+196,Poznań,Centrum,Sosnowa,63A,13-904
+197,Kraków,Wschód,Mickiewicza,17B,34-962
+198,Gdynia,Wschód,Piłsudskiego,48B,63-318
+199,Sopot,Południe,Klonowa,47B,77-763
+200,Gdańsk,Północ,Sosnowa,63C,52-267
+201,Poznań,Stare Miasto,Pogodna,98B,67-771
+202,Sopot,Centrum,Pogodna,50B,38-697
+203,Gdańsk,Stare Miasto,Sosnowa,19B,32-427
+204,Wrocław,Południe,Pogodna,79C,59-356
+205,Gdańsk,Południe,Klonowa,60C,95-585
+206,Kraków,Centrum,Piłsudskiego,73B,18-467
+207,Poznań,Północ,Miła,77C,25-560
+208,Kraków,Stare Miasto,Miła,85C,85-525
+209,Sopot,Stare Miasto,Mickiewicza,79B,94-937
+210,Wrocław,Wschód,Pogodna,24C,27-843
+211,Gdynia,Północ,Sosnowa,79A,43-988
+212,Kraków,Stare Miasto,Pogodna,53C,41-978
+213,Gdańsk,Centrum,Grunwaldzka,54B,61-459
+214,Wrocław,Północ,Miła,19C,78-739
+215,Warszawa,Południe,Grunwaldzka,4C,60-163
+216,Sopot,Południe,Grunwaldzka,82A,86-976
+217,Wrocław,Południe,Piłsudskiego,49B,63-319
+218,Wrocław,Zachód,Klonowa,12C,96-129
+219,Kraków,Południe,Pogodna,41C,12-421
+220,Poznań,Centrum,Pogodna,67A,32-142
+221,Gdynia,Wschód,Pogodna,44C,51-327
+222,Wrocław,Południe,Sosnowa,64A,53-320
+223,Warszawa,Centrum,Pogodna,36A,77-573
+224,Sopot,Centrum,Klonowa,12C,73-622
+225,Sopot,Stare Miasto,Klonowa,88B,60-656
+226,Gdańsk,Wschód,Klonowa,6C,27-665
+227,Kraków,Południe,Sosnowa,62B,51-530
+228,Wrocław,Południe,Pogodna,47A,48-365
+229,Warszawa,Południe,Mickiewicza,8C,30-412
+230,Warszawa,Centrum,Mickiewicza,79B,65-156
+231,Kraków,Zachód,Piłsudskiego,39B,12-190
+232,Gdańsk,Północ,Piłsudskiego,17B,55-775
+233,Sopot,Wschód,Mickiewicza,81A,86-186
+234,Gdynia,Północ,Grunwaldzka,31B,14-666
+235,Warszawa,Południe,Grunwaldzka,82B,96-487
+236,Sopot,Wschód,Mickiewicza,1A,35-115
+237,Gdańsk,Stare Miasto,Grunwaldzka,44A,59-698
+238,Sopot,Południe,Grunwaldzka,41B,99-774
+239,Sopot,Wschód,Grunwaldzka,4A,83-821
+240,Wrocław,Południe,Mickiewicza,35C,41-688
+241,Poznań,Północ,Pogodna,29C,51-637
+242,Poznań,Centrum,Klonowa,38A,38-516
+243,Wrocław,Północ,Piłsudskiego,53C,25-970
+244,Kraków,Wschód,Mickiewicza,72A,85-279
+245,Poznań,Zachód,Piłsudskiego,94B,20-246
+246,Poznań,Północ,Klonowa,99C,41-651
+247,Poznań,Północ,Klonowa,49C,74-799
+248,Gdańsk,Centrum,Piłsudskiego,46A,37-865
+249,Wrocław,Centrum,Mickiewicza,24A,75-565
+250,Poznań,Wschód,Klonowa,43C,72-329
+251,Wrocław,Stare Miasto,Grunwaldzka,70A,92-444
+252,Warszawa,Centrum,Klonowa,90B,21-177
+253,Poznań,Północ,Miła,2A,18-617
+254,Gdańsk,Wschód,Pogodna,6C,79-305
+255,Wrocław,Południe,Pogodna,91A,77-105
+256,Sopot,Stare Miasto,Miła,95B,28-334
+257,Poznań,Wschód,Sosnowa,85C,97-139
+258,Sopot,Centrum,Klonowa,21A,64-186
+259,Kraków,Zachód,Grunwaldzka,60B,78-604
+260,Gdynia,Stare Miasto,Sosnowa,80A,93-515
+261,Poznań,Centrum,Mickiewicza,53A,71-328
+262,Gdynia,Wschód,Klonowa,2A,92-585
+263,Gdynia,Zachód,Mickiewicza,61A,98-319
+264,Gdynia,Południe,Miła,96A,59-611
+265,Kraków,Południe,Sosnowa,32A,80-159
+266,Poznań,Wschód,Pogodna,16B,64-766
+267,Wrocław,Stare Miasto,Mickiewicza,24A,69-496
+268,Sopot,Północ,Klonowa,24A,56-698
+269,Sopot,Północ,Mickiewicza,25C,63-929
+270,Wrocław,Stare Miasto,Piłsudskiego,16C,71-125
+271,Sopot,Północ,Grunwaldzka,23B,65-202
+272,Kraków,Zachód,Klonowa,12A,51-971
+273,Wrocław,Centrum,Miła,77C,88-321
+274,Kraków,Południe,Sosnowa,75A,27-452
+275,Kraków,Centrum,Grunwaldzka,29C,82-211
+276,Sopot,Wschód,Piłsudskiego,18B,65-806
+277,Sopot,Południe,Klonowa,6C,53-371
+278,Kraków,Zachód,Pogodna,4C,21-146
+279,Sopot,Południe,Mickiewicza,19C,31-950
+280,Warszawa,Północ,Sosnowa,31C,84-930
+281,Poznań,Południe,Sosnowa,10C,80-201
+282,Gdańsk,Stare Miasto,Sosnowa,84C,47-251
+283,Kraków,Północ,Grunwaldzka,41A,21-161
+284,Sopot,Centrum,Grunwaldzka,33C,21-818
+285,Warszawa,Wschód,Grunwaldzka,65A,43-222
+286,Kraków,Południe,Klonowa,97B,92-140
+287,Warszawa,Zachód,Klonowa,35A,74-595
+288,Sopot,Południe,Grunwaldzka,36A,47-612
+289,Gdynia,Północ,Piłsudskiego,8C,82-606
+290,Gdańsk,Centrum,Sosnowa,53C,36-479
+291,Warszawa,Centrum,Klonowa,90C,29-697
+292,Kraków,Wschód,Pogodna,13A,75-537
+293,Warszawa,Zachód,Mickiewicza,86A,69-392
+294,Kraków,Wschód,Grunwaldzka,64A,73-762
+295,Warszawa,Północ,Miła,84B,13-148
+296,Warszawa,Północ,Sosnowa,17C,16-842
+297,Poznań,Centrum,Klonowa,94B,49-676
+298,Gdańsk,Zachód,Pogodna,77B,94-297
+299,Poznań,Południe,Sosnowa,97B,96-428
+300,Poznań,Centrum,Sosnowa,80C,34-209
+301,Gdynia,Wschód,Mickiewicza,79C,66-898
+302,Gdynia,Północ,Klonowa,9B,58-586
+303,Gdynia,Zachód,Sosnowa,50C,60-335
+304,Sopot,Stare Miasto,Grunwaldzka,40B,74-173
+305,Wrocław,Zachód,Grunwaldzka,31A,32-298
+306,Poznań,Południe,Piłsudskiego,46C,20-464
+307,Gdynia,Centrum,Mickiewicza,91B,58-819
+308,Wrocław,Zachód,Grunwaldzka,66B,98-828
+309,Kraków,Centrum,Mickiewicza,40C,67-184
+310,Gdańsk,Wschód,Sosnowa,93A,75-813
+311,Gdynia,Wschód,Grunwaldzka,16A,69-700
+312,Kraków,Zachód,Piłsudskiego,49C,93-654
+313,Poznań,Centrum,Pogodna,88A,98-907
+314,Warszawa,Północ,Mickiewicza,81B,30-153
+315,Warszawa,Wschód,Piłsudskiego,80B,69-662
+316,Wrocław,Stare Miasto,Miła,98A,79-485
+317,Gdańsk,Południe,Miła,85A,11-773
+318,Gdańsk,Północ,Klonowa,28A,42-508
+319,Kraków,Centrum,Piłsudskiego,49B,33-117
+320,Gdańsk,Wschód,Grunwaldzka,22A,39-648
+321,Wrocław,Zachód,Sosnowa,8C,21-565
+322,Sopot,Stare Miasto,Miła,74C,93-554
+323,Sopot,Zachód,Mickiewicza,44A,15-537
+324,Gdańsk,Centrum,Klonowa,7C,24-632
+325,Wrocław,Zachód,Pogodna,39C,50-779
+326,Warszawa,Stare Miasto,Pogodna,26A,47-791
+327,Gdynia,Centrum,Pogodna,58B,95-332
+328,Gdańsk,Stare Miasto,Grunwaldzka,56B,68-309
+329,Gdynia,Południe,Piłsudskiego,12A,78-137
+330,Kraków,Zachód,Mickiewicza,52C,51-956
+331,Gdańsk,Stare Miasto,Miła,60C,68-840
+332,Poznań,Zachód,Piłsudskiego,96C,28-423
+333,Gdynia,Zachód,Pogodna,86B,84-526
+334,Sopot,Centrum,Piłsudskiego,1B,55-507
+335,Poznań,Zachód,Piłsudskiego,13B,73-163
+336,Warszawa,Centrum,Klonowa,80B,35-436
+337,Kraków,Stare Miasto,Miła,3A,78-605
+338,Warszawa,Wschód,Miła,84B,20-582
+339,Wrocław,Północ,Mickiewicza,62C,81-748
+340,Wrocław,Wschód,Grunwaldzka,8A,14-258
+341,Gdynia,Wschód,Sosnowa,27B,67-454
+342,Wrocław,Północ,Pogodna,91A,35-888
+343,Wrocław,Stare Miasto,Sosnowa,17A,49-688
+344,Gdynia,Stare Miasto,Miła,54A,70-238
+345,Kraków,Wschód,Miła,29C,94-883
+346,Sopot,Centrum,Sosnowa,52B,73-145
+347,Warszawa,Północ,Piłsudskiego,81A,94-978
+348,Gdynia,Centrum,Mickiewicza,74B,48-893
+349,Kraków,Wschód,Pogodna,43A,17-990
+350,Wrocław,Stare Miasto,Grunwaldzka,29B,71-467
+351,Gdańsk,Południe,Miła,44B,15-489
+352,Wrocław,Zachód,Mickiewicza,72C,46-251
+353,Gdynia,Zachód,Piłsudskiego,27B,85-647
+354,Gdynia,Centrum,Miła,14B,99-305
+355,Wrocław,Zachód,Grunwaldzka,57C,84-726
+356,Poznań,Południe,Miła,7B,50-755
+357,Poznań,Północ,Sosnowa,6C,97-707
+358,Sopot,Centrum,Mickiewicza,65C,53-141
+359,Gdańsk,Południe,Grunwaldzka,21A,26-846
+360,Gdynia,Stare Miasto,Pogodna,41C,79-967
+361,Gdańsk,Północ,Miła,100C,19-526
+362,Warszawa,Stare Miasto,Sosnowa,65A,38-846
+363,Kraków,Południe,Pogodna,94B,76-550
+364,Gdańsk,Zachód,Mickiewicza,79C,13-327
+365,Warszawa,Centrum,Klonowa,22C,42-104
+366,Gdańsk,Stare Miasto,Klonowa,28B,27-770
+367,Poznań,Północ,Piłsudskiego,23B,62-998
+368,Kraków,Wschód,Mickiewicza,66A,60-528
+369,Poznań,Południe,Pogodna,85A,82-928
+370,Sopot,Północ,Miła,96A,83-580
+371,Gdańsk,Zachód,Klonowa,57B,23-515
+372,Gdańsk,Wschód,Miła,75B,11-558
+373,Warszawa,Zachód,Mickiewicza,89C,75-210
+374,Warszawa,Północ,Pogodna,58B,81-721
+375,Sopot,Stare Miasto,Sosnowa,31B,34-407
+376,Sopot,Południe,Pogodna,43C,21-669
+377,Sopot,Północ,Klonowa,14A,41-645
+378,Sopot,Zachód,Mickiewicza,52A,38-747
+379,Kraków,Północ,Piłsudskiego,43B,48-480
+380,Kraków,Centrum,Grunwaldzka,15B,51-840
+381,Warszawa,Centrum,Mickiewicza,36A,18-321
+382,Poznań,Południe,Grunwaldzka,53A,46-215
+383,Wrocław,Południe,Mickiewicza,23C,20-102
+384,Gdynia,Stare Miasto,Sosnowa,66A,55-420
+385,Sopot,Zachód,Klonowa,21B,79-663
+386,Poznań,Zachód,Klonowa,64C,14-400
+387,Warszawa,Zachód,Sosnowa,17B,66-397
+388,Gdynia,Północ,Pogodna,16A,82-606
+389,Wrocław,Wschód,Sosnowa,33B,22-118
+390,Gdańsk,Zachód,Pogodna,7B,64-591
+391,Gdynia,Północ,Klonowa,5C,95-236
+392,Poznań,Stare Miasto,Sosnowa,97C,17-582
+393,Sopot,Centrum,Pogodna,60A,29-671
+394,Gdańsk,Centrum,Grunwaldzka,100B,66-239
+395,Warszawa,Południe,Miła,35C,91-669
+396,Sopot,Stare Miasto,Miła,55C,87-595
+397,Gdynia,Północ,Piłsudskiego,5A,15-701
+398,Gdynia,Wschód,Sosnowa,48B,52-956
+399,Sopot,Zachód,Miła,68C,38-605
+400,Kraków,Centrum,Pogodna,73C,17-145
+401,Gdańsk,Północ,Pogodna,35B,20-899
+402,Wrocław,Południe,Klonowa,21A,77-935
+403,Gdańsk,Centrum,Klonowa,42A,31-225
+404,Wrocław,Północ,Piłsudskiego,22A,54-625
+405,Wrocław,Wschód,Klonowa,29A,48-274
+406,Kraków,Wschód,Grunwaldzka,39B,29-626
+407,Sopot,Centrum,Grunwaldzka,38B,89-849
+408,Poznań,Stare Miasto,Sosnowa,1A,60-963
+409,Warszawa,Stare Miasto,Miła,41B,15-545
+410,Wrocław,Południe,Sosnowa,5B,96-430
+411,Sopot,Zachód,Miła,55A,17-550
+412,Warszawa,Stare Miasto,Piłsudskiego,90C,21-638
+413,Gdynia,Centrum,Miła,95A,83-894
+414,Gdańsk,Południe,Piłsudskiego,47C,92-240
+415,Sopot,Wschód,Miła,26B,60-512
+416,Wrocław,Południe,Miła,41B,97-303
+417,Gdynia,Zachód,Miła,26B,64-373
+418,Wrocław,Północ,Klonowa,17B,53-438
+419,Poznań,Wschód,Sosnowa,9C,94-826
+420,Wrocław,Południe,Miła,5B,90-359
+421,Poznań,Wschód,Pogodna,25A,77-983
+422,Gdańsk,Stare Miasto,Miła,49A,62-630
+423,Kraków,Północ,Miła,54C,97-111
+424,Sopot,Północ,Mickiewicza,14B,90-540
+425,Wrocław,Stare Miasto,Piłsudskiego,32B,57-332
+426,Kraków,Centrum,Miła,69A,60-929
+427,Gdańsk,Południe,Mickiewicza,16B,73-677
+428,Gdynia,Zachód,Pogodna,65B,98-553
+429,Wrocław,Wschód,Grunwaldzka,2C,35-917
+430,Wrocław,Południe,Sosnowa,52A,15-784
+431,Gdańsk,Stare Miasto,Mickiewicza,42A,57-587
+432,Wrocław,Stare Miasto,Piłsudskiego,66C,42-976
+433,Kraków,Zachód,Grunwaldzka,40C,47-368
+434,Warszawa,Północ,Sosnowa,14B,23-788
+435,Sopot,Stare Miasto,Klonowa,14B,74-970
+436,Gdańsk,Wschód,Piłsudskiego,55B,77-475
+437,Poznań,Wschód,Piłsudskiego,59A,70-951
+438,Kraków,Południe,Pogodna,58A,32-514
+439,Sopot,Centrum,Mickiewicza,84A,27-961
+440,Wrocław,Wschód,Klonowa,18C,41-169
+441,Wrocław,Wschód,Grunwaldzka,59A,66-888
+442,Gdańsk,Południe,Miła,6A,18-852
+443,Sopot,Zachód,Piłsudskiego,49B,49-329
+444,Poznań,Wschód,Grunwaldzka,85C,21-878
+445,Warszawa,Południe,Sosnowa,5A,93-263
+446,Gdańsk,Zachód,Sosnowa,53A,86-913
+447,Wrocław,Zachód,Sosnowa,71B,63-646
+448,Poznań,Stare Miasto,Piłsudskiego,70A,77-656
+449,Gdańsk,Północ,Piłsudskiego,95B,37-558
+450,Kraków,Południe,Pogodna,11A,67-514
+451,Gdańsk,Stare Miasto,Klonowa,89A,39-534
+452,Wrocław,Południe,Klonowa,50A,60-585
+453,Kraków,Południe,Sosnowa,41B,43-283
+454,Gdynia,Centrum,Klonowa,28A,43-692
+455,Sopot,Zachód,Sosnowa,20C,46-888
+456,Poznań,Północ,Miła,30B,39-165
+457,Gdynia,Stare Miasto,Mickiewicza,91B,46-545
+458,Poznań,Południe,Piłsudskiego,62A,77-923
+459,Wrocław,Północ,Grunwaldzka,56A,49-907
+460,Poznań,Stare Miasto,Miła,18C,57-434
+461,Poznań,Zachód,Grunwaldzka,35A,45-859
+462,Poznań,Południe,Mickiewicza,98B,94-643
+463,Poznań,Północ,Klonowa,7A,55-176
+464,Kraków,Stare Miasto,Mickiewicza,31C,80-315
+465,Kraków,Wschód,Grunwaldzka,89A,47-205
+466,Gdynia,Wschód,Piłsudskiego,29C,42-677
+467,Warszawa,Wschód,Mickiewicza,84C,14-902
+468,Warszawa,Zachód,Pogodna,18C,66-668
+469,Sopot,Wschód,Piłsudskiego,65C,22-610
+470,Warszawa,Północ,Mickiewicza,95B,71-436
+471,Poznań,Stare Miasto,Miła,43A,75-964
+472,Gdynia,Południe,Piłsudskiego,6C,11-101
+473,Warszawa,Centrum,Mickiewicza,9C,21-665
+474,Warszawa,Północ,Sosnowa,33A,37-108
+475,Gdańsk,Południe,Mickiewicza,8B,81-936
+476,Kraków,Centrum,Piłsudskiego,3A,54-348
+477,Kraków,Północ,Pogodna,69C,18-438
+478,Gdańsk,Południe,Miła,4C,97-665
+479,Warszawa,Centrum,Klonowa,7B,37-904
+480,Poznań,Stare Miasto,Klonowa,20B,23-342
+481,Kraków,Centrum,Klonowa,84B,85-215
+482,Sopot,Południe,Mickiewicza,2C,82-184
+483,Wrocław,Zachód,Klonowa,71A,57-467
+484,Kraków,Centrum,Grunwaldzka,68C,58-360
+485,Sopot,Stare Miasto,Grunwaldzka,1C,74-589
+486,Gdańsk,Południe,Sosnowa,90B,10-226
+487,Gdynia,Północ,Sosnowa,43B,79-115
+488,Wrocław,Wschód,Mickiewicza,88C,16-461
+489,Wrocław,Centrum,Piłsudskiego,100B,95-358
+490,Sopot,Południe,Sosnowa,34A,30-585
+491,Gdynia,Stare Miasto,Sosnowa,48B,11-815
+492,Wrocław,Centrum,Mickiewicza,42C,12-744
+493,Gdynia,Północ,Miła,23A,16-231
+494,Sopot,Południe,Pogodna,56B,87-140
+495,Poznań,Północ,Mickiewicza,49A,48-618
+496,Gdańsk,Zachód,Grunwaldzka,9A,24-193
+497,Sopot,Wschód,Piłsudskiego,43C,33-646
+498,Poznań,Południe,Klonowa,8C,86-407
+499,Poznań,Południe,Mickiewicza,40C,92-106
+500,Poznań,Północ,Grunwaldzka,63A,34-401
+501,Sopot,Stare Miasto,Mickiewicza,32A,93-498
+502,Sopot,Centrum,Mickiewicza,50B,76-388
+503,Sopot,Zachód,Klonowa,86B,46-639
+504,Gdynia,Wschód,Sosnowa,94C,35-539
+505,Warszawa,Północ,Pogodna,75A,55-631
+506,Poznań,Stare Miasto,Sosnowa,1A,68-350
+507,Kraków,Centrum,Grunwaldzka,30B,16-811
+508,Poznań,Północ,Grunwaldzka,11C,88-741
+509,Poznań,Zachód,Sosnowa,95C,18-182
+510,Kraków,Północ,Klonowa,11B,24-458
+511,Poznań,Zachód,Pogodna,37A,65-244
+512,Gdańsk,Zachód,Klonowa,73C,23-563
+513,Poznań,Północ,Sosnowa,1C,20-953
+514,Gdynia,Centrum,Grunwaldzka,37A,11-420
+515,Warszawa,Stare Miasto,Mickiewicza,36B,46-962
+516,Poznań,Północ,Piłsudskiego,37A,38-128
+517,Gdynia,Stare Miasto,Pogodna,29B,98-330
+518,Kraków,Wschód,Grunwaldzka,7B,94-622
+519,Poznań,Centrum,Sosnowa,6B,58-511
+520,Wrocław,Północ,Sosnowa,68A,68-118
+521,Gdynia,Centrum,Klonowa,31B,67-963
+522,Warszawa,Stare Miasto,Klonowa,75A,98-959
+523,Gdańsk,Wschód,Klonowa,23C,94-171
+524,Sopot,Zachód,Pogodna,49B,41-193
+525,Warszawa,Południe,Miła,44B,24-595
+526,Poznań,Południe,Klonowa,78A,68-941
+527,Wrocław,Zachód,Piłsudskiego,71C,27-833
+528,Poznań,Centrum,Mickiewicza,30B,51-333
+529,Kraków,Północ,Piłsudskiego,31A,94-127
+530,Gdańsk,Stare Miasto,Miła,96C,72-992
+531,Gdańsk,Zachód,Mickiewicza,75A,53-758
+532,Sopot,Północ,Piłsudskiego,17C,82-923
+533,Sopot,Stare Miasto,Pogodna,20C,17-967
+534,Sopot,Centrum,Grunwaldzka,31B,63-714
+535,Kraków,Wschód,Piłsudskiego,70A,38-735
+536,Poznań,Stare Miasto,Mickiewicza,2A,49-879
+537,Wrocław,Stare Miasto,Mickiewicza,55C,44-121
+538,Wrocław,Zachód,Sosnowa,54A,96-266
+539,Kraków,Zachód,Miła,74C,55-891
+540,Wrocław,Stare Miasto,Pogodna,38C,60-829
+541,Poznań,Zachód,Pogodna,83B,98-211
+542,Gdynia,Zachód,Miła,81B,54-116
+543,Kraków,Północ,Klonowa,61C,51-721
+544,Wrocław,Wschód,Sosnowa,40B,69-156
+545,Wrocław,Wschód,Piłsudskiego,59A,30-943
+546,Gdynia,Stare Miasto,Klonowa,78B,55-939
+547,Gdynia,Północ,Klonowa,55C,47-950
+548,Sopot,Wschód,Klonowa,87B,90-955
+549,Kraków,Stare Miasto,Grunwaldzka,34A,74-341
+550,Poznań,Zachód,Sosnowa,71C,84-642
+551,Gdynia,Centrum,Pogodna,61A,78-268
+552,Kraków,Południe,Pogodna,1C,92-192
+553,Sopot,Południe,Piłsudskiego,74A,15-330
+554,Gdańsk,Stare Miasto,Mickiewicza,21A,96-203
+555,Warszawa,Północ,Klonowa,19C,43-651
+556,Warszawa,Zachód,Sosnowa,54B,99-518
+557,Warszawa,Zachód,Mickiewicza,26A,90-674
+558,Kraków,Centrum,Grunwaldzka,29A,64-154
+559,Gdańsk,Wschód,Mickiewicza,86A,30-405
+560,Kraków,Centrum,Grunwaldzka,51B,16-940
+561,Poznań,Zachód,Klonowa,13B,98-731
+562,Warszawa,Centrum,Miła,11C,31-332
+563,Gdynia,Zachód,Grunwaldzka,79C,17-849
+564,Kraków,Wschód,Grunwaldzka,15C,62-371
+565,Kraków,Południe,Sosnowa,87C,10-918
+566,Gdańsk,Centrum,Sosnowa,68C,94-883
+567,Kraków,Zachód,Mickiewicza,50C,18-765
+568,Poznań,Zachód,Klonowa,1C,28-991
+569,Poznań,Południe,Piłsudskiego,18A,68-323
+570,Warszawa,Stare Miasto,Miła,22C,75-832
+571,Gdańsk,Północ,Sosnowa,81C,34-114
+572,Gdańsk,Południe,Miła,45C,35-311
+573,Gdańsk,Wschód,Miła,62A,15-536
+574,Sopot,Południe,Mickiewicza,57A,73-351
+575,Gdańsk,Wschód,Sosnowa,79B,32-650
+576,Poznań,Centrum,Pogodna,3B,79-962
+577,Gdynia,Zachód,Miła,40A,70-983
+578,Gdynia,Południe,Mickiewicza,98C,96-747
+579,Poznań,Południe,Piłsudskiego,67B,49-422
+580,Poznań,Wschód,Klonowa,19A,74-576
+581,Kraków,Wschód,Mickiewicza,81A,58-843
+582,Gdynia,Południe,Piłsudskiego,91A,24-464
+583,Poznań,Północ,Sosnowa,58A,48-990
+584,Gdynia,Zachód,Klonowa,14C,13-948
+585,Kraków,Stare Miasto,Pogodna,67C,33-799
+586,Kraków,Wschód,Sosnowa,87B,25-450
+587,Kraków,Stare Miasto,Klonowa,24B,85-814
+588,Gdańsk,Południe,Grunwaldzka,1B,64-727
+589,Gdynia,Północ,Pogodna,26A,22-420
+590,Kraków,Wschód,Klonowa,10C,44-130
+591,Sopot,Południe,Miła,95A,51-994
+592,Poznań,Zachód,Klonowa,72C,97-891
+593,Warszawa,Centrum,Piłsudskiego,9A,39-749
+594,Gdynia,Zachód,Grunwaldzka,12C,32-935
+595,Warszawa,Wschód,Sosnowa,42C,15-222
+596,Gdańsk,Wschód,Sosnowa,64B,72-572
+597,Poznań,Południe,Sosnowa,9A,43-431
+598,Warszawa,Centrum,Pogodna,66B,46-471
+599,Warszawa,Zachód,Mickiewicza,62A,72-660
+600,Gdynia,Południe,Mickiewicza,55B,48-520
+601,Gdańsk,Zachód,Miła,13A,54-633
+602,Kraków,Stare Miasto,Pogodna,82A,72-976
+603,Wrocław,Wschód,Klonowa,71C,18-972
+604,Warszawa,Stare Miasto,Pogodna,43C,90-954
+605,Poznań,Centrum,Mickiewicza,44C,24-588
+606,Poznań,Centrum,Grunwaldzka,58A,99-946
+607,Poznań,Południe,Mickiewicza,3C,40-459
+608,Sopot,Północ,Mickiewicza,99A,28-287
+609,Poznań,Centrum,Miła,6A,36-258
+610,Warszawa,Centrum,Piłsudskiego,1B,22-910
+611,Kraków,Stare Miasto,Klonowa,5A,58-908
+612,Gdynia,Południe,Grunwaldzka,48A,56-561
+613,Warszawa,Wschód,Piłsudskiego,33C,14-647
+614,Wrocław,Północ,Klonowa,47C,91-960
+615,Gdynia,Stare Miasto,Miła,37B,19-957
+616,Sopot,Stare Miasto,Klonowa,1C,33-688
+617,Warszawa,Centrum,Grunwaldzka,41C,66-493
+618,Poznań,Zachód,Mickiewicza,77B,38-584
+619,Gdańsk,Północ,Piłsudskiego,81C,99-401
+620,Wrocław,Stare Miasto,Grunwaldzka,15B,93-181
+621,Gdynia,Południe,Mickiewicza,40A,53-702
+622,Poznań,Południe,Miła,52C,98-424
+623,Sopot,Wschód,Piłsudskiego,52A,93-974
+624,Poznań,Południe,Piłsudskiego,37A,83-521
+625,Poznań,Wschód,Pogodna,98B,74-446
+626,Kraków,Zachód,Mickiewicza,61B,21-601
+627,Gdańsk,Stare Miasto,Mickiewicza,17A,23-442
+628,Poznań,Centrum,Piłsudskiego,21C,34-817
+629,Warszawa,Wschód,Piłsudskiego,14C,55-228
+630,Warszawa,Północ,Mickiewicza,26A,72-322
+631,Kraków,Północ,Miła,49A,61-688
+632,Warszawa,Zachód,Klonowa,47B,87-857
+633,Kraków,Zachód,Pogodna,35B,51-932
+634,Sopot,Centrum,Miła,24B,97-768
+635,Gdynia,Południe,Grunwaldzka,99A,47-531
+636,Kraków,Południe,Grunwaldzka,39A,91-174
+637,Wrocław,Zachód,Sosnowa,79B,59-732
+638,Poznań,Zachód,Miła,74A,64-567
+639,Sopot,Wschód,Klonowa,35C,21-246
+640,Gdynia,Południe,Miła,55B,98-689
+641,Warszawa,Południe,Miła,97C,27-283
+642,Gdynia,Wschód,Grunwaldzka,44A,33-509
+643,Sopot,Północ,Pogodna,39C,42-676
+644,Kraków,Stare Miasto,Piłsudskiego,15A,99-363
+645,Sopot,Centrum,Grunwaldzka,22B,78-805
+646,Kraków,Południe,Pogodna,51C,33-224
+647,Wrocław,Północ,Miła,75A,72-344
+648,Wrocław,Zachód,Sosnowa,42C,33-699
+649,Gdańsk,Centrum,Grunwaldzka,24B,74-173
+650,Gdynia,Wschód,Sosnowa,94B,17-180
+651,Gdańsk,Stare Miasto,Klonowa,31A,23-729
+652,Poznań,Północ,Grunwaldzka,60C,13-190
+653,Gdańsk,Południe,Sosnowa,11C,62-619
+654,Poznań,Centrum,Sosnowa,24A,22-464
+655,Wrocław,Południe,Klonowa,4B,16-851
+656,Poznań,Wschód,Grunwaldzka,38A,48-812
+657,Poznań,Wschód,Piłsudskiego,37B,65-236
+658,Gdynia,Centrum,Piłsudskiego,82A,28-664
+659,Kraków,Wschód,Miła,49A,59-700
+660,Warszawa,Północ,Miła,81C,13-794
+661,Gdynia,Centrum,Klonowa,87B,37-301
+662,Kraków,Północ,Klonowa,94C,48-737
+663,Gdynia,Stare Miasto,Klonowa,68C,68-179
+664,Kraków,Centrum,Piłsudskiego,85B,71-260
+665,Warszawa,Południe,Piłsudskiego,1A,33-746
+666,Gdynia,Zachód,Grunwaldzka,35C,85-864
+667,Wrocław,Północ,Grunwaldzka,24C,32-938
+668,Warszawa,Wschód,Piłsudskiego,86B,91-971
+669,Warszawa,Południe,Sosnowa,31A,89-944
+670,Poznań,Zachód,Sosnowa,15A,68-688
+671,Poznań,Centrum,Miła,11A,38-282
+672,Gdańsk,Wschód,Sosnowa,74C,93-827
+673,Gdańsk,Wschód,Grunwaldzka,2A,49-813
+674,Gdynia,Południe,Klonowa,70A,65-884
+675,Warszawa,Centrum,Sosnowa,71B,93-519
+676,Gdańsk,Północ,Grunwaldzka,66B,77-757
+677,Gdynia,Centrum,Mickiewicza,99B,18-762
+678,Warszawa,Północ,Piłsudskiego,33C,48-863
+679,Gdynia,Południe,Mickiewicza,26B,35-377
+680,Warszawa,Północ,Piłsudskiego,88C,41-449
+681,Gdańsk,Stare Miasto,Klonowa,56B,19-145
+682,Poznań,Zachód,Piłsudskiego,35A,56-237
+683,Gdynia,Centrum,Mickiewicza,15B,15-593
+684,Kraków,Stare Miasto,Grunwaldzka,52B,89-324
+685,Warszawa,Południe,Grunwaldzka,27C,92-400
+686,Gdynia,Południe,Piłsudskiego,95B,30-438
+687,Gdańsk,Wschód,Grunwaldzka,70A,33-566
+688,Wrocław,Zachód,Pogodna,3B,64-121
+689,Sopot,Zachód,Miła,75A,93-480
+690,Warszawa,Południe,Grunwaldzka,69B,94-495
+691,Kraków,Północ,Klonowa,91C,58-106
+692,Wrocław,Zachód,Pogodna,64B,16-756
+693,Warszawa,Północ,Grunwaldzka,32C,40-154
+694,Gdynia,Wschód,Klonowa,95B,47-741
+695,Gdynia,Wschód,Mickiewicza,36B,89-142
+696,Gdańsk,Południe,Sosnowa,18C,46-155
+697,Sopot,Północ,Sosnowa,7C,31-888
+698,Poznań,Wschód,Mickiewicza,45A,44-290
+699,Wrocław,Północ,Mickiewicza,58A,77-810
+700,Poznań,Centrum,Pogodna,80A,72-687
+701,Gdynia,Stare Miasto,Mickiewicza,29B,58-787
+702,Warszawa,Centrum,Sosnowa,6A,94-846
+703,Wrocław,Południe,Miła,82A,59-937
+704,Sopot,Wschód,Pogodna,3B,27-421
+705,Gdynia,Północ,Mickiewicza,65C,64-581
+706,Poznań,Północ,Klonowa,9C,51-920
+707,Gdańsk,Centrum,Pogodna,84A,66-897
+708,Warszawa,Wschód,Klonowa,79A,99-174
+709,Kraków,Wschód,Klonowa,63B,83-147
+710,Sopot,Centrum,Piłsudskiego,93C,49-716
+711,Sopot,Południe,Sosnowa,18C,65-903
+712,Wrocław,Stare Miasto,Pogodna,55A,35-329
+713,Poznań,Południe,Pogodna,84A,59-545
+714,Gdynia,Centrum,Sosnowa,51C,65-495
+715,Warszawa,Południe,Piłsudskiego,37B,14-675
+716,Wrocław,Północ,Mickiewicza,90C,65-436
+717,Gdynia,Centrum,Mickiewicza,64B,38-448
+718,Gdynia,Zachód,Grunwaldzka,3B,78-686
+719,Warszawa,Centrum,Klonowa,67B,34-971
+720,Poznań,Północ,Miła,39A,54-694
+721,Sopot,Zachód,Pogodna,42A,36-491
+722,Warszawa,Stare Miasto,Miła,54C,42-466
+723,Warszawa,Północ,Miła,74A,12-769
+724,Poznań,Centrum,Mickiewicza,11A,13-944
+725,Sopot,Północ,Pogodna,43B,43-898
+726,Warszawa,Stare Miasto,Pogodna,74A,65-276
+727,Gdańsk,Południe,Mickiewicza,89A,65-633
+728,Gdynia,Północ,Pogodna,30C,76-410
+729,Gdańsk,Zachód,Sosnowa,51A,22-448
+730,Wrocław,Zachód,Klonowa,68C,59-929
+731,Wrocław,Południe,Miła,40A,94-308
+732,Poznań,Wschód,Klonowa,95B,12-469
+733,Warszawa,Południe,Pogodna,16B,90-402
+734,Warszawa,Centrum,Piłsudskiego,78A,86-612
+735,Kraków,Stare Miasto,Sosnowa,31B,72-179
+736,Warszawa,Wschód,Grunwaldzka,89A,96-973
+737,Sopot,Zachód,Mickiewicza,32C,13-727
+738,Gdańsk,Centrum,Miła,61B,49-611
+739,Sopot,Południe,Miła,55B,25-519
+740,Warszawa,Wschód,Mickiewicza,86B,88-979
+741,Kraków,Wschód,Pogodna,1B,30-479
+742,Warszawa,Stare Miasto,Piłsudskiego,48B,68-476
+743,Warszawa,Zachód,Pogodna,63C,18-436
+744,Gdańsk,Południe,Miła,18A,20-605
+745,Gdańsk,Południe,Grunwaldzka,58B,13-492
+746,Poznań,Centrum,Grunwaldzka,8A,91-528
+747,Wrocław,Północ,Miła,49B,75-997
+748,Wrocław,Zachód,Klonowa,8A,29-964
+749,Sopot,Wschód,Klonowa,74A,93-691
+750,Gdynia,Południe,Klonowa,60B,18-595
+751,Poznań,Zachód,Sosnowa,16B,62-722
+752,Warszawa,Centrum,Mickiewicza,71B,15-903
+753,Gdańsk,Centrum,Mickiewicza,86C,78-266
+754,Kraków,Zachód,Sosnowa,25B,45-236
+755,Kraków,Południe,Piłsudskiego,90C,68-378
+756,Sopot,Stare Miasto,Sosnowa,18A,59-460
+757,Warszawa,Południe,Miła,68A,34-788
+758,Sopot,Północ,Pogodna,10C,98-157
+759,Warszawa,Północ,Mickiewicza,44A,89-504
+760,Warszawa,Północ,Pogodna,50A,89-746
+761,Wrocław,Południe,Pogodna,2A,54-833
+762,Sopot,Zachód,Sosnowa,48A,34-422
+763,Poznań,Zachód,Grunwaldzka,1C,82-820
+764,Kraków,Stare Miasto,Miła,34B,45-868
+765,Wrocław,Wschód,Miła,81B,19-587
+766,Warszawa,Wschód,Sosnowa,6B,82-444
+767,Wrocław,Wschód,Pogodna,46A,89-967
+768,Gdynia,Wschód,Sosnowa,54A,61-814
+769,Warszawa,Południe,Piłsudskiego,72A,27-454
+770,Wrocław,Stare Miasto,Pogodna,57B,94-238
+771,Sopot,Północ,Mickiewicza,35A,86-183
+772,Warszawa,Zachód,Mickiewicza,21B,60-271
+773,Gdańsk,Południe,Sosnowa,86C,65-479
+774,Gdańsk,Wschód,Miła,37A,83-650
+775,Kraków,Centrum,Grunwaldzka,75B,53-735
+776,Gdańsk,Wschód,Piłsudskiego,86C,98-925
+777,Poznań,Zachód,Klonowa,91C,24-378
+778,Poznań,Zachód,Sosnowa,2B,28-255
+779,Sopot,Centrum,Mickiewicza,58C,43-688
+780,Warszawa,Północ,Klonowa,61B,81-324
+781,Warszawa,Stare Miasto,Grunwaldzka,8B,79-637
+782,Gdynia,Zachód,Piłsudskiego,39C,30-904
+783,Kraków,Zachód,Klonowa,22C,40-738
+784,Sopot,Południe,Sosnowa,90C,96-552
+785,Gdańsk,Północ,Piłsudskiego,17B,56-964
+786,Kraków,Wschód,Sosnowa,61C,27-278
+787,Gdańsk,Północ,Grunwaldzka,44B,42-674
+788,Gdańsk,Wschód,Sosnowa,5C,75-355
+789,Warszawa,Zachód,Grunwaldzka,75A,62-168
+790,Gdynia,Północ,Sosnowa,75A,83-263
+791,Gdańsk,Stare Miasto,Mickiewicza,6C,76-263
+792,Poznań,Centrum,Sosnowa,63C,59-451
+793,Wrocław,Zachód,Sosnowa,12B,51-530
+794,Gdynia,Stare Miasto,Miła,7A,68-509
+795,Poznań,Wschód,Mickiewicza,73C,10-476
+796,Kraków,Centrum,Piłsudskiego,59C,88-791
+797,Warszawa,Południe,Piłsudskiego,12A,46-770
+798,Wrocław,Stare Miasto,Piłsudskiego,99B,29-895
+799,Wrocław,Zachód,Mickiewicza,82A,11-486
+800,Gdynia,Wschód,Piłsudskiego,25A,74-314
+801,Sopot,Południe,Klonowa,76C,44-108
+802,Wrocław,Zachód,Klonowa,73A,80-996
+803,Warszawa,Południe,Piłsudskiego,72B,49-406
+804,Poznań,Centrum,Klonowa,95C,94-529
+805,Kraków,Stare Miasto,Piłsudskiego,65A,56-896
+806,Gdańsk,Stare Miasto,Mickiewicza,49C,19-849
+807,Poznań,Wschód,Klonowa,60B,89-843
+808,Wrocław,Stare Miasto,Mickiewicza,14B,37-624
+809,Sopot,Wschód,Sosnowa,58C,47-786
+810,Sopot,Centrum,Piłsudskiego,19A,73-360
+811,Poznań,Wschód,Mickiewicza,28C,99-241
+812,Sopot,Południe,Piłsudskiego,29A,85-200
+813,Sopot,Północ,Mickiewicza,94C,52-537
+814,Poznań,Stare Miasto,Mickiewicza,6C,72-905
+815,Warszawa,Stare Miasto,Pogodna,96B,86-831
+816,Sopot,Wschód,Piłsudskiego,50A,88-968
+817,Warszawa,Południe,Sosnowa,14A,35-484
+818,Wrocław,Centrum,Mickiewicza,6B,53-826
+819,Gdańsk,Zachód,Sosnowa,33B,98-508
+820,Wrocław,Stare Miasto,Miła,49A,82-413
+821,Poznań,Wschód,Miła,100B,83-203
+822,Wrocław,Zachód,Miła,47B,30-488
+823,Gdańsk,Stare Miasto,Klonowa,3A,61-164
+824,Gdańsk,Stare Miasto,Sosnowa,95B,30-929
+825,Poznań,Stare Miasto,Grunwaldzka,22A,23-783
+826,Sopot,Centrum,Mickiewicza,64C,28-127
+827,Wrocław,Południe,Grunwaldzka,60A,53-343
+828,Wrocław,Centrum,Pogodna,11C,26-914
+829,Gdynia,Wschód,Piłsudskiego,76C,85-234
+830,Kraków,Północ,Piłsudskiego,18A,37-361
+831,Kraków,Północ,Grunwaldzka,63A,36-185
+832,Warszawa,Stare Miasto,Miła,78B,29-806
+833,Warszawa,Zachód,Grunwaldzka,21A,91-256
+834,Warszawa,Południe,Miła,20C,78-378
+835,Poznań,Wschód,Pogodna,60B,93-853
+836,Wrocław,Wschód,Piłsudskiego,26B,41-212
+837,Gdańsk,Południe,Sosnowa,89A,55-713
+838,Wrocław,Centrum,Sosnowa,9A,83-293
+839,Warszawa,Północ,Pogodna,15B,27-745
+840,Sopot,Południe,Sosnowa,44C,92-829
+841,Kraków,Stare Miasto,Klonowa,65C,50-147
+842,Gdańsk,Zachód,Sosnowa,91C,48-980
+843,Sopot,Centrum,Miła,68C,42-366
+844,Gdynia,Południe,Pogodna,49A,35-331
+845,Sopot,Stare Miasto,Miła,74B,20-745
+846,Warszawa,Stare Miasto,Mickiewicza,66C,94-565
+847,Kraków,Wschód,Grunwaldzka,38C,61-361
+848,Wrocław,Wschód,Pogodna,80B,12-117
+849,Gdynia,Południe,Mickiewicza,83C,69-544
+850,Warszawa,Stare Miasto,Mickiewicza,3C,32-844
+851,Kraków,Północ,Miła,27B,27-879
+852,Warszawa,Zachód,Sosnowa,11C,55-443
+853,Warszawa,Północ,Grunwaldzka,19B,89-951
+854,Kraków,Południe,Mickiewicza,16C,62-609
+855,Gdańsk,Południe,Mickiewicza,90C,12-667
+856,Warszawa,Północ,Piłsudskiego,27A,86-210
+857,Warszawa,Centrum,Mickiewicza,97A,63-506
+858,Warszawa,Południe,Klonowa,17B,45-314
+859,Sopot,Północ,Mickiewicza,22B,81-152
+860,Poznań,Stare Miasto,Grunwaldzka,44A,96-820
+861,Poznań,Stare Miasto,Klonowa,29A,19-445
+862,Kraków,Stare Miasto,Piłsudskiego,30C,14-239
+863,Gdynia,Południe,Miła,56B,38-988
+864,Sopot,Centrum,Piłsudskiego,46A,33-921
+865,Gdynia,Zachód,Pogodna,25B,76-136
+866,Poznań,Wschód,Grunwaldzka,22C,88-598
+867,Warszawa,Stare Miasto,Mickiewicza,91A,88-477
+868,Poznań,Zachód,Miła,69B,49-936
+869,Wrocław,Wschód,Pogodna,26A,36-893
+870,Gdańsk,Zachód,Piłsudskiego,32A,44-313
+871,Poznań,Centrum,Grunwaldzka,97C,86-782
+872,Kraków,Południe,Miła,25C,79-610
+873,Wrocław,Centrum,Pogodna,58C,85-348
+874,Poznań,Zachód,Piłsudskiego,49C,31-521
+875,Sopot,Wschód,Sosnowa,6A,14-780
+876,Warszawa,Wschód,Piłsudskiego,88B,67-697
+877,Wrocław,Stare Miasto,Piłsudskiego,89C,10-694
+878,Warszawa,Stare Miasto,Sosnowa,97A,95-167
+879,Gdynia,Stare Miasto,Piłsudskiego,64B,26-584
+880,Kraków,Północ,Pogodna,46B,84-469
+881,Gdańsk,Centrum,Pogodna,30C,50-580
+882,Poznań,Zachód,Klonowa,74B,37-839
+883,Kraków,Północ,Miła,78C,76-438
+884,Sopot,Południe,Miła,32A,51-885
+885,Wrocław,Wschód,Klonowa,25A,30-732
+886,Poznań,Wschód,Grunwaldzka,75C,59-609
+887,Poznań,Centrum,Pogodna,38A,11-609
+888,Sopot,Zachód,Klonowa,96A,75-896
+889,Gdynia,Południe,Grunwaldzka,31C,20-704
+890,Warszawa,Zachód,Klonowa,46B,23-372
+891,Warszawa,Centrum,Mickiewicza,29A,68-870
+892,Gdynia,Wschód,Pogodna,77C,11-216
+893,Kraków,Wschód,Sosnowa,95A,89-917
+894,Kraków,Zachód,Klonowa,25A,84-805
+895,Kraków,Centrum,Miła,37C,70-471
+896,Sopot,Wschód,Grunwaldzka,33C,96-406
+897,Kraków,Zachód,Piłsudskiego,88B,68-463
+898,Wrocław,Stare Miasto,Grunwaldzka,48C,20-638
+899,Poznań,Zachód,Klonowa,80C,32-878
+900,Wrocław,Północ,Grunwaldzka,22A,37-369
+901,Gdynia,Stare Miasto,Piłsudskiego,49A,54-573
+902,Gdynia,Centrum,Klonowa,62A,43-106
+903,Sopot,Północ,Klonowa,9B,86-175
+904,Wrocław,Zachód,Grunwaldzka,96C,52-269
+905,Wrocław,Południe,Grunwaldzka,12C,24-794
+906,Warszawa,Stare Miasto,Piłsudskiego,7C,47-746
+907,Poznań,Zachód,Mickiewicza,68A,83-341
+908,Gdańsk,Zachód,Grunwaldzka,78C,81-807
+909,Gdańsk,Zachód,Klonowa,99C,73-170
+910,Gdynia,Zachód,Sosnowa,20B,95-959
+911,Kraków,Północ,Mickiewicza,86C,85-765
+912,Gdańsk,Centrum,Pogodna,9B,78-701
+913,Warszawa,Wschód,Klonowa,52B,83-644
+914,Wrocław,Zachód,Klonowa,72B,10-896
+915,Sopot,Wschód,Piłsudskiego,94B,37-538
+916,Poznań,Stare Miasto,Sosnowa,69C,43-973
+917,Wrocław,Wschód,Pogodna,7B,33-436
+918,Gdańsk,Wschód,Piłsudskiego,50C,22-219
+919,Sopot,Wschód,Grunwaldzka,63B,22-370
+920,Warszawa,Południe,Sosnowa,10B,95-576
+921,Kraków,Południe,Piłsudskiego,51B,47-808
+922,Poznań,Wschód,Grunwaldzka,2A,24-439
+923,Gdynia,Centrum,Klonowa,53B,71-800
+924,Warszawa,Południe,Sosnowa,55B,97-890
+925,Poznań,Północ,Pogodna,90A,80-595
+926,Wrocław,Centrum,Piłsudskiego,14B,27-819
+927,Wrocław,Stare Miasto,Grunwaldzka,13A,44-962
+928,Kraków,Centrum,Miła,85C,36-609
+929,Gdańsk,Stare Miasto,Grunwaldzka,91A,70-111
+930,Warszawa,Południe,Pogodna,59C,89-898
+931,Sopot,Zachód,Miła,87B,81-724
+932,Gdynia,Wschód,Klonowa,58B,38-202
+933,Gdańsk,Stare Miasto,Pogodna,67B,64-447
+934,Kraków,Wschód,Sosnowa,83A,63-741
+935,Gdańsk,Stare Miasto,Mickiewicza,40A,52-430
+936,Gdynia,Zachód,Mickiewicza,45A,68-281
+937,Gdańsk,Stare Miasto,Grunwaldzka,32C,55-723
+938,Kraków,Zachód,Piłsudskiego,53C,13-824
+939,Warszawa,Wschód,Klonowa,93A,92-895
+940,Poznań,Południe,Pogodna,36A,65-222
+941,Wrocław,Stare Miasto,Piłsudskiego,47B,56-869
+942,Wrocław,Zachód,Pogodna,76B,91-839
+943,Sopot,Zachód,Sosnowa,4B,68-267
+944,Sopot,Stare Miasto,Mickiewicza,28C,53-514
+945,Gdynia,Wschód,Klonowa,41A,22-160
+946,Gdynia,Wschód,Pogodna,16B,57-948
+947,Poznań,Wschód,Pogodna,66C,40-253
+948,Warszawa,Centrum,Klonowa,17B,50-612
+949,Gdynia,Północ,Grunwaldzka,67C,42-164
+950,Poznań,Północ,Sosnowa,23C,56-458
+951,Poznań,Centrum,Mickiewicza,41B,65-114
+952,Poznań,Północ,Klonowa,9C,15-392
+953,Gdańsk,Zachód,Piłsudskiego,35B,26-930
+954,Sopot,Wschód,Klonowa,98C,39-299
+955,Sopot,Północ,Mickiewicza,49A,12-875
+956,Poznań,Stare Miasto,Mickiewicza,28C,96-887
+957,Wrocław,Stare Miasto,Miła,72A,89-631
+958,Poznań,Północ,Piłsudskiego,46C,17-752
+959,Gdynia,Centrum,Pogodna,19C,62-211
+960,Poznań,Wschód,Klonowa,69B,63-477
+961,Gdańsk,Zachód,Grunwaldzka,6C,30-567
+962,Poznań,Wschód,Mickiewicza,44B,69-790
+963,Poznań,Centrum,Miła,83C,17-170
+964,Poznań,Zachód,Grunwaldzka,65C,96-260
+965,Kraków,Stare Miasto,Pogodna,28B,99-681
+966,Gdynia,Zachód,Mickiewicza,9C,39-845
+967,Kraków,Północ,Mickiewicza,96A,82-518
+968,Gdańsk,Stare Miasto,Miła,87B,98-232
+969,Poznań,Północ,Miła,60A,50-843
+970,Gdańsk,Zachód,Mickiewicza,95A,53-407
+971,Warszawa,Północ,Pogodna,22C,42-642
+972,Gdynia,Centrum,Klonowa,98A,20-302
+973,Sopot,Wschód,Mickiewicza,38B,17-383
+974,Wrocław,Centrum,Sosnowa,30C,61-606
+975,Wrocław,Stare Miasto,Miła,64A,68-565
+976,Kraków,Północ,Klonowa,34A,33-982
+977,Gdynia,Centrum,Grunwaldzka,29B,87-918
+978,Warszawa,Zachód,Pogodna,59C,90-855
+979,Gdańsk,Południe,Pogodna,87C,51-887
+980,Poznań,Centrum,Mickiewicza,12A,13-136
+981,Sopot,Południe,Miła,41C,42-315
+982,Kraków,Stare Miasto,Mickiewicza,22B,73-889
+983,Poznań,Centrum,Grunwaldzka,13C,44-390
+984,Sopot,Wschód,Klonowa,78B,27-299
+985,Kraków,Wschód,Sosnowa,33B,68-574
+986,Warszawa,Zachód,Sosnowa,52A,76-241
+987,Poznań,Zachód,Sosnowa,85C,85-447
+988,Gdańsk,Zachód,Miła,78A,15-968
+989,Poznań,Północ,Mickiewicza,88A,58-530
+990,Wrocław,Centrum,Mickiewicza,99A,88-171
+991,Warszawa,Zachód,Klonowa,48A,97-333
+992,Gdańsk,Wschód,Sosnowa,90A,46-181
+993,Warszawa,Centrum,Sosnowa,20B,79-727
+994,Wrocław,Południe,Grunwaldzka,90C,82-500
+995,Gdańsk,Południe,Sosnowa,36B,75-142
+996,Warszawa,Zachód,Piłsudskiego,84B,13-326
+997,Gdynia,Stare Miasto,Sosnowa,98C,65-630
+998,Gdynia,Północ,Piłsudskiego,16A,68-652
+999,Gdańsk,Północ,Miła,37A,96-161
+1000,Poznań,Południe,Sosnowa,77A,66-586
