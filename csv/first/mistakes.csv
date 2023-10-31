@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ID,ID_przejazdu,Data,Godzina,Miejsce,Typ,Odchył_od_poprawnej_wartości
 1,90,2001-04-05 00:00:01,19:49,156,Gwałtowne hamowanie,1
 2,30,2001-01-17 00:00:01,11:09,363,Jazda na zbyt wysokich obrotach,2000
@@ -999,3 +1000,1006 @@ ID,ID_przejazdu,Data,Godzina,Miejsce,Typ,Odchył_od_poprawnej_wartości
 998,350,2001-04-17 00:00:01,09:58,625,Gwałtowne hamowanie,1
 999,344,2001-03-13 00:00:01,23:50,560,Parking w niedozwolonym miejscu,1
 1000,823,2001-05-10 00:00:01,13:19,19,Jazda na zbyt wysokich obrotach,1500
+=======
+ID,ID_przejazdu,Data,Godzina,Miejsce,Typ,Odchył_od_poprawnej_wartości
+1,997,2001-05-27 00:00:01,08:33,159,Gwałtowne hamowanie,1
+2,362,2001-03-16 00:00:01,02:15,896,Jazda na zbyt wysokich obrotach,2500
+3,139,2001-03-14 00:00:01,18:03,824,Jazda na zbyt wysokich obrotach,3000
+4,947,2001-01-01 00:00:01,22:47,836,Gwałtowne hamowanie,1
+5,697,2001-01-08 00:00:01,15:52,94,Niedostosowanie się do znaku nakazu/zakazu,1
+6,991,2001-05-19 00:00:01,20:46,486,Jazda na zbyt wysokich obrotach,2500
+7,183,2001-02-22 00:00:01,15:22,440,Przekroczenie prędkości,20
+8,436,2001-02-12 00:00:01,04:33,952,Nieprzepisowa zmiana pasa ruchu,1
+9,82,2001-02-05 00:00:01,17:14,28,Niedostosowanie się do znaku nakazu/zakazu,1
+10,148,2001-05-19 00:00:01,09:21,661,Niedostosowanie się do znaku nakazu/zakazu,1
+11,848,2001-05-15 00:00:01,10:59,51,Jazda na zbyt wysokich obrotach,1500
+12,549,2001-01-09 00:00:01,06:51,844,Niedostosowanie się do znaku nakazu/zakazu,1
+13,490,2001-05-03 00:00:01,06:25,260,Gwałtowne hamowanie,1
+14,341,2001-03-19 00:00:01,21:28,558,Jazda na zbyt wysokich obrotach,2500
+15,782,2001-02-13 00:00:01,12:33,780,Niedostosowanie się do znaku nakazu/zakazu,1
+16,733,2001-03-01 00:00:01,03:33,153,Gwałtowne hamowanie,1
+17,716,2001-02-10 00:00:01,09:09,94,Nieprzepisowa zmiana pasa ruchu,1
+18,753,2001-05-19 00:00:01,02:43,994,Jazda na zbyt wysokich obrotach,3000
+19,149,2001-02-01 00:00:01,11:42,290,Niedostosowanie się do znaku nakazu/zakazu,1
+20,178,2001-03-18 00:00:01,03:45,893,Jazda na zbyt wysokich obrotach,1000
+21,544,2001-02-16 00:00:01,01:00,471,Parking w niedozwolonym miejscu,1
+22,707,2001-01-25 00:00:01,09:06,690,Przekroczenie prędkości,40
+23,670,2001-05-22 00:00:01,03:14,324,Parking w niedozwolonym miejscu,1
+24,721,2001-05-02 00:00:01,10:53,874,Przekroczenie prędkości,10
+25,940,2001-01-11 00:00:01,19:34,205,Parking w niedozwolonym miejscu,1
+26,744,2001-02-25 00:00:01,08:31,265,Jazda na zbyt wysokich obrotach,1000
+27,735,2001-05-28 00:00:01,01:32,921,Nieprzepisowa zmiana pasa ruchu,1
+28,284,2001-05-23 00:00:01,18:47,838,Gwałtowne hamowanie,1
+29,583,2001-05-07 00:00:01,05:44,881,Przekroczenie prędkości,40
+30,583,2001-05-02 00:00:01,12:25,925,Nieprzepisowa zmiana pasa ruchu,1
+31,621,2001-04-14 00:00:01,07:17,932,Jazda na zbyt wysokich obrotach,2000
+32,892,2001-03-11 00:00:01,14:32,900,Przekroczenie prędkości,50
+33,119,2001-03-27 00:00:01,10:25,508,Parking w niedozwolonym miejscu,1
+34,640,2001-03-14 00:00:01,11:10,618,Gwałtowne hamowanie,1
+35,642,2001-05-02 00:00:01,14:59,838,Jazda na zbyt wysokich obrotach,1500
+36,93,2001-06-03 00:00:01,22:33,389,Niedostosowanie się do znaku nakazu/zakazu,1
+37,51,2001-01-01 00:00:01,14:44,291,Niedostosowanie się do znaku nakazu/zakazu,1
+38,836,2001-05-04 00:00:01,06:35,895,Przekroczenie prędkości,40
+39,380,2001-04-26 00:00:01,04:12,368,Gwałtowne hamowanie,1
+40,181,2001-04-14 00:00:01,11:03,250,Nieprzepisowa zmiana pasa ruchu,1
+41,977,2001-02-27 00:00:01,13:41,839,Parking w niedozwolonym miejscu,1
+42,798,2001-04-26 00:00:01,02:25,10,Jazda na zbyt wysokich obrotach,1000
+43,37,2001-01-04 00:00:01,21:39,733,Nieprzepisowa zmiana pasa ruchu,1
+44,392,2001-03-13 00:00:01,21:25,119,Przekroczenie prędkości,40
+45,868,2001-02-13 00:00:01,14:12,26,Nieprzepisowa zmiana pasa ruchu,1
+46,163,2001-05-17 00:00:01,19:34,966,Parking w niedozwolonym miejscu,1
+47,574,2001-02-18 00:00:01,03:58,354,Jazda na zbyt wysokich obrotach,3000
+48,438,2001-05-26 00:00:01,23:51,480,Gwałtowne hamowanie,1
+49,47,2001-05-27 00:00:01,06:23,14,Nieprzepisowa zmiana pasa ruchu,1
+50,712,2001-05-06 00:00:01,03:28,752,Przekroczenie prędkości,50
+51,931,2001-06-02 00:00:01,08:03,191,Parking w niedozwolonym miejscu,1
+52,234,2001-04-04 00:00:01,16:37,790,Niedostosowanie się do znaku nakazu/zakazu,1
+53,350,2001-04-22 00:00:01,17:44,57,Niedostosowanie się do znaku nakazu/zakazu,1
+54,459,2001-01-08 00:00:01,16:35,25,Przekroczenie prędkości,50
+55,592,2001-01-05 00:00:01,21:22,292,Przekroczenie prędkości,10
+56,839,2001-05-28 00:00:01,18:58,463,Niedostosowanie się do znaku nakazu/zakazu,1
+57,721,2001-05-08 00:00:01,11:02,159,Jazda na zbyt wysokich obrotach,1500
+58,152,2001-01-31 00:00:01,20:01,24,Nieprzepisowa zmiana pasa ruchu,1
+59,386,2001-02-03 00:00:01,05:22,368,Przekroczenie prędkości,30
+60,527,2001-02-21 00:00:01,19:06,502,Jazda na zbyt wysokich obrotach,1500
+61,395,2001-02-25 00:00:01,03:31,407,Nieprzepisowa zmiana pasa ruchu,1
+62,206,2001-01-16 00:00:01,06:16,423,Niedostosowanie się do znaku nakazu/zakazu,1
+63,600,2001-01-23 00:00:01,06:42,324,Niedostosowanie się do znaku nakazu/zakazu,1
+64,817,2001-05-24 00:00:01,00:24,675,Przekroczenie prędkości,10
+65,706,2001-04-29 00:00:01,06:06,581,Jazda na zbyt wysokich obrotach,1000
+66,520,2001-01-01 00:00:01,16:57,948,Gwałtowne hamowanie,1
+67,368,2001-03-29 00:00:01,08:36,513,Przekroczenie prędkości,10
+68,982,2001-02-02 00:00:01,20:21,430,Parking w niedozwolonym miejscu,1
+69,735,2001-04-14 00:00:01,00:18,907,Parking w niedozwolonym miejscu,1
+70,492,2001-03-31 00:00:01,16:53,589,Nieprzepisowa zmiana pasa ruchu,1
+71,310,2001-02-13 00:00:01,09:10,597,Parking w niedozwolonym miejscu,1
+72,136,2001-02-11 00:00:01,15:56,117,Gwałtowne hamowanie,1
+73,551,2001-05-10 00:00:01,17:17,164,Przekroczenie prędkości,10
+74,58,2001-03-07 00:00:01,18:55,749,Nieprzepisowa zmiana pasa ruchu,1
+75,817,2001-03-18 00:00:01,02:50,807,Nieprzepisowa zmiana pasa ruchu,1
+76,777,2001-04-19 00:00:01,13:19,626,Przekroczenie prędkości,30
+77,265,2001-04-06 00:00:01,15:23,387,Niedostosowanie się do znaku nakazu/zakazu,1
+78,514,2001-04-29 00:00:01,18:49,879,Parking w niedozwolonym miejscu,1
+79,415,2001-03-08 00:00:01,04:01,861,Niedostosowanie się do znaku nakazu/zakazu,1
+80,347,2001-02-21 00:00:01,20:31,878,Parking w niedozwolonym miejscu,1
+81,24,2001-05-13 00:00:01,14:47,650,Niedostosowanie się do znaku nakazu/zakazu,1
+82,944,2001-01-26 00:00:01,17:56,806,Niedostosowanie się do znaku nakazu/zakazu,1
+83,661,2001-02-03 00:00:01,21:58,384,Jazda na zbyt wysokich obrotach,1500
+84,197,2001-05-28 00:00:01,23:30,729,Przekroczenie prędkości,40
+85,215,2001-02-20 00:00:01,14:13,800,Parking w niedozwolonym miejscu,1
+86,950,2001-04-18 00:00:01,23:29,292,Parking w niedozwolonym miejscu,1
+87,828,2001-02-16 00:00:01,06:20,120,Parking w niedozwolonym miejscu,1
+88,684,2001-03-05 00:00:01,18:03,637,Parking w niedozwolonym miejscu,1
+89,838,2001-05-28 00:00:01,03:49,894,Jazda na zbyt wysokich obrotach,3000
+90,23,2001-05-24 00:00:01,11:48,357,Nieprzepisowa zmiana pasa ruchu,1
+91,427,2001-01-20 00:00:01,05:53,525,Przekroczenie prędkości,50
+92,844,2001-02-28 00:00:01,03:26,424,Jazda na zbyt wysokich obrotach,2000
+93,274,2001-05-09 00:00:01,16:06,537,Przekroczenie prędkości,20
+94,76,2001-04-05 00:00:01,18:28,796,Niedostosowanie się do znaku nakazu/zakazu,1
+95,124,2001-01-30 00:00:01,04:54,555,Przekroczenie prędkości,10
+96,135,2001-03-09 00:00:01,10:21,899,Parking w niedozwolonym miejscu,1
+97,274,2001-01-22 00:00:01,07:01,427,Przekroczenie prędkości,10
+98,905,2001-01-10 00:00:01,22:36,64,Niedostosowanie się do znaku nakazu/zakazu,1
+99,361,2001-06-05 00:00:01,20:00,226,Przekroczenie prędkości,50
+100,242,2001-01-06 00:00:01,10:12,434,Gwałtowne hamowanie,1
+101,247,2001-02-07 00:00:01,01:02,176,Jazda na zbyt wysokich obrotach,1000
+102,808,2001-03-18 00:00:01,07:31,567,Przekroczenie prędkości,10
+103,821,2001-05-16 00:00:01,17:56,910,Nieprzepisowa zmiana pasa ruchu,1
+104,895,2001-06-06 00:00:01,19:40,838,Jazda na zbyt wysokich obrotach,1500
+105,463,2001-02-12 00:00:01,03:55,280,Nieprzepisowa zmiana pasa ruchu,1
+106,688,2001-01-26 00:00:01,02:48,819,Nieprzepisowa zmiana pasa ruchu,1
+107,66,2001-01-03 00:00:01,01:09,356,Niedostosowanie się do znaku nakazu/zakazu,1
+108,330,2001-02-03 00:00:01,23:25,82,Gwałtowne hamowanie,1
+109,846,2001-01-27 00:00:01,08:09,280,Gwałtowne hamowanie,1
+110,693,2001-02-11 00:00:01,01:06,464,Przekroczenie prędkości,40
+111,396,2001-03-31 00:00:01,12:26,185,Gwałtowne hamowanie,1
+112,761,2001-05-05 00:00:01,13:58,872,Nieprzepisowa zmiana pasa ruchu,1
+113,741,2001-03-18 00:00:01,21:47,450,Niedostosowanie się do znaku nakazu/zakazu,1
+114,182,2001-05-26 00:00:01,01:11,779,Parking w niedozwolonym miejscu,1
+115,773,2001-03-17 00:00:01,17:39,301,Niedostosowanie się do znaku nakazu/zakazu,1
+116,232,2001-04-09 00:00:01,00:21,770,Gwałtowne hamowanie,1
+117,550,2001-01-18 00:00:01,11:22,594,Przekroczenie prędkości,40
+118,728,2001-01-26 00:00:01,01:39,653,Parking w niedozwolonym miejscu,1
+119,787,2001-02-22 00:00:01,21:14,701,Gwałtowne hamowanie,1
+120,184,2001-04-28 00:00:01,18:49,865,Jazda na zbyt wysokich obrotach,1500
+121,389,2001-02-25 00:00:01,22:16,124,Nieprzepisowa zmiana pasa ruchu,1
+122,328,2001-05-25 00:00:01,13:39,97,Gwałtowne hamowanie,1
+123,909,2001-05-07 00:00:01,11:14,660,Nieprzepisowa zmiana pasa ruchu,1
+124,331,2001-03-23 00:00:01,04:42,58,Nieprzepisowa zmiana pasa ruchu,1
+125,106,2001-02-18 00:00:01,03:31,51,Gwałtowne hamowanie,1
+126,476,2001-05-13 00:00:01,19:44,512,Przekroczenie prędkości,20
+127,218,2001-01-31 00:00:01,12:32,237,Gwałtowne hamowanie,1
+128,72,2001-05-23 00:00:01,03:08,120,Przekroczenie prędkości,40
+129,913,2001-04-14 00:00:01,20:39,738,Przekroczenie prędkości,40
+130,244,2001-04-21 00:00:01,02:19,546,Niedostosowanie się do znaku nakazu/zakazu,1
+131,634,2001-01-24 00:00:01,20:25,736,Przekroczenie prędkości,50
+132,594,2001-03-16 00:00:01,01:51,93,Gwałtowne hamowanie,1
+133,904,2001-04-22 00:00:01,19:19,730,Przekroczenie prędkości,20
+134,322,2001-01-29 00:00:01,10:53,424,Jazda na zbyt wysokich obrotach,2000
+135,542,2001-01-23 00:00:01,11:09,905,Jazda na zbyt wysokich obrotach,2500
+136,271,2001-01-25 00:00:01,20:17,432,Przekroczenie prędkości,50
+137,511,2001-02-23 00:00:01,09:18,195,Jazda na zbyt wysokich obrotach,3000
+138,604,2001-05-11 00:00:01,09:12,427,Nieprzepisowa zmiana pasa ruchu,1
+139,314,2001-03-04 00:00:01,18:08,453,Niedostosowanie się do znaku nakazu/zakazu,1
+140,382,2001-05-29 00:00:01,21:46,499,Nieprzepisowa zmiana pasa ruchu,1
+141,674,2001-02-24 00:00:01,14:55,784,Parking w niedozwolonym miejscu,1
+142,89,2001-03-28 00:00:01,11:05,750,Przekroczenie prędkości,40
+143,423,2001-03-27 00:00:01,16:58,395,Parking w niedozwolonym miejscu,1
+144,257,2001-05-15 00:00:01,00:48,327,Gwałtowne hamowanie,1
+145,823,2001-01-23 00:00:01,21:23,392,Niedostosowanie się do znaku nakazu/zakazu,1
+146,158,2001-04-16 00:00:01,14:06,136,Przekroczenie prędkości,20
+147,403,2001-04-30 00:00:01,10:58,139,Gwałtowne hamowanie,1
+148,112,2001-01-19 00:00:01,05:26,763,Gwałtowne hamowanie,1
+149,83,2001-05-09 00:00:01,00:09,727,Przekroczenie prędkości,20
+150,907,2001-05-22 00:00:01,19:20,685,Jazda na zbyt wysokich obrotach,1000
+151,241,2001-04-06 00:00:01,10:52,319,Niedostosowanie się do znaku nakazu/zakazu,1
+152,713,2001-03-10 00:00:01,23:13,951,Nieprzepisowa zmiana pasa ruchu,1
+153,745,2001-05-17 00:00:01,14:41,565,Parking w niedozwolonym miejscu,1
+154,873,2001-02-20 00:00:01,07:58,337,Jazda na zbyt wysokich obrotach,2500
+155,732,2001-01-11 00:00:01,01:43,29,Nieprzepisowa zmiana pasa ruchu,1
+156,339,2001-02-01 00:00:01,07:05,511,Parking w niedozwolonym miejscu,1
+157,768,2001-04-16 00:00:01,17:25,665,Parking w niedozwolonym miejscu,1
+158,233,2001-01-27 00:00:01,08:41,870,Jazda na zbyt wysokich obrotach,1500
+159,747,2001-01-17 00:00:01,14:09,869,Niedostosowanie się do znaku nakazu/zakazu,1
+160,198,2001-02-13 00:00:01,23:36,913,Niedostosowanie się do znaku nakazu/zakazu,1
+161,81,2001-02-19 00:00:01,19:08,946,Gwałtowne hamowanie,1
+162,560,2001-05-20 00:00:01,11:48,728,Niedostosowanie się do znaku nakazu/zakazu,1
+163,929,2001-01-27 00:00:01,12:32,155,Nieprzepisowa zmiana pasa ruchu,1
+164,941,2001-02-27 00:00:01,15:18,895,Gwałtowne hamowanie,1
+165,479,2001-01-22 00:00:01,05:44,84,Jazda na zbyt wysokich obrotach,1500
+166,770,2001-02-25 00:00:01,04:51,297,Niedostosowanie się do znaku nakazu/zakazu,1
+167,547,2001-02-14 00:00:01,23:13,300,Nieprzepisowa zmiana pasa ruchu,1
+168,375,2001-03-06 00:00:01,20:11,770,Gwałtowne hamowanie,1
+169,209,2001-04-01 00:00:01,21:36,105,Jazda na zbyt wysokich obrotach,1500
+170,652,2001-01-26 00:00:01,20:29,625,Nieprzepisowa zmiana pasa ruchu,1
+171,633,2001-02-24 00:00:01,13:16,799,Gwałtowne hamowanie,1
+172,228,2001-01-28 00:00:01,01:21,13,Gwałtowne hamowanie,1
+173,71,2001-02-09 00:00:01,02:18,162,Nieprzepisowa zmiana pasa ruchu,1
+174,433,2001-02-08 00:00:01,19:32,707,Nieprzepisowa zmiana pasa ruchu,1
+175,274,2001-04-05 00:00:01,09:35,391,Parking w niedozwolonym miejscu,1
+176,994,2001-06-01 00:00:01,10:43,960,Nieprzepisowa zmiana pasa ruchu,1
+177,484,2001-05-11 00:00:01,11:04,643,Nieprzepisowa zmiana pasa ruchu,1
+178,363,2001-02-01 00:00:01,15:40,530,Nieprzepisowa zmiana pasa ruchu,1
+179,89,2001-03-14 00:00:01,03:29,923,Jazda na zbyt wysokich obrotach,1500
+180,392,2001-03-12 00:00:01,00:16,165,Gwałtowne hamowanie,1
+181,163,2001-04-09 00:00:01,00:46,57,Niedostosowanie się do znaku nakazu/zakazu,1
+182,884,2001-03-12 00:00:01,12:34,302,Nieprzepisowa zmiana pasa ruchu,1
+183,2,2001-03-21 00:00:01,16:08,937,Jazda na zbyt wysokich obrotach,2500
+184,122,2001-03-26 00:00:01,11:31,570,Niedostosowanie się do znaku nakazu/zakazu,1
+185,488,2001-01-14 00:00:01,20:49,714,Jazda na zbyt wysokich obrotach,2000
+186,970,2001-03-28 00:00:01,13:11,687,Jazda na zbyt wysokich obrotach,3000
+187,907,2001-05-18 00:00:01,03:22,469,Parking w niedozwolonym miejscu,1
+188,388,2001-02-26 00:00:01,08:35,242,Przekroczenie prędkości,20
+189,885,2001-02-19 00:00:01,03:29,96,Jazda na zbyt wysokich obrotach,2500
+190,24,2001-03-16 00:00:01,16:26,800,Nieprzepisowa zmiana pasa ruchu,1
+191,717,2001-06-05 00:00:01,14:46,824,Jazda na zbyt wysokich obrotach,2500
+192,172,2001-02-06 00:00:01,17:44,146,Przekroczenie prędkości,30
+193,791,2001-02-19 00:00:01,10:42,50,Niedostosowanie się do znaku nakazu/zakazu,1
+194,889,2001-04-28 00:00:01,12:07,92,Nieprzepisowa zmiana pasa ruchu,1
+195,221,2001-05-18 00:00:01,00:33,556,Nieprzepisowa zmiana pasa ruchu,1
+196,934,2001-01-21 00:00:01,16:07,668,Przekroczenie prędkości,40
+197,646,2001-02-12 00:00:01,03:11,920,Jazda na zbyt wysokich obrotach,2500
+198,634,2001-02-07 00:00:01,22:49,687,Parking w niedozwolonym miejscu,1
+199,58,2001-02-12 00:00:01,19:25,331,Parking w niedozwolonym miejscu,1
+200,218,2001-01-08 00:00:01,05:09,284,Nieprzepisowa zmiana pasa ruchu,1
+201,149,2001-03-31 00:00:01,07:46,991,Jazda na zbyt wysokich obrotach,1000
+202,453,2001-05-05 00:00:01,22:33,431,Przekroczenie prędkości,40
+203,900,2001-03-29 00:00:01,01:24,606,Jazda na zbyt wysokich obrotach,3000
+204,498,2001-02-10 00:00:01,03:16,70,Niedostosowanie się do znaku nakazu/zakazu,1
+205,184,2001-05-09 00:00:01,17:05,244,Przekroczenie prędkości,10
+206,24,2001-01-04 00:00:01,16:22,58,Gwałtowne hamowanie,1
+207,786,2001-02-15 00:00:01,01:53,180,Gwałtowne hamowanie,1
+208,131,2001-05-30 00:00:01,16:43,694,Nieprzepisowa zmiana pasa ruchu,1
+209,959,2001-04-02 00:00:01,15:23,386,Parking w niedozwolonym miejscu,1
+210,275,2001-01-21 00:00:01,15:20,432,Niedostosowanie się do znaku nakazu/zakazu,1
+211,842,2001-05-04 00:00:01,19:10,233,Niedostosowanie się do znaku nakazu/zakazu,1
+212,945,2001-05-16 00:00:01,15:47,159,Jazda na zbyt wysokich obrotach,3000
+213,179,2001-03-10 00:00:01,05:08,718,Przekroczenie prędkości,20
+214,627,2001-03-10 00:00:01,13:01,720,Nieprzepisowa zmiana pasa ruchu,1
+215,258,2001-03-11 00:00:01,15:25,962,Gwałtowne hamowanie,1
+216,360,2001-04-25 00:00:01,10:37,577,Niedostosowanie się do znaku nakazu/zakazu,1
+217,330,2001-04-22 00:00:01,14:02,721,Parking w niedozwolonym miejscu,1
+218,227,2001-05-21 00:00:01,21:34,984,Nieprzepisowa zmiana pasa ruchu,1
+219,760,2001-04-11 00:00:01,20:57,994,Przekroczenie prędkości,40
+220,666,2001-01-08 00:00:01,04:14,420,Nieprzepisowa zmiana pasa ruchu,1
+221,607,2001-02-15 00:00:01,13:51,676,Parking w niedozwolonym miejscu,1
+222,124,2001-02-09 00:00:01,06:26,788,Przekroczenie prędkości,20
+223,99,2001-03-22 00:00:01,10:49,269,Nieprzepisowa zmiana pasa ruchu,1
+224,195,2001-03-28 00:00:01,02:11,202,Jazda na zbyt wysokich obrotach,2000
+225,807,2001-02-03 00:00:01,16:00,171,Nieprzepisowa zmiana pasa ruchu,1
+226,428,2001-01-02 00:00:01,09:03,583,Parking w niedozwolonym miejscu,1
+227,311,2001-02-26 00:00:01,16:34,287,Nieprzepisowa zmiana pasa ruchu,1
+228,693,2001-02-14 00:00:01,05:26,945,Gwałtowne hamowanie,1
+229,196,2001-01-15 00:00:01,19:19,364,Parking w niedozwolonym miejscu,1
+230,522,2001-03-20 00:00:01,06:15,471,Gwałtowne hamowanie,1
+231,439,2001-05-20 00:00:01,21:00,605,Przekroczenie prędkości,40
+232,917,2001-01-03 00:00:01,15:49,716,Nieprzepisowa zmiana pasa ruchu,1
+233,403,2001-03-15 00:00:01,22:26,407,Gwałtowne hamowanie,1
+234,646,2001-01-03 00:00:01,06:02,638,Jazda na zbyt wysokich obrotach,1000
+235,57,2001-05-19 00:00:01,09:51,827,Parking w niedozwolonym miejscu,1
+236,468,2001-04-03 00:00:01,23:25,724,Przekroczenie prędkości,20
+237,279,2001-01-26 00:00:01,17:55,543,Przekroczenie prędkości,30
+238,418,2001-01-17 00:00:01,04:13,304,Parking w niedozwolonym miejscu,1
+239,348,2001-01-22 00:00:01,12:00,227,Niedostosowanie się do znaku nakazu/zakazu,1
+240,40,2001-05-17 00:00:01,11:36,402,Gwałtowne hamowanie,1
+241,703,2001-01-21 00:00:01,23:03,916,Jazda na zbyt wysokich obrotach,1000
+242,222,2001-04-25 00:00:01,00:45,455,Parking w niedozwolonym miejscu,1
+243,929,2001-02-20 00:00:01,04:26,615,Jazda na zbyt wysokich obrotach,1500
+244,234,2001-02-15 00:00:01,20:16,511,Gwałtowne hamowanie,1
+245,782,2001-06-06 00:00:01,08:26,445,Parking w niedozwolonym miejscu,1
+246,986,2001-05-09 00:00:01,13:02,6,Gwałtowne hamowanie,1
+247,497,2001-04-17 00:00:01,04:47,188,Jazda na zbyt wysokich obrotach,2500
+248,262,2001-05-10 00:00:01,06:26,40,Przekroczenie prędkości,40
+249,861,2001-01-26 00:00:01,08:48,293,Niedostosowanie się do znaku nakazu/zakazu,1
+250,768,2001-03-06 00:00:01,00:22,499,Nieprzepisowa zmiana pasa ruchu,1
+251,553,2001-02-05 00:00:01,17:10,685,Gwałtowne hamowanie,1
+252,255,2001-06-01 00:00:01,18:00,453,Przekroczenie prędkości,20
+253,149,2001-01-15 00:00:01,07:15,908,Parking w niedozwolonym miejscu,1
+254,412,2001-03-17 00:00:01,04:34,724,Niedostosowanie się do znaku nakazu/zakazu,1
+255,140,2001-04-13 00:00:01,15:41,441,Parking w niedozwolonym miejscu,1
+256,22,2001-06-04 00:00:01,04:53,631,Jazda na zbyt wysokich obrotach,1500
+257,549,2001-05-12 00:00:01,05:06,444,Przekroczenie prędkości,50
+258,496,2001-04-20 00:00:01,04:50,245,Przekroczenie prędkości,50
+259,854,2001-03-26 00:00:01,03:06,102,Niedostosowanie się do znaku nakazu/zakazu,1
+260,611,2001-03-09 00:00:01,16:33,945,Niedostosowanie się do znaku nakazu/zakazu,1
+261,986,2001-04-28 00:00:01,09:12,641,Nieprzepisowa zmiana pasa ruchu,1
+262,563,2001-05-08 00:00:01,22:54,913,Jazda na zbyt wysokich obrotach,3000
+263,569,2001-04-25 00:00:01,11:58,793,Niedostosowanie się do znaku nakazu/zakazu,1
+264,72,2001-05-25 00:00:01,17:40,841,Nieprzepisowa zmiana pasa ruchu,1
+265,513,2001-05-15 00:00:01,19:42,338,Gwałtowne hamowanie,1
+266,822,2001-02-07 00:00:01,08:29,760,Jazda na zbyt wysokich obrotach,1500
+267,509,2001-02-14 00:00:01,00:12,248,Przekroczenie prędkości,20
+268,850,2001-03-18 00:00:01,18:25,13,Jazda na zbyt wysokich obrotach,2500
+269,81,2001-05-28 00:00:01,11:06,457,Przekroczenie prędkości,30
+270,355,2001-02-07 00:00:01,01:46,750,Przekroczenie prędkości,50
+271,990,2001-01-01 00:00:01,10:22,97,Przekroczenie prędkości,40
+272,872,2001-02-17 00:00:01,10:08,897,Parking w niedozwolonym miejscu,1
+273,879,2001-05-31 00:00:01,19:24,460,Parking w niedozwolonym miejscu,1
+274,431,2001-05-31 00:00:01,01:27,117,Nieprzepisowa zmiana pasa ruchu,1
+275,25,2001-03-24 00:00:01,03:07,687,Jazda na zbyt wysokich obrotach,1500
+276,264,2001-03-19 00:00:01,10:01,175,Gwałtowne hamowanie,1
+277,546,2001-01-03 00:00:01,01:28,607,Niedostosowanie się do znaku nakazu/zakazu,1
+278,459,2001-01-06 00:00:01,20:14,806,Nieprzepisowa zmiana pasa ruchu,1
+279,559,2001-05-13 00:00:01,23:32,524,Niedostosowanie się do znaku nakazu/zakazu,1
+280,56,2001-02-10 00:00:01,01:20,473,Parking w niedozwolonym miejscu,1
+281,248,2001-01-03 00:00:01,16:51,7,Gwałtowne hamowanie,1
+282,227,2001-02-17 00:00:01,17:35,873,Parking w niedozwolonym miejscu,1
+283,815,2001-04-05 00:00:01,03:13,207,Gwałtowne hamowanie,1
+284,445,2001-02-06 00:00:01,08:20,758,Gwałtowne hamowanie,1
+285,662,2001-04-09 00:00:01,07:35,175,Parking w niedozwolonym miejscu,1
+286,72,2001-03-22 00:00:01,07:29,919,Przekroczenie prędkości,50
+287,514,2001-04-19 00:00:01,22:39,734,Niedostosowanie się do znaku nakazu/zakazu,1
+288,5,2001-03-14 00:00:01,14:41,231,Gwałtowne hamowanie,1
+289,526,2001-05-03 00:00:01,05:55,297,Jazda na zbyt wysokich obrotach,1000
+290,56,2001-05-09 00:00:01,16:10,662,Niedostosowanie się do znaku nakazu/zakazu,1
+291,33,2001-04-23 00:00:01,20:47,507,Przekroczenie prędkości,20
+292,159,2001-04-08 00:00:01,07:44,89,Parking w niedozwolonym miejscu,1
+293,807,2001-06-05 00:00:01,21:10,54,Jazda na zbyt wysokich obrotach,2000
+294,104,2001-02-17 00:00:01,00:31,816,Parking w niedozwolonym miejscu,1
+295,299,2001-03-05 00:00:01,01:04,381,Przekroczenie prędkości,30
+296,864,2001-05-23 00:00:01,10:58,541,Jazda na zbyt wysokich obrotach,2000
+297,303,2001-05-15 00:00:01,02:53,244,Przekroczenie prędkości,10
+298,532,2001-01-03 00:00:01,20:06,40,Niedostosowanie się do znaku nakazu/zakazu,1
+299,826,2001-05-30 00:00:01,23:52,590,Gwałtowne hamowanie,1
+300,375,2001-03-25 00:00:01,20:40,949,Jazda na zbyt wysokich obrotach,2500
+301,585,2001-04-14 00:00:01,07:32,550,Nieprzepisowa zmiana pasa ruchu,1
+302,609,2001-02-18 00:00:01,09:18,521,Przekroczenie prędkości,50
+303,710,2001-04-17 00:00:01,16:28,435,Gwałtowne hamowanie,1
+304,938,2001-02-19 00:00:01,10:43,544,Gwałtowne hamowanie,1
+305,231,2001-01-15 00:00:01,10:36,936,Niedostosowanie się do znaku nakazu/zakazu,1
+306,277,2001-01-22 00:00:01,18:47,653,Przekroczenie prędkości,10
+307,759,2001-01-25 00:00:01,19:28,184,Gwałtowne hamowanie,1
+308,160,2001-05-14 00:00:01,08:37,721,Niedostosowanie się do znaku nakazu/zakazu,1
+309,722,2001-04-12 00:00:01,09:11,600,Nieprzepisowa zmiana pasa ruchu,1
+310,596,2001-01-05 00:00:01,20:31,310,Jazda na zbyt wysokich obrotach,2000
+311,370,2001-02-09 00:00:01,12:13,686,Parking w niedozwolonym miejscu,1
+312,778,2001-02-02 00:00:01,18:07,633,Gwałtowne hamowanie,1
+313,881,2001-04-08 00:00:01,11:25,998,Nieprzepisowa zmiana pasa ruchu,1
+314,381,2001-04-13 00:00:01,18:23,997,Gwałtowne hamowanie,1
+315,576,2001-02-21 00:00:01,21:11,767,Parking w niedozwolonym miejscu,1
+316,770,2001-01-11 00:00:01,15:57,297,Parking w niedozwolonym miejscu,1
+317,793,2001-05-04 00:00:01,21:51,272,Przekroczenie prędkości,40
+318,824,2001-06-01 00:00:01,19:01,740,Jazda na zbyt wysokich obrotach,3000
+319,433,2001-03-27 00:00:01,05:18,520,Nieprzepisowa zmiana pasa ruchu,1
+320,322,2001-03-06 00:00:01,12:38,632,Jazda na zbyt wysokich obrotach,2000
+321,228,2001-04-13 00:00:01,18:43,842,Niedostosowanie się do znaku nakazu/zakazu,1
+322,297,2001-01-23 00:00:01,15:33,702,Jazda na zbyt wysokich obrotach,2000
+323,741,2001-01-19 00:00:01,14:40,898,Niedostosowanie się do znaku nakazu/zakazu,1
+324,755,2001-05-14 00:00:01,14:59,840,Gwałtowne hamowanie,1
+325,908,2001-05-14 00:00:01,10:07,922,Przekroczenie prędkości,30
+326,312,2001-01-24 00:00:01,12:06,356,Przekroczenie prędkości,50
+327,189,2001-04-10 00:00:01,01:55,787,Nieprzepisowa zmiana pasa ruchu,1
+328,323,2001-03-15 00:00:01,10:46,209,Jazda na zbyt wysokich obrotach,1500
+329,388,2001-03-15 00:00:01,03:49,349,Niedostosowanie się do znaku nakazu/zakazu,1
+330,466,2001-02-05 00:00:01,07:54,457,Gwałtowne hamowanie,1
+331,466,2001-03-28 00:00:01,13:07,545,Niedostosowanie się do znaku nakazu/zakazu,1
+332,501,2001-03-11 00:00:01,19:43,584,Nieprzepisowa zmiana pasa ruchu,1
+333,208,2001-03-05 00:00:01,19:18,962,Nieprzepisowa zmiana pasa ruchu,1
+334,176,2001-04-20 00:00:01,00:33,21,Niedostosowanie się do znaku nakazu/zakazu,1
+335,605,2001-04-02 00:00:01,13:04,525,Gwałtowne hamowanie,1
+336,182,2001-04-05 00:00:01,06:10,454,Gwałtowne hamowanie,1
+337,133,2001-04-08 00:00:01,08:52,352,Parking w niedozwolonym miejscu,1
+338,349,2001-02-08 00:00:01,16:32,271,Parking w niedozwolonym miejscu,1
+339,977,2001-03-23 00:00:01,13:43,558,Przekroczenie prędkości,20
+340,427,2001-03-23 00:00:01,01:44,208,Nieprzepisowa zmiana pasa ruchu,1
+341,98,2001-03-21 00:00:01,02:09,938,Jazda na zbyt wysokich obrotach,3000
+342,795,2001-03-22 00:00:01,19:28,291,Jazda na zbyt wysokich obrotach,2500
+343,92,2001-02-11 00:00:01,00:16,436,Parking w niedozwolonym miejscu,1
+344,664,2001-01-18 00:00:01,16:55,218,Przekroczenie prędkości,50
+345,485,2001-02-19 00:00:01,18:04,222,Jazda na zbyt wysokich obrotach,3000
+346,226,2001-03-27 00:00:01,13:27,977,Parking w niedozwolonym miejscu,1
+347,426,2001-05-04 00:00:01,21:45,400,Parking w niedozwolonym miejscu,1
+348,285,2001-01-05 00:00:01,13:51,178,Nieprzepisowa zmiana pasa ruchu,1
+349,576,2001-04-23 00:00:01,23:57,164,Gwałtowne hamowanie,1
+350,856,2001-01-11 00:00:01,10:52,162,Gwałtowne hamowanie,1
+351,206,2001-01-23 00:00:01,02:52,540,Parking w niedozwolonym miejscu,1
+352,473,2001-05-21 00:00:01,18:38,872,Jazda na zbyt wysokich obrotach,2000
+353,326,2001-04-23 00:00:01,12:37,430,Nieprzepisowa zmiana pasa ruchu,1
+354,288,2001-03-07 00:00:01,19:44,385,Nieprzepisowa zmiana pasa ruchu,1
+355,471,2001-04-21 00:00:01,13:37,768,Jazda na zbyt wysokich obrotach,2000
+356,504,2001-01-31 00:00:01,00:36,636,Niedostosowanie się do znaku nakazu/zakazu,1
+357,891,2001-05-17 00:00:01,08:02,465,Nieprzepisowa zmiana pasa ruchu,1
+358,593,2001-01-28 00:00:01,16:48,158,Niedostosowanie się do znaku nakazu/zakazu,1
+359,911,2001-04-28 00:00:01,13:28,967,Nieprzepisowa zmiana pasa ruchu,1
+360,143,2001-03-12 00:00:01,02:43,469,Niedostosowanie się do znaku nakazu/zakazu,1
+361,551,2001-01-31 00:00:01,06:34,512,Parking w niedozwolonym miejscu,1
+362,725,2001-01-24 00:00:01,08:24,651,Jazda na zbyt wysokich obrotach,3000
+363,667,2001-02-08 00:00:01,16:57,918,Przekroczenie prędkości,10
+364,230,2001-06-04 00:00:01,12:29,147,Przekroczenie prędkości,40
+365,9,2001-01-11 00:00:01,11:25,862,Gwałtowne hamowanie,1
+366,769,2001-05-15 00:00:01,19:31,824,Jazda na zbyt wysokich obrotach,3000
+367,247,2001-01-23 00:00:01,07:41,57,Parking w niedozwolonym miejscu,1
+368,985,2001-01-05 00:00:01,01:16,288,Jazda na zbyt wysokich obrotach,3000
+369,445,2001-02-28 00:00:01,02:29,696,Parking w niedozwolonym miejscu,1
+370,789,2001-04-12 00:00:01,05:04,777,Gwałtowne hamowanie,1
+371,539,2001-05-16 00:00:01,00:07,691,Niedostosowanie się do znaku nakazu/zakazu,1
+372,973,2001-05-27 00:00:01,04:14,711,Nieprzepisowa zmiana pasa ruchu,1
+373,694,2001-03-06 00:00:01,00:11,195,Nieprzepisowa zmiana pasa ruchu,1
+374,309,2001-05-09 00:00:01,00:12,82,Jazda na zbyt wysokich obrotach,2000
+375,597,2001-04-05 00:00:01,12:13,7,Przekroczenie prędkości,20
+376,262,2001-03-12 00:00:01,18:21,303,Przekroczenie prędkości,30
+377,787,2001-06-01 00:00:01,14:10,718,Parking w niedozwolonym miejscu,1
+378,870,2001-05-30 00:00:01,23:35,594,Jazda na zbyt wysokich obrotach,1000
+379,395,2001-04-17 00:00:01,06:22,216,Nieprzepisowa zmiana pasa ruchu,1
+380,193,2001-05-23 00:00:01,03:54,451,Przekroczenie prędkości,20
+381,742,2001-02-06 00:00:01,14:17,127,Jazda na zbyt wysokich obrotach,2000
+382,545,2001-01-03 00:00:01,13:12,360,Nieprzepisowa zmiana pasa ruchu,1
+383,119,2001-06-02 00:00:01,04:07,397,Parking w niedozwolonym miejscu,1
+384,936,2001-01-07 00:00:01,02:52,806,Gwałtowne hamowanie,1
+385,380,2001-03-27 00:00:01,18:30,743,Przekroczenie prędkości,50
+386,265,2001-04-30 00:00:01,10:16,197,Nieprzepisowa zmiana pasa ruchu,1
+387,146,2001-03-05 00:00:01,02:36,991,Przekroczenie prędkości,10
+388,330,2001-05-22 00:00:01,20:32,731,Nieprzepisowa zmiana pasa ruchu,1
+389,255,2001-03-14 00:00:01,12:46,399,Przekroczenie prędkości,10
+390,338,2001-05-15 00:00:01,16:14,864,Jazda na zbyt wysokich obrotach,2000
+391,437,2001-02-15 00:00:01,21:15,793,Nieprzepisowa zmiana pasa ruchu,1
+392,422,2001-04-29 00:00:01,16:04,587,Parking w niedozwolonym miejscu,1
+393,467,2001-03-16 00:00:01,14:37,740,Gwałtowne hamowanie,1
+394,301,2001-01-12 00:00:01,03:13,163,Niedostosowanie się do znaku nakazu/zakazu,1
+395,495,2001-01-12 00:00:01,12:42,873,Przekroczenie prędkości,50
+396,866,2001-05-08 00:00:01,15:06,121,Gwałtowne hamowanie,1
+397,871,2001-02-16 00:00:01,10:33,990,Jazda na zbyt wysokich obrotach,1500
+398,626,2001-03-03 00:00:01,21:53,433,Parking w niedozwolonym miejscu,1
+399,705,2001-01-18 00:00:01,12:38,647,Nieprzepisowa zmiana pasa ruchu,1
+400,213,2001-05-08 00:00:01,22:01,698,Nieprzepisowa zmiana pasa ruchu,1
+401,539,2001-02-16 00:00:01,16:36,653,Gwałtowne hamowanie,1
+402,22,2001-05-07 00:00:01,22:47,70,Niedostosowanie się do znaku nakazu/zakazu,1
+403,173,2001-01-24 00:00:01,04:55,89,Niedostosowanie się do znaku nakazu/zakazu,1
+404,471,2001-06-04 00:00:01,21:48,544,Gwałtowne hamowanie,1
+405,714,2001-04-10 00:00:01,06:35,409,Parking w niedozwolonym miejscu,1
+406,945,2001-02-07 00:00:01,00:13,89,Jazda na zbyt wysokich obrotach,2500
+407,667,2001-06-01 00:00:01,16:18,548,Gwałtowne hamowanie,1
+408,83,2001-01-17 00:00:01,21:19,653,Parking w niedozwolonym miejscu,1
+409,464,2001-02-06 00:00:01,19:45,681,Parking w niedozwolonym miejscu,1
+410,944,2001-05-09 00:00:01,23:45,136,Nieprzepisowa zmiana pasa ruchu,1
+411,18,2001-03-18 00:00:01,23:24,834,Przekroczenie prędkości,10
+412,755,2001-01-17 00:00:01,19:55,982,Nieprzepisowa zmiana pasa ruchu,1
+413,808,2001-03-09 00:00:01,21:42,529,Nieprzepisowa zmiana pasa ruchu,1
+414,535,2001-01-16 00:00:01,17:35,469,Gwałtowne hamowanie,1
+415,764,2001-02-19 00:00:01,06:07,308,Jazda na zbyt wysokich obrotach,1000
+416,221,2001-04-03 00:00:01,02:38,718,Gwałtowne hamowanie,1
+417,345,2001-03-01 00:00:01,14:02,539,Niedostosowanie się do znaku nakazu/zakazu,1
+418,961,2001-02-26 00:00:01,14:43,8,Niedostosowanie się do znaku nakazu/zakazu,1
+419,689,2001-02-25 00:00:01,06:04,902,Niedostosowanie się do znaku nakazu/zakazu,1
+420,161,2001-04-21 00:00:01,02:47,546,Niedostosowanie się do znaku nakazu/zakazu,1
+421,682,2001-04-05 00:00:01,23:55,355,Parking w niedozwolonym miejscu,1
+422,38,2001-05-11 00:00:01,00:32,326,Nieprzepisowa zmiana pasa ruchu,1
+423,906,2001-05-16 00:00:01,17:42,789,Przekroczenie prędkości,20
+424,4,2001-03-11 00:00:01,07:06,388,Niedostosowanie się do znaku nakazu/zakazu,1
+425,746,2001-03-30 00:00:01,04:26,481,Gwałtowne hamowanie,1
+426,784,2001-04-06 00:00:01,23:36,286,Jazda na zbyt wysokich obrotach,2000
+427,726,2001-05-05 00:00:01,23:11,664,Gwałtowne hamowanie,1
+428,19,2001-01-10 00:00:01,01:35,407,Niedostosowanie się do znaku nakazu/zakazu,1
+429,792,2001-05-23 00:00:01,04:59,29,Jazda na zbyt wysokich obrotach,1500
+430,901,2001-05-18 00:00:01,09:00,575,Przekroczenie prędkości,20
+431,950,2001-02-15 00:00:01,15:12,443,Przekroczenie prędkości,40
+432,599,2001-01-02 00:00:01,23:54,96,Gwałtowne hamowanie,1
+433,489,2001-05-26 00:00:01,17:45,688,Jazda na zbyt wysokich obrotach,1500
+434,994,2001-02-18 00:00:01,04:40,200,Parking w niedozwolonym miejscu,1
+435,806,2001-04-12 00:00:01,08:30,398,Parking w niedozwolonym miejscu,1
+436,873,2001-02-22 00:00:01,06:03,75,Jazda na zbyt wysokich obrotach,1500
+437,424,2001-03-10 00:00:01,11:02,296,Gwałtowne hamowanie,1
+438,100,2001-05-12 00:00:01,11:33,51,Niedostosowanie się do znaku nakazu/zakazu,1
+439,494,2001-04-06 00:00:01,14:33,245,Niedostosowanie się do znaku nakazu/zakazu,1
+440,73,2001-03-18 00:00:01,04:43,236,Gwałtowne hamowanie,1
+441,892,2001-02-01 00:00:01,08:40,225,Przekroczenie prędkości,20
+442,3,2001-01-17 00:00:01,19:40,384,Niedostosowanie się do znaku nakazu/zakazu,1
+443,438,2001-05-03 00:00:01,11:46,413,Parking w niedozwolonym miejscu,1
+444,792,2001-03-13 00:00:01,05:22,793,Przekroczenie prędkości,10
+445,957,2001-01-24 00:00:01,01:30,506,Nieprzepisowa zmiana pasa ruchu,1
+446,208,2001-04-20 00:00:01,13:53,985,Parking w niedozwolonym miejscu,1
+447,34,2001-04-12 00:00:01,12:22,265,Niedostosowanie się do znaku nakazu/zakazu,1
+448,154,2001-04-01 00:00:01,00:43,8,Niedostosowanie się do znaku nakazu/zakazu,1
+449,976,2001-05-26 00:00:01,06:25,972,Jazda na zbyt wysokich obrotach,3000
+450,722,2001-05-02 00:00:01,22:59,894,Jazda na zbyt wysokich obrotach,1000
+451,31,2001-01-28 00:00:01,13:01,416,Przekroczenie prędkości,10
+452,778,2001-04-12 00:00:01,16:40,484,Nieprzepisowa zmiana pasa ruchu,1
+453,157,2001-06-06 00:00:01,11:39,332,Nieprzepisowa zmiana pasa ruchu,1
+454,194,2001-05-14 00:00:01,08:06,642,Niedostosowanie się do znaku nakazu/zakazu,1
+455,886,2001-03-20 00:00:01,03:55,517,Niedostosowanie się do znaku nakazu/zakazu,1
+456,967,2001-03-05 00:00:01,09:11,260,Niedostosowanie się do znaku nakazu/zakazu,1
+457,956,2001-01-11 00:00:01,03:16,459,Przekroczenie prędkości,20
+458,330,2001-04-10 00:00:01,04:24,965,Niedostosowanie się do znaku nakazu/zakazu,1
+459,759,2001-05-21 00:00:01,16:30,675,Niedostosowanie się do znaku nakazu/zakazu,1
+460,155,2001-02-17 00:00:01,13:22,224,Parking w niedozwolonym miejscu,1
+461,143,2001-01-10 00:00:01,10:35,978,Niedostosowanie się do znaku nakazu/zakazu,1
+462,134,2001-02-23 00:00:01,06:46,630,Przekroczenie prędkości,10
+463,211,2001-03-26 00:00:01,16:25,280,Parking w niedozwolonym miejscu,1
+464,302,2001-05-20 00:00:01,09:49,112,Niedostosowanie się do znaku nakazu/zakazu,1
+465,915,2001-02-01 00:00:01,03:21,317,Nieprzepisowa zmiana pasa ruchu,1
+466,267,2001-01-22 00:00:01,12:30,153,Jazda na zbyt wysokich obrotach,3000
+467,444,2001-03-23 00:00:01,10:18,996,Przekroczenie prędkości,50
+468,310,2001-05-20 00:00:01,02:18,425,Jazda na zbyt wysokich obrotach,3000
+469,32,2001-03-27 00:00:01,06:44,955,Niedostosowanie się do znaku nakazu/zakazu,1
+470,737,2001-03-11 00:00:01,17:57,764,Jazda na zbyt wysokich obrotach,2500
+471,538,2001-03-01 00:00:01,15:27,947,Gwałtowne hamowanie,1
+472,108,2001-03-03 00:00:01,09:42,807,Parking w niedozwolonym miejscu,1
+473,957,2001-03-09 00:00:01,04:07,585,Niedostosowanie się do znaku nakazu/zakazu,1
+474,53,2001-05-05 00:00:01,10:12,263,Gwałtowne hamowanie,1
+475,492,2001-03-26 00:00:01,18:59,270,Parking w niedozwolonym miejscu,1
+476,168,2001-04-25 00:00:01,15:56,292,Parking w niedozwolonym miejscu,1
+477,805,2001-03-23 00:00:01,15:44,947,Parking w niedozwolonym miejscu,1
+478,639,2001-04-24 00:00:01,19:18,968,Parking w niedozwolonym miejscu,1
+479,470,2001-06-06 00:00:01,01:38,584,Gwałtowne hamowanie,1
+480,433,2001-04-28 00:00:01,17:52,150,Niedostosowanie się do znaku nakazu/zakazu,1
+481,910,2001-05-11 00:00:01,01:57,139,Przekroczenie prędkości,30
+482,102,2001-02-02 00:00:01,09:06,627,Przekroczenie prędkości,20
+483,488,2001-02-11 00:00:01,05:44,110,Parking w niedozwolonym miejscu,1
+484,13,2001-02-05 00:00:01,23:20,364,Jazda na zbyt wysokich obrotach,2500
+485,381,2001-02-26 00:00:01,10:30,736,Przekroczenie prędkości,50
+486,984,2001-03-29 00:00:01,04:36,936,Gwałtowne hamowanie,1
+487,202,2001-05-31 00:00:01,21:08,423,Nieprzepisowa zmiana pasa ruchu,1
+488,675,2001-01-11 00:00:01,16:24,121,Przekroczenie prędkości,40
+489,464,2001-06-02 00:00:01,01:56,503,Przekroczenie prędkości,40
+490,740,2001-03-01 00:00:01,13:54,871,Nieprzepisowa zmiana pasa ruchu,1
+491,356,2001-03-06 00:00:01,15:41,224,Gwałtowne hamowanie,1
+492,158,2001-01-07 00:00:01,01:47,4,Gwałtowne hamowanie,1
+493,139,2001-02-15 00:00:01,08:18,16,Nieprzepisowa zmiana pasa ruchu,1
+494,740,2001-06-04 00:00:01,08:24,828,Parking w niedozwolonym miejscu,1
+495,146,2001-05-31 00:00:01,20:50,183,Niedostosowanie się do znaku nakazu/zakazu,1
+496,210,2001-04-19 00:00:01,07:29,98,Jazda na zbyt wysokich obrotach,1000
+497,565,2001-01-11 00:00:01,16:28,592,Parking w niedozwolonym miejscu,1
+498,407,2001-03-29 00:00:01,23:01,583,Niedostosowanie się do znaku nakazu/zakazu,1
+499,840,2001-03-10 00:00:01,14:32,807,Nieprzepisowa zmiana pasa ruchu,1
+500,208,2001-02-04 00:00:01,00:09,501,Gwałtowne hamowanie,1
+501,217,2001-05-13 00:00:01,01:59,575,Parking w niedozwolonym miejscu,1
+502,203,2001-06-05 00:00:01,20:23,425,Parking w niedozwolonym miejscu,1
+503,594,2001-04-01 00:00:01,09:32,375,Gwałtowne hamowanie,1
+504,693,2001-02-23 00:00:01,02:56,203,Nieprzepisowa zmiana pasa ruchu,1
+505,58,2001-03-05 00:00:01,23:32,847,Przekroczenie prędkości,40
+506,974,2001-05-10 00:00:01,04:05,199,Nieprzepisowa zmiana pasa ruchu,1
+507,971,2001-01-11 00:00:01,13:00,792,Gwałtowne hamowanie,1
+508,606,2001-05-31 00:00:01,06:10,906,Niedostosowanie się do znaku nakazu/zakazu,1
+509,429,2001-05-10 00:00:01,06:24,992,Nieprzepisowa zmiana pasa ruchu,1
+510,690,2001-05-23 00:00:01,04:24,672,Gwałtowne hamowanie,1
+511,133,2001-02-09 00:00:01,14:58,881,Przekroczenie prędkości,40
+512,191,2001-03-19 00:00:01,05:35,122,Jazda na zbyt wysokich obrotach,1000
+513,622,2001-01-24 00:00:01,03:49,351,Nieprzepisowa zmiana pasa ruchu,1
+514,483,2001-02-20 00:00:01,18:42,952,Przekroczenie prędkości,40
+515,514,2001-02-25 00:00:01,04:17,858,Gwałtowne hamowanie,1
+516,530,2001-04-01 00:00:01,17:15,433,Jazda na zbyt wysokich obrotach,1000
+517,926,2001-02-23 00:00:01,10:09,301,Gwałtowne hamowanie,1
+518,277,2001-01-31 00:00:01,14:14,312,Gwałtowne hamowanie,1
+519,768,2001-04-10 00:00:01,05:14,668,Niedostosowanie się do znaku nakazu/zakazu,1
+520,78,2001-06-04 00:00:01,19:11,354,Nieprzepisowa zmiana pasa ruchu,1
+521,245,2001-02-18 00:00:01,12:17,948,Gwałtowne hamowanie,1
+522,840,2001-04-19 00:00:01,14:38,91,Niedostosowanie się do znaku nakazu/zakazu,1
+523,579,2001-02-05 00:00:01,13:11,246,Nieprzepisowa zmiana pasa ruchu,1
+524,298,2001-05-16 00:00:01,01:22,922,Przekroczenie prędkości,50
+525,599,2001-05-25 00:00:01,04:59,228,Parking w niedozwolonym miejscu,1
+526,975,2001-04-08 00:00:01,21:07,90,Przekroczenie prędkości,20
+527,369,2001-03-01 00:00:01,22:57,881,Nieprzepisowa zmiana pasa ruchu,1
+528,385,2001-02-03 00:00:01,11:05,116,Gwałtowne hamowanie,1
+529,781,2001-04-19 00:00:01,18:18,794,Jazda na zbyt wysokich obrotach,1500
+530,272,2001-05-17 00:00:01,01:58,168,Nieprzepisowa zmiana pasa ruchu,1
+531,91,2001-04-13 00:00:01,15:09,91,Nieprzepisowa zmiana pasa ruchu,1
+532,992,2001-05-27 00:00:01,20:46,615,Gwałtowne hamowanie,1
+533,568,2001-03-05 00:00:01,15:36,175,Gwałtowne hamowanie,1
+534,22,2001-02-04 00:00:01,18:22,278,Gwałtowne hamowanie,1
+535,18,2001-04-18 00:00:01,01:32,13,Parking w niedozwolonym miejscu,1
+536,849,2001-05-18 00:00:01,00:42,783,Gwałtowne hamowanie,1
+537,811,2001-01-17 00:00:01,07:12,610,Niedostosowanie się do znaku nakazu/zakazu,1
+538,31,2001-05-22 00:00:01,18:01,763,Parking w niedozwolonym miejscu,1
+539,960,2001-01-07 00:00:01,15:19,934,Nieprzepisowa zmiana pasa ruchu,1
+540,127,2001-04-12 00:00:01,23:51,865,Nieprzepisowa zmiana pasa ruchu,1
+541,814,2001-04-11 00:00:01,09:51,683,Przekroczenie prędkości,20
+542,86,2001-03-18 00:00:01,18:18,921,Przekroczenie prędkości,30
+543,152,2001-04-05 00:00:01,02:47,965,Gwałtowne hamowanie,1
+544,941,2001-03-24 00:00:01,16:52,418,Niedostosowanie się do znaku nakazu/zakazu,1
+545,714,2001-06-01 00:00:01,05:54,674,Nieprzepisowa zmiana pasa ruchu,1
+546,657,2001-03-25 00:00:01,21:27,348,Jazda na zbyt wysokich obrotach,3000
+547,600,2001-01-03 00:00:01,03:57,416,Niedostosowanie się do znaku nakazu/zakazu,1
+548,930,2001-03-05 00:00:01,11:52,28,Jazda na zbyt wysokich obrotach,2000
+549,646,2001-04-03 00:00:01,01:09,113,Jazda na zbyt wysokich obrotach,2000
+550,380,2001-05-09 00:00:01,10:27,518,Gwałtowne hamowanie,1
+551,364,2001-01-10 00:00:01,04:29,446,Przekroczenie prędkości,20
+552,345,2001-06-06 00:00:01,09:04,991,Gwałtowne hamowanie,1
+553,68,2001-01-11 00:00:01,09:49,875,Gwałtowne hamowanie,1
+554,151,2001-04-24 00:00:01,13:37,762,Nieprzepisowa zmiana pasa ruchu,1
+555,648,2001-05-07 00:00:01,13:24,510,Gwałtowne hamowanie,1
+556,125,2001-05-18 00:00:01,06:21,203,Jazda na zbyt wysokich obrotach,3000
+557,420,2001-04-16 00:00:01,02:25,298,Gwałtowne hamowanie,1
+558,597,2001-05-07 00:00:01,16:47,751,Gwałtowne hamowanie,1
+559,219,2001-06-01 00:00:01,07:01,356,Niedostosowanie się do znaku nakazu/zakazu,1
+560,196,2001-01-24 00:00:01,13:27,730,Parking w niedozwolonym miejscu,1
+561,438,2001-04-26 00:00:01,01:59,849,Niedostosowanie się do znaku nakazu/zakazu,1
+562,546,2001-01-14 00:00:01,09:44,646,Przekroczenie prędkości,30
+563,286,2001-02-26 00:00:01,13:34,2,Parking w niedozwolonym miejscu,1
+564,388,2001-04-03 00:00:01,09:56,366,Parking w niedozwolonym miejscu,1
+565,789,2001-05-06 00:00:01,11:14,852,Nieprzepisowa zmiana pasa ruchu,1
+566,914,2001-04-12 00:00:01,22:17,908,Przekroczenie prędkości,20
+567,539,2001-02-13 00:00:01,08:34,182,Parking w niedozwolonym miejscu,1
+568,422,2001-05-27 00:00:01,10:36,544,Nieprzepisowa zmiana pasa ruchu,1
+569,189,2001-04-21 00:00:01,15:20,102,Nieprzepisowa zmiana pasa ruchu,1
+570,591,2001-03-28 00:00:01,20:50,884,Nieprzepisowa zmiana pasa ruchu,1
+571,525,2001-05-10 00:00:01,02:30,713,Nieprzepisowa zmiana pasa ruchu,1
+572,941,2001-06-03 00:00:01,13:28,991,Parking w niedozwolonym miejscu,1
+573,966,2001-05-23 00:00:01,18:58,373,Nieprzepisowa zmiana pasa ruchu,1
+574,879,2001-01-14 00:00:01,22:29,488,Przekroczenie prędkości,30
+575,109,2001-05-29 00:00:01,20:00,560,Jazda na zbyt wysokich obrotach,3000
+576,106,2001-03-26 00:00:01,01:44,885,Nieprzepisowa zmiana pasa ruchu,1
+577,839,2001-03-24 00:00:01,03:03,498,Jazda na zbyt wysokich obrotach,2000
+578,497,2001-06-06 00:00:01,12:42,921,Jazda na zbyt wysokich obrotach,1500
+579,965,2001-01-25 00:00:01,12:15,171,Gwałtowne hamowanie,1
+580,835,2001-04-06 00:00:01,20:27,452,Niedostosowanie się do znaku nakazu/zakazu,1
+581,433,2001-02-05 00:00:01,05:36,621,Niedostosowanie się do znaku nakazu/zakazu,1
+582,554,2001-05-10 00:00:01,12:59,203,Parking w niedozwolonym miejscu,1
+583,585,2001-04-26 00:00:01,02:20,850,Niedostosowanie się do znaku nakazu/zakazu,1
+584,582,2001-01-22 00:00:01,02:03,779,Gwałtowne hamowanie,1
+585,677,2001-04-22 00:00:01,02:43,518,Parking w niedozwolonym miejscu,1
+586,907,2001-05-25 00:00:01,02:36,698,Nieprzepisowa zmiana pasa ruchu,1
+587,844,2001-02-27 00:00:01,08:01,146,Nieprzepisowa zmiana pasa ruchu,1
+588,254,2001-04-07 00:00:01,01:33,603,Nieprzepisowa zmiana pasa ruchu,1
+589,793,2001-04-29 00:00:01,15:11,909,Parking w niedozwolonym miejscu,1
+590,285,2001-04-11 00:00:01,15:42,229,Przekroczenie prędkości,50
+591,440,2001-01-18 00:00:01,15:05,70,Gwałtowne hamowanie,1
+592,523,2001-03-07 00:00:01,10:03,198,Gwałtowne hamowanie,1
+593,786,2001-03-10 00:00:01,08:16,653,Przekroczenie prędkości,20
+594,796,2001-06-02 00:00:01,11:55,906,Jazda na zbyt wysokich obrotach,1000
+595,545,2001-04-01 00:00:01,02:07,750,Niedostosowanie się do znaku nakazu/zakazu,1
+596,892,2001-05-25 00:00:01,21:06,52,Jazda na zbyt wysokich obrotach,3000
+597,719,2001-03-24 00:00:01,17:39,956,Niedostosowanie się do znaku nakazu/zakazu,1
+598,134,2001-05-02 00:00:01,19:18,850,Niedostosowanie się do znaku nakazu/zakazu,1
+599,971,2001-04-19 00:00:01,07:37,765,Przekroczenie prędkości,20
+600,878,2001-04-09 00:00:01,08:47,348,Przekroczenie prędkości,40
+601,733,2001-02-19 00:00:01,08:37,538,Przekroczenie prędkości,50
+602,469,2001-03-08 00:00:01,10:20,708,Przekroczenie prędkości,40
+603,344,2001-05-10 00:00:01,09:57,525,Przekroczenie prędkości,30
+604,82,2001-03-07 00:00:01,00:28,972,Niedostosowanie się do znaku nakazu/zakazu,1
+605,586,2001-04-01 00:00:01,05:17,441,Niedostosowanie się do znaku nakazu/zakazu,1
+606,636,2001-03-15 00:00:01,04:21,212,Przekroczenie prędkości,20
+607,88,2001-03-15 00:00:01,08:07,394,Przekroczenie prędkości,50
+608,539,2001-05-30 00:00:01,20:47,750,Przekroczenie prędkości,40
+609,34,2001-03-24 00:00:01,23:41,788,Parking w niedozwolonym miejscu,1
+610,573,2001-03-14 00:00:01,20:07,139,Gwałtowne hamowanie,1
+611,6,2001-01-16 00:00:01,00:12,41,Gwałtowne hamowanie,1
+612,383,2001-02-08 00:00:01,18:19,323,Niedostosowanie się do znaku nakazu/zakazu,1
+613,637,2001-02-08 00:00:01,20:51,629,Przekroczenie prędkości,20
+614,105,2001-02-01 00:00:01,23:08,8,Gwałtowne hamowanie,1
+615,768,2001-05-29 00:00:01,00:57,993,Gwałtowne hamowanie,1
+616,455,2001-01-05 00:00:01,04:47,549,Jazda na zbyt wysokich obrotach,3000
+617,757,2001-02-21 00:00:01,02:36,668,Nieprzepisowa zmiana pasa ruchu,1
+618,404,2001-01-02 00:00:01,20:31,513,Niedostosowanie się do znaku nakazu/zakazu,1
+619,805,2001-01-12 00:00:01,23:34,786,Gwałtowne hamowanie,1
+620,273,2001-02-12 00:00:01,20:39,964,Nieprzepisowa zmiana pasa ruchu,1
+621,99,2001-01-28 00:00:01,06:49,788,Gwałtowne hamowanie,1
+622,855,2001-03-14 00:00:01,01:38,63,Niedostosowanie się do znaku nakazu/zakazu,1
+623,310,2001-05-15 00:00:01,06:38,248,Przekroczenie prędkości,40
+624,516,2001-05-05 00:00:01,20:47,113,Gwałtowne hamowanie,1
+625,865,2001-04-02 00:00:01,16:22,356,Nieprzepisowa zmiana pasa ruchu,1
+626,521,2001-06-06 00:00:01,02:46,287,Niedostosowanie się do znaku nakazu/zakazu,1
+627,201,2001-01-30 00:00:01,16:55,652,Niedostosowanie się do znaku nakazu/zakazu,1
+628,339,2001-03-01 00:00:01,02:21,457,Parking w niedozwolonym miejscu,1
+629,535,2001-01-14 00:00:01,14:01,646,Gwałtowne hamowanie,1
+630,977,2001-01-17 00:00:01,13:29,754,Jazda na zbyt wysokich obrotach,1500
+631,7,2001-04-04 00:00:01,02:31,314,Jazda na zbyt wysokich obrotach,1500
+632,408,2001-04-21 00:00:01,16:55,363,Gwałtowne hamowanie,1
+633,206,2001-02-19 00:00:01,06:21,426,Nieprzepisowa zmiana pasa ruchu,1
+634,512,2001-05-19 00:00:01,11:35,847,Niedostosowanie się do znaku nakazu/zakazu,1
+635,627,2001-05-10 00:00:01,23:47,147,Nieprzepisowa zmiana pasa ruchu,1
+636,654,2001-05-18 00:00:01,10:21,159,Jazda na zbyt wysokich obrotach,1500
+637,644,2001-04-12 00:00:01,17:06,367,Przekroczenie prędkości,20
+638,860,2001-05-15 00:00:01,02:43,243,Parking w niedozwolonym miejscu,1
+639,994,2001-02-01 00:00:01,22:07,63,Nieprzepisowa zmiana pasa ruchu,1
+640,939,2001-05-12 00:00:01,12:01,274,Jazda na zbyt wysokich obrotach,1500
+641,154,2001-03-26 00:00:01,10:41,444,Parking w niedozwolonym miejscu,1
+642,325,2001-01-28 00:00:01,17:30,758,Nieprzepisowa zmiana pasa ruchu,1
+643,611,2001-03-19 00:00:01,11:24,883,Niedostosowanie się do znaku nakazu/zakazu,1
+644,558,2001-04-24 00:00:01,18:18,601,Jazda na zbyt wysokich obrotach,3000
+645,474,2001-02-18 00:00:01,08:44,608,Niedostosowanie się do znaku nakazu/zakazu,1
+646,820,2001-05-29 00:00:01,02:39,476,Nieprzepisowa zmiana pasa ruchu,1
+647,879,2001-03-20 00:00:01,16:24,743,Parking w niedozwolonym miejscu,1
+648,326,2001-05-19 00:00:01,05:18,562,Gwałtowne hamowanie,1
+649,294,2001-01-04 00:00:01,14:52,992,Jazda na zbyt wysokich obrotach,2000
+650,209,2001-03-28 00:00:01,14:25,955,Nieprzepisowa zmiana pasa ruchu,1
+651,729,2001-03-08 00:00:01,02:18,587,Gwałtowne hamowanie,1
+652,649,2001-02-12 00:00:01,19:08,56,Niedostosowanie się do znaku nakazu/zakazu,1
+653,350,2001-01-23 00:00:01,03:37,938,Gwałtowne hamowanie,1
+654,112,2001-01-25 00:00:01,16:51,947,Nieprzepisowa zmiana pasa ruchu,1
+655,629,2001-01-02 00:00:01,17:19,904,Jazda na zbyt wysokich obrotach,1000
+656,826,2001-03-25 00:00:01,07:39,741,Przekroczenie prędkości,50
+657,178,2001-04-23 00:00:01,03:52,91,Parking w niedozwolonym miejscu,1
+658,59,2001-03-16 00:00:01,07:55,561,Gwałtowne hamowanie,1
+659,676,2001-04-01 00:00:01,23:12,371,Nieprzepisowa zmiana pasa ruchu,1
+660,812,2001-03-16 00:00:01,13:34,396,Gwałtowne hamowanie,1
+661,112,2001-01-16 00:00:01,09:09,930,Nieprzepisowa zmiana pasa ruchu,1
+662,429,2001-01-15 00:00:01,02:10,90,Nieprzepisowa zmiana pasa ruchu,1
+663,688,2001-02-27 00:00:01,16:19,563,Gwałtowne hamowanie,1
+664,502,2001-02-02 00:00:01,21:18,143,Jazda na zbyt wysokich obrotach,1500
+665,724,2001-02-23 00:00:01,06:12,800,Gwałtowne hamowanie,1
+666,933,2001-02-25 00:00:01,05:00,733,Nieprzepisowa zmiana pasa ruchu,1
+667,303,2001-06-04 00:00:01,14:00,199,Niedostosowanie się do znaku nakazu/zakazu,1
+668,630,2001-03-14 00:00:01,06:34,661,Jazda na zbyt wysokich obrotach,2500
+669,200,2001-04-04 00:00:01,01:01,911,Niedostosowanie się do znaku nakazu/zakazu,1
+670,397,2001-02-09 00:00:01,12:13,19,Jazda na zbyt wysokich obrotach,2500
+671,453,2001-02-24 00:00:01,07:37,284,Parking w niedozwolonym miejscu,1
+672,363,2001-06-06 00:00:01,00:06,876,Przekroczenie prędkości,40
+673,652,2001-01-24 00:00:01,15:26,173,Nieprzepisowa zmiana pasa ruchu,1
+674,88,2001-02-17 00:00:01,03:21,599,Parking w niedozwolonym miejscu,1
+675,731,2001-01-13 00:00:01,06:41,384,Nieprzepisowa zmiana pasa ruchu,1
+676,1000,2001-02-07 00:00:01,13:57,719,Niedostosowanie się do znaku nakazu/zakazu,1
+677,573,2001-01-03 00:00:01,17:32,912,Niedostosowanie się do znaku nakazu/zakazu,1
+678,719,2001-02-20 00:00:01,20:06,366,Parking w niedozwolonym miejscu,1
+679,858,2001-04-29 00:00:01,06:04,8,Gwałtowne hamowanie,1
+680,351,2001-01-26 00:00:01,00:17,165,Niedostosowanie się do znaku nakazu/zakazu,1
+681,8,2001-03-06 00:00:01,12:41,153,Przekroczenie prędkości,20
+682,981,2001-04-23 00:00:01,02:03,342,Nieprzepisowa zmiana pasa ruchu,1
+683,844,2001-04-01 00:00:01,18:40,328,Niedostosowanie się do znaku nakazu/zakazu,1
+684,604,2001-01-18 00:00:01,14:34,675,Niedostosowanie się do znaku nakazu/zakazu,1
+685,418,2001-03-19 00:00:01,12:53,681,Niedostosowanie się do znaku nakazu/zakazu,1
+686,843,2001-04-04 00:00:01,03:09,494,Niedostosowanie się do znaku nakazu/zakazu,1
+687,59,2001-02-08 00:00:01,18:30,81,Przekroczenie prędkości,20
+688,592,2001-05-14 00:00:01,12:54,601,Gwałtowne hamowanie,1
+689,876,2001-06-05 00:00:01,21:16,535,Przekroczenie prędkości,30
+690,588,2001-05-10 00:00:01,03:02,563,Parking w niedozwolonym miejscu,1
+691,175,2001-02-04 00:00:01,03:25,856,Nieprzepisowa zmiana pasa ruchu,1
+692,378,2001-03-04 00:00:01,07:26,161,Parking w niedozwolonym miejscu,1
+693,398,2001-03-29 00:00:01,19:00,458,Jazda na zbyt wysokich obrotach,1000
+694,612,2001-03-27 00:00:01,10:08,737,Niedostosowanie się do znaku nakazu/zakazu,1
+695,537,2001-04-30 00:00:01,10:03,395,Niedostosowanie się do znaku nakazu/zakazu,1
+696,755,2001-06-03 00:00:01,13:01,882,Parking w niedozwolonym miejscu,1
+697,128,2001-04-20 00:00:01,02:53,87,Niedostosowanie się do znaku nakazu/zakazu,1
+698,663,2001-05-12 00:00:01,22:09,858,Niedostosowanie się do znaku nakazu/zakazu,1
+699,515,2001-03-10 00:00:01,15:55,746,Niedostosowanie się do znaku nakazu/zakazu,1
+700,307,2001-01-17 00:00:01,17:47,657,Przekroczenie prędkości,40
+701,748,2001-05-10 00:00:01,15:51,781,Niedostosowanie się do znaku nakazu/zakazu,1
+702,481,2001-01-06 00:00:01,05:14,408,Parking w niedozwolonym miejscu,1
+703,346,2001-05-25 00:00:01,07:13,445,Jazda na zbyt wysokich obrotach,2000
+704,403,2001-01-27 00:00:01,02:36,275,Gwałtowne hamowanie,1
+705,790,2001-03-06 00:00:01,09:42,162,Jazda na zbyt wysokich obrotach,3000
+706,199,2001-03-17 00:00:01,05:12,625,Gwałtowne hamowanie,1
+707,172,2001-01-10 00:00:01,02:01,948,Nieprzepisowa zmiana pasa ruchu,1
+708,461,2001-06-01 00:00:01,11:32,108,Niedostosowanie się do znaku nakazu/zakazu,1
+709,398,2001-05-23 00:00:01,19:53,840,Przekroczenie prędkości,40
+710,722,2001-05-31 00:00:01,11:57,551,Niedostosowanie się do znaku nakazu/zakazu,1
+711,75,2001-04-07 00:00:01,03:04,473,Przekroczenie prędkości,10
+712,624,2001-01-10 00:00:01,14:06,453,Parking w niedozwolonym miejscu,1
+713,805,2001-01-09 00:00:01,14:50,980,Gwałtowne hamowanie,1
+714,313,2001-04-11 00:00:01,17:12,884,Jazda na zbyt wysokich obrotach,3000
+715,960,2001-01-18 00:00:01,11:25,683,Jazda na zbyt wysokich obrotach,3000
+716,267,2001-04-04 00:00:01,09:35,252,Parking w niedozwolonym miejscu,1
+717,704,2001-02-03 00:00:01,14:55,700,Jazda na zbyt wysokich obrotach,2500
+718,867,2001-04-10 00:00:01,11:29,791,Jazda na zbyt wysokich obrotach,2500
+719,460,2001-01-22 00:00:01,12:04,872,Niedostosowanie się do znaku nakazu/zakazu,1
+720,747,2001-04-27 00:00:01,10:57,971,Przekroczenie prędkości,20
+721,196,2001-04-26 00:00:01,03:15,586,Przekroczenie prędkości,30
+722,732,2001-05-23 00:00:01,17:50,123,Parking w niedozwolonym miejscu,1
+723,668,2001-02-12 00:00:01,19:35,396,Niedostosowanie się do znaku nakazu/zakazu,1
+724,157,2001-02-04 00:00:01,22:31,562,Parking w niedozwolonym miejscu,1
+725,802,2001-05-13 00:00:01,17:44,679,Nieprzepisowa zmiana pasa ruchu,1
+726,77,2001-01-15 00:00:01,14:29,97,Parking w niedozwolonym miejscu,1
+727,518,2001-01-24 00:00:01,09:56,660,Niedostosowanie się do znaku nakazu/zakazu,1
+728,649,2001-02-03 00:00:01,13:37,983,Parking w niedozwolonym miejscu,1
+729,572,2001-03-04 00:00:01,02:23,959,Jazda na zbyt wysokich obrotach,2000
+730,987,2001-03-19 00:00:01,13:52,849,Jazda na zbyt wysokich obrotach,1000
+731,587,2001-05-16 00:00:01,00:43,751,Nieprzepisowa zmiana pasa ruchu,1
+732,572,2001-04-19 00:00:01,00:32,26,Przekroczenie prędkości,10
+733,368,2001-05-05 00:00:01,22:01,534,Niedostosowanie się do znaku nakazu/zakazu,1
+734,989,2001-06-06 00:00:01,05:30,71,Jazda na zbyt wysokich obrotach,2000
+735,630,2001-01-18 00:00:01,06:07,685,Przekroczenie prędkości,40
+736,790,2001-02-13 00:00:01,11:00,23,Przekroczenie prędkości,30
+737,741,2001-03-27 00:00:01,16:14,688,Przekroczenie prędkości,30
+738,76,2001-04-06 00:00:01,17:33,988,Parking w niedozwolonym miejscu,1
+739,477,2001-03-19 00:00:01,03:17,838,Niedostosowanie się do znaku nakazu/zakazu,1
+740,944,2001-03-18 00:00:01,05:35,819,Parking w niedozwolonym miejscu,1
+741,691,2001-04-19 00:00:01,12:02,53,Niedostosowanie się do znaku nakazu/zakazu,1
+742,325,2001-01-11 00:00:01,18:33,11,Jazda na zbyt wysokich obrotach,2000
+743,875,2001-04-22 00:00:01,15:07,452,Jazda na zbyt wysokich obrotach,3000
+744,259,2001-01-22 00:00:01,20:29,708,Nieprzepisowa zmiana pasa ruchu,1
+745,527,2001-03-31 00:00:01,12:34,68,Nieprzepisowa zmiana pasa ruchu,1
+746,13,2001-03-03 00:00:01,19:29,82,Parking w niedozwolonym miejscu,1
+747,506,2001-04-20 00:00:01,04:23,849,Jazda na zbyt wysokich obrotach,1500
+748,111,2001-01-12 00:00:01,01:50,709,Niedostosowanie się do znaku nakazu/zakazu,1
+749,60,2001-01-08 00:00:01,22:15,885,Przekroczenie prędkości,30
+750,468,2001-03-11 00:00:01,22:32,677,Przekroczenie prędkości,20
+751,70,2001-01-30 00:00:01,12:49,754,Jazda na zbyt wysokich obrotach,3000
+752,948,2001-02-21 00:00:01,01:00,652,Gwałtowne hamowanie,1
+753,557,2001-05-11 00:00:01,09:56,215,Przekroczenie prędkości,50
+754,765,2001-05-31 00:00:01,04:01,192,Gwałtowne hamowanie,1
+755,209,2001-02-25 00:00:01,07:25,946,Nieprzepisowa zmiana pasa ruchu,1
+756,69,2001-02-13 00:00:01,03:42,529,Przekroczenie prędkości,50
+757,298,2001-01-08 00:00:01,11:52,144,Nieprzepisowa zmiana pasa ruchu,1
+758,598,2001-05-18 00:00:01,22:14,534,Jazda na zbyt wysokich obrotach,2000
+759,98,2001-05-06 00:00:01,22:34,582,Nieprzepisowa zmiana pasa ruchu,1
+760,179,2001-01-14 00:00:01,13:27,979,Przekroczenie prędkości,20
+761,683,2001-04-10 00:00:01,08:56,480,Jazda na zbyt wysokich obrotach,3000
+762,956,2001-03-04 00:00:01,18:09,673,Przekroczenie prędkości,40
+763,32,2001-02-28 00:00:01,14:47,997,Niedostosowanie się do znaku nakazu/zakazu,1
+764,567,2001-01-25 00:00:01,20:47,131,Parking w niedozwolonym miejscu,1
+765,792,2001-01-26 00:00:01,14:00,750,Jazda na zbyt wysokich obrotach,3000
+766,599,2001-04-27 00:00:01,17:57,119,Parking w niedozwolonym miejscu,1
+767,532,2001-05-31 00:00:01,06:17,146,Gwałtowne hamowanie,1
+768,611,2001-02-05 00:00:01,18:34,25,Jazda na zbyt wysokich obrotach,2500
+769,444,2001-04-21 00:00:01,21:47,639,Jazda na zbyt wysokich obrotach,3000
+770,35,2001-02-14 00:00:01,19:37,675,Niedostosowanie się do znaku nakazu/zakazu,1
+771,881,2001-01-13 00:00:01,18:38,21,Gwałtowne hamowanie,1
+772,891,2001-05-27 00:00:01,00:03,146,Przekroczenie prędkości,40
+773,655,2001-02-15 00:00:01,09:20,60,Przekroczenie prędkości,10
+774,296,2001-06-03 00:00:01,13:41,759,Jazda na zbyt wysokich obrotach,1000
+775,450,2001-02-05 00:00:01,02:14,270,Parking w niedozwolonym miejscu,1
+776,397,2001-01-26 00:00:01,09:08,750,Parking w niedozwolonym miejscu,1
+777,622,2001-01-19 00:00:01,10:31,918,Nieprzepisowa zmiana pasa ruchu,1
+778,510,2001-06-04 00:00:01,19:23,615,Niedostosowanie się do znaku nakazu/zakazu,1
+779,758,2001-05-25 00:00:01,16:04,131,Jazda na zbyt wysokich obrotach,1500
+780,411,2001-01-25 00:00:01,08:28,525,Jazda na zbyt wysokich obrotach,2500
+781,996,2001-01-20 00:00:01,22:08,476,Jazda na zbyt wysokich obrotach,3000
+782,828,2001-05-20 00:00:01,00:38,550,Niedostosowanie się do znaku nakazu/zakazu,1
+783,719,2001-02-24 00:00:01,07:29,629,Parking w niedozwolonym miejscu,1
+784,568,2001-03-30 00:00:01,10:24,969,Niedostosowanie się do znaku nakazu/zakazu,1
+785,505,2001-01-21 00:00:01,11:59,174,Parking w niedozwolonym miejscu,1
+786,552,2001-03-15 00:00:01,02:28,820,Przekroczenie prędkości,30
+787,83,2001-05-17 00:00:01,22:01,395,Przekroczenie prędkości,30
+788,153,2001-02-06 00:00:01,06:05,820,Gwałtowne hamowanie,1
+789,140,2001-03-08 00:00:01,02:29,832,Jazda na zbyt wysokich obrotach,3000
+790,113,2001-02-04 00:00:01,17:53,624,Nieprzepisowa zmiana pasa ruchu,1
+791,292,2001-05-29 00:00:01,09:15,892,Jazda na zbyt wysokich obrotach,1500
+792,448,2001-05-02 00:00:01,22:44,655,Gwałtowne hamowanie,1
+793,186,2001-05-18 00:00:01,14:27,317,Jazda na zbyt wysokich obrotach,1500
+794,546,2001-04-02 00:00:01,12:17,797,Parking w niedozwolonym miejscu,1
+795,934,2001-02-16 00:00:01,16:57,804,Przekroczenie prędkości,40
+796,988,2001-02-19 00:00:01,22:43,623,Nieprzepisowa zmiana pasa ruchu,1
+797,640,2001-02-16 00:00:01,06:41,428,Przekroczenie prędkości,30
+798,156,2001-03-06 00:00:01,14:12,559,Gwałtowne hamowanie,1
+799,423,2001-05-11 00:00:01,21:30,573,Niedostosowanie się do znaku nakazu/zakazu,1
+800,318,2001-01-31 00:00:01,03:33,959,Parking w niedozwolonym miejscu,1
+801,657,2001-01-04 00:00:01,08:57,385,Jazda na zbyt wysokich obrotach,2000
+802,178,2001-05-13 00:00:01,21:32,821,Gwałtowne hamowanie,1
+803,751,2001-02-28 00:00:01,03:09,685,Gwałtowne hamowanie,1
+804,392,2001-05-21 00:00:01,12:27,314,Przekroczenie prędkości,10
+805,845,2001-02-22 00:00:01,19:54,559,Nieprzepisowa zmiana pasa ruchu,1
+806,289,2001-03-28 00:00:01,14:26,234,Jazda na zbyt wysokich obrotach,2500
+807,282,2001-02-14 00:00:01,08:41,285,Niedostosowanie się do znaku nakazu/zakazu,1
+808,310,2001-05-25 00:00:01,21:46,343,Parking w niedozwolonym miejscu,1
+809,593,2001-05-18 00:00:01,09:08,160,Jazda na zbyt wysokich obrotach,2000
+810,886,2001-02-04 00:00:01,15:09,477,Jazda na zbyt wysokich obrotach,2000
+811,190,2001-04-29 00:00:01,17:52,802,Gwałtowne hamowanie,1
+812,207,2001-04-18 00:00:01,20:51,173,Parking w niedozwolonym miejscu,1
+813,835,2001-03-01 00:00:01,19:52,284,Parking w niedozwolonym miejscu,1
+814,655,2001-01-08 00:00:01,11:46,884,Parking w niedozwolonym miejscu,1
+815,311,2001-04-16 00:00:01,09:12,695,Gwałtowne hamowanie,1
+816,249,2001-05-08 00:00:01,00:10,954,Gwałtowne hamowanie,1
+817,628,2001-03-21 00:00:01,06:24,86,Nieprzepisowa zmiana pasa ruchu,1
+818,428,2001-03-20 00:00:01,00:49,8,Gwałtowne hamowanie,1
+819,249,2001-01-18 00:00:01,04:36,624,Jazda na zbyt wysokich obrotach,1500
+820,534,2001-04-29 00:00:01,16:25,631,Przekroczenie prędkości,40
+821,682,2001-06-06 00:00:01,15:57,21,Parking w niedozwolonym miejscu,1
+822,601,2001-05-18 00:00:01,21:38,566,Gwałtowne hamowanie,1
+823,459,2001-04-11 00:00:01,20:34,149,Gwałtowne hamowanie,1
+824,574,2001-03-23 00:00:01,23:06,961,Niedostosowanie się do znaku nakazu/zakazu,1
+825,331,2001-04-09 00:00:01,17:38,274,Przekroczenie prędkości,50
+826,349,2001-04-05 00:00:01,21:41,790,Niedostosowanie się do znaku nakazu/zakazu,1
+827,467,2001-05-28 00:00:01,06:26,264,Niedostosowanie się do znaku nakazu/zakazu,1
+828,459,2001-01-14 00:00:01,03:33,559,Parking w niedozwolonym miejscu,1
+829,262,2001-05-28 00:00:01,00:05,824,Gwałtowne hamowanie,1
+830,909,2001-04-30 00:00:01,01:07,74,Gwałtowne hamowanie,1
+831,495,2001-06-01 00:00:01,14:07,353,Nieprzepisowa zmiana pasa ruchu,1
+832,920,2001-04-18 00:00:01,06:07,73,Przekroczenie prędkości,40
+833,105,2001-01-18 00:00:01,21:18,999,Parking w niedozwolonym miejscu,1
+834,132,2001-04-01 00:00:01,16:49,381,Gwałtowne hamowanie,1
+835,386,2001-04-13 00:00:01,11:50,463,Niedostosowanie się do znaku nakazu/zakazu,1
+836,487,2001-01-21 00:00:01,14:00,313,Jazda na zbyt wysokich obrotach,1000
+837,347,2001-04-27 00:00:01,07:09,695,Niedostosowanie się do znaku nakazu/zakazu,1
+838,239,2001-05-22 00:00:01,20:07,1,Niedostosowanie się do znaku nakazu/zakazu,1
+839,566,2001-03-17 00:00:01,15:35,173,Nieprzepisowa zmiana pasa ruchu,1
+840,8,2001-03-31 00:00:01,04:12,12,Jazda na zbyt wysokich obrotach,1000
+841,371,2001-03-12 00:00:01,17:02,441,Parking w niedozwolonym miejscu,1
+842,647,2001-02-10 00:00:01,10:12,142,Niedostosowanie się do znaku nakazu/zakazu,1
+843,906,2001-01-01 00:00:01,21:04,399,Jazda na zbyt wysokich obrotach,2500
+844,408,2001-04-06 00:00:01,03:58,125,Jazda na zbyt wysokich obrotach,1500
+845,691,2001-01-06 00:00:01,09:38,286,Parking w niedozwolonym miejscu,1
+846,577,2001-05-14 00:00:01,21:36,311,Jazda na zbyt wysokich obrotach,3000
+847,161,2001-02-09 00:00:01,04:26,268,Parking w niedozwolonym miejscu,1
+848,738,2001-01-30 00:00:01,21:18,373,Niedostosowanie się do znaku nakazu/zakazu,1
+849,394,2001-02-09 00:00:01,06:13,723,Gwałtowne hamowanie,1
+850,693,2001-04-30 00:00:01,19:59,794,Niedostosowanie się do znaku nakazu/zakazu,1
+851,699,2001-01-10 00:00:01,00:44,847,Parking w niedozwolonym miejscu,1
+852,194,2001-04-30 00:00:01,20:41,150,Nieprzepisowa zmiana pasa ruchu,1
+853,962,2001-05-14 00:00:01,05:41,179,Przekroczenie prędkości,20
+854,441,2001-01-07 00:00:01,05:31,94,Przekroczenie prędkości,50
+855,792,2001-04-01 00:00:01,10:17,63,Niedostosowanie się do znaku nakazu/zakazu,1
+856,269,2001-01-18 00:00:01,02:20,146,Nieprzepisowa zmiana pasa ruchu,1
+857,669,2001-02-20 00:00:01,14:56,514,Niedostosowanie się do znaku nakazu/zakazu,1
+858,791,2001-03-26 00:00:01,03:37,457,Parking w niedozwolonym miejscu,1
+859,603,2001-03-24 00:00:01,21:00,663,Niedostosowanie się do znaku nakazu/zakazu,1
+860,286,2001-04-05 00:00:01,15:07,883,Niedostosowanie się do znaku nakazu/zakazu,1
+861,986,2001-05-27 00:00:01,09:05,309,Nieprzepisowa zmiana pasa ruchu,1
+862,417,2001-05-25 00:00:01,04:32,848,Przekroczenie prędkości,20
+863,617,2001-05-04 00:00:01,15:51,947,Gwałtowne hamowanie,1
+864,375,2001-05-23 00:00:01,02:47,740,Parking w niedozwolonym miejscu,1
+865,812,2001-04-02 00:00:01,16:08,808,Nieprzepisowa zmiana pasa ruchu,1
+866,780,2001-02-07 00:00:01,20:53,932,Gwałtowne hamowanie,1
+867,656,2001-01-16 00:00:01,04:29,433,Niedostosowanie się do znaku nakazu/zakazu,1
+868,309,2001-02-21 00:00:01,17:50,379,Parking w niedozwolonym miejscu,1
+869,760,2001-01-21 00:00:01,05:21,466,Nieprzepisowa zmiana pasa ruchu,1
+870,271,2001-01-25 00:00:01,23:22,763,Przekroczenie prędkości,50
+871,905,2001-02-12 00:00:01,13:59,209,Nieprzepisowa zmiana pasa ruchu,1
+872,712,2001-01-20 00:00:01,17:38,458,Parking w niedozwolonym miejscu,1
+873,108,2001-04-29 00:00:01,15:50,726,Jazda na zbyt wysokich obrotach,1000
+874,945,2001-02-11 00:00:01,16:33,522,Parking w niedozwolonym miejscu,1
+875,928,2001-04-08 00:00:01,07:59,970,Nieprzepisowa zmiana pasa ruchu,1
+876,746,2001-05-03 00:00:01,18:18,869,Niedostosowanie się do znaku nakazu/zakazu,1
+877,123,2001-04-24 00:00:01,02:47,299,Przekroczenie prędkości,50
+878,380,2001-04-27 00:00:01,15:30,522,Gwałtowne hamowanie,1
+879,90,2001-03-06 00:00:01,14:28,732,Parking w niedozwolonym miejscu,1
+880,117,2001-03-01 00:00:01,10:19,582,Nieprzepisowa zmiana pasa ruchu,1
+881,286,2001-04-19 00:00:01,15:58,104,Nieprzepisowa zmiana pasa ruchu,1
+882,332,2001-04-26 00:00:01,01:42,264,Przekroczenie prędkości,10
+883,775,2001-02-22 00:00:01,05:03,921,Przekroczenie prędkości,20
+884,2,2001-03-05 00:00:01,04:27,164,Niedostosowanie się do znaku nakazu/zakazu,1
+885,127,2001-04-24 00:00:01,07:33,415,Nieprzepisowa zmiana pasa ruchu,1
+886,148,2001-03-07 00:00:01,12:19,577,Niedostosowanie się do znaku nakazu/zakazu,1
+887,155,2001-01-29 00:00:01,09:46,763,Gwałtowne hamowanie,1
+888,694,2001-03-29 00:00:01,09:07,68,Gwałtowne hamowanie,1
+889,378,2001-01-06 00:00:01,22:38,205,Gwałtowne hamowanie,1
+890,867,2001-05-29 00:00:01,21:24,675,Nieprzepisowa zmiana pasa ruchu,1
+891,657,2001-02-10 00:00:01,10:49,647,Parking w niedozwolonym miejscu,1
+892,468,2001-02-07 00:00:01,11:09,134,Niedostosowanie się do znaku nakazu/zakazu,1
+893,949,2001-03-17 00:00:01,09:57,810,Parking w niedozwolonym miejscu,1
+894,145,2001-02-07 00:00:01,10:57,548,Jazda na zbyt wysokich obrotach,1500
+895,4,2001-01-04 00:00:01,03:44,741,Niedostosowanie się do znaku nakazu/zakazu,1
+896,489,2001-04-28 00:00:01,23:04,565,Nieprzepisowa zmiana pasa ruchu,1
+897,317,2001-03-05 00:00:01,09:25,748,Gwałtowne hamowanie,1
+898,99,2001-03-07 00:00:01,22:32,129,Nieprzepisowa zmiana pasa ruchu,1
+899,266,2001-01-23 00:00:01,17:09,905,Przekroczenie prędkości,20
+900,949,2001-02-07 00:00:01,02:35,250,Niedostosowanie się do znaku nakazu/zakazu,1
+901,849,2001-04-02 00:00:01,12:15,157,Gwałtowne hamowanie,1
+902,78,2001-05-16 00:00:01,16:58,627,Parking w niedozwolonym miejscu,1
+903,991,2001-02-25 00:00:01,11:11,825,Jazda na zbyt wysokich obrotach,1500
+904,203,2001-02-01 00:00:01,19:04,36,Jazda na zbyt wysokich obrotach,2500
+905,318,2001-03-02 00:00:01,23:15,275,Przekroczenie prędkości,10
+906,265,2001-03-04 00:00:01,23:38,900,Niedostosowanie się do znaku nakazu/zakazu,1
+907,969,2001-04-29 00:00:01,13:50,889,Jazda na zbyt wysokich obrotach,1000
+908,726,2001-02-03 00:00:01,04:11,74,Przekroczenie prędkości,40
+909,676,2001-02-16 00:00:01,17:18,374,Gwałtowne hamowanie,1
+910,178,2001-02-05 00:00:01,15:45,899,Jazda na zbyt wysokich obrotach,2000
+911,640,2001-01-29 00:00:01,12:14,782,Gwałtowne hamowanie,1
+912,130,2001-04-06 00:00:01,13:08,589,Niedostosowanie się do znaku nakazu/zakazu,1
+913,265,2001-04-09 00:00:01,00:44,285,Przekroczenie prędkości,10
+914,883,2001-03-25 00:00:01,03:26,47,Jazda na zbyt wysokich obrotach,2000
+915,523,2001-05-26 00:00:01,12:15,77,Gwałtowne hamowanie,1
+916,981,2001-02-05 00:00:01,17:29,634,Niedostosowanie się do znaku nakazu/zakazu,1
+917,704,2001-01-10 00:00:01,00:56,898,Parking w niedozwolonym miejscu,1
+918,153,2001-04-17 00:00:01,14:16,981,Gwałtowne hamowanie,1
+919,990,2001-02-15 00:00:01,04:26,422,Niedostosowanie się do znaku nakazu/zakazu,1
+920,968,2001-01-03 00:00:01,14:38,15,Jazda na zbyt wysokich obrotach,2000
+921,279,2001-02-24 00:00:01,15:09,245,Parking w niedozwolonym miejscu,1
+922,776,2001-03-29 00:00:01,20:09,955,Niedostosowanie się do znaku nakazu/zakazu,1
+923,125,2001-03-27 00:00:01,21:23,663,Przekroczenie prędkości,30
+924,824,2001-02-13 00:00:01,02:28,902,Przekroczenie prędkości,30
+925,104,2001-05-23 00:00:01,03:24,309,Nieprzepisowa zmiana pasa ruchu,1
+926,869,2001-04-22 00:00:01,02:30,262,Jazda na zbyt wysokich obrotach,2000
+927,736,2001-01-02 00:00:01,16:51,737,Nieprzepisowa zmiana pasa ruchu,1
+928,881,2001-04-18 00:00:01,03:00,413,Przekroczenie prędkości,40
+929,882,2001-02-28 00:00:01,21:12,21,Nieprzepisowa zmiana pasa ruchu,1
+930,226,2001-03-13 00:00:01,15:24,927,Parking w niedozwolonym miejscu,1
+931,516,2001-02-16 00:00:01,10:41,76,Nieprzepisowa zmiana pasa ruchu,1
+932,152,2001-04-21 00:00:01,02:53,501,Niedostosowanie się do znaku nakazu/zakazu,1
+933,628,2001-02-26 00:00:01,13:28,883,Niedostosowanie się do znaku nakazu/zakazu,1
+934,998,2001-06-01 00:00:01,23:51,14,Gwałtowne hamowanie,1
+935,288,2001-05-30 00:00:01,12:59,901,Przekroczenie prędkości,30
+936,875,2001-03-20 00:00:01,18:21,78,Jazda na zbyt wysokich obrotach,2500
+937,515,2001-04-27 00:00:01,20:18,455,Przekroczenie prędkości,40
+938,179,2001-02-26 00:00:01,12:37,981,Nieprzepisowa zmiana pasa ruchu,1
+939,561,2001-03-20 00:00:01,19:17,40,Niedostosowanie się do znaku nakazu/zakazu,1
+940,97,2001-05-22 00:00:01,00:44,175,Nieprzepisowa zmiana pasa ruchu,1
+941,526,2001-01-10 00:00:01,18:38,375,Gwałtowne hamowanie,1
+942,216,2001-04-21 00:00:01,13:04,295,Niedostosowanie się do znaku nakazu/zakazu,1
+943,360,2001-02-14 00:00:01,01:34,758,Parking w niedozwolonym miejscu,1
+944,494,2001-01-24 00:00:01,13:59,592,Przekroczenie prędkości,50
+945,218,2001-02-17 00:00:01,07:36,464,Parking w niedozwolonym miejscu,1
+946,346,2001-02-09 00:00:01,00:39,956,Parking w niedozwolonym miejscu,1
+947,442,2001-02-09 00:00:01,01:36,102,Przekroczenie prędkości,10
+948,497,2001-03-22 00:00:01,01:49,431,Nieprzepisowa zmiana pasa ruchu,1
+949,911,2001-03-20 00:00:01,16:16,505,Parking w niedozwolonym miejscu,1
+950,114,2001-03-22 00:00:01,10:46,716,Jazda na zbyt wysokich obrotach,1000
+951,812,2001-05-14 00:00:01,10:36,337,Przekroczenie prędkości,10
+952,145,2001-03-17 00:00:01,09:16,768,Nieprzepisowa zmiana pasa ruchu,1
+953,728,2001-03-26 00:00:01,22:03,234,Gwałtowne hamowanie,1
+954,158,2001-01-20 00:00:01,16:50,736,Parking w niedozwolonym miejscu,1
+955,842,2001-02-22 00:00:01,12:33,381,Parking w niedozwolonym miejscu,1
+956,414,2001-04-26 00:00:01,01:28,742,Jazda na zbyt wysokich obrotach,1500
+957,897,2001-03-11 00:00:01,08:28,455,Przekroczenie prędkości,50
+958,96,2001-02-24 00:00:01,18:48,133,Niedostosowanie się do znaku nakazu/zakazu,1
+959,123,2001-02-28 00:00:01,13:05,616,Nieprzepisowa zmiana pasa ruchu,1
+960,290,2001-03-03 00:00:01,14:15,988,Jazda na zbyt wysokich obrotach,3000
+961,945,2001-04-02 00:00:01,14:51,890,Przekroczenie prędkości,10
+962,405,2001-01-11 00:00:01,22:56,837,Przekroczenie prędkości,20
+963,47,2001-03-22 00:00:01,14:01,412,Przekroczenie prędkości,50
+964,12,2001-01-28 00:00:01,10:32,478,Jazda na zbyt wysokich obrotach,3000
+965,322,2001-04-20 00:00:01,09:20,48,Gwałtowne hamowanie,1
+966,366,2001-04-27 00:00:01,18:08,759,Niedostosowanie się do znaku nakazu/zakazu,1
+967,457,2001-01-02 00:00:01,05:57,848,Nieprzepisowa zmiana pasa ruchu,1
+968,40,2001-05-27 00:00:01,17:10,532,Nieprzepisowa zmiana pasa ruchu,1
+969,996,2001-03-30 00:00:01,02:56,765,Przekroczenie prędkości,30
+970,398,2001-02-22 00:00:01,22:36,171,Przekroczenie prędkości,50
+971,992,2001-04-22 00:00:01,06:23,436,Niedostosowanie się do znaku nakazu/zakazu,1
+972,492,2001-05-02 00:00:01,08:18,407,Przekroczenie prędkości,20
+973,921,2001-04-16 00:00:01,23:23,879,Niedostosowanie się do znaku nakazu/zakazu,1
+974,333,2001-05-05 00:00:01,02:42,994,Gwałtowne hamowanie,1
+975,3,2001-02-20 00:00:01,03:27,950,Niedostosowanie się do znaku nakazu/zakazu,1
+976,648,2001-03-21 00:00:01,03:40,778,Jazda na zbyt wysokich obrotach,1500
+977,184,2001-01-19 00:00:01,15:42,842,Nieprzepisowa zmiana pasa ruchu,1
+978,192,2001-03-05 00:00:01,22:32,197,Gwałtowne hamowanie,1
+979,899,2001-03-28 00:00:01,11:46,957,Gwałtowne hamowanie,1
+980,429,2001-03-11 00:00:01,22:30,372,Nieprzepisowa zmiana pasa ruchu,1
+981,710,2001-03-24 00:00:01,12:26,428,Nieprzepisowa zmiana pasa ruchu,1
+982,186,2001-02-23 00:00:01,17:38,289,Parking w niedozwolonym miejscu,1
+983,68,2001-05-01 00:00:01,23:28,866,Gwałtowne hamowanie,1
+984,829,2001-05-07 00:00:01,11:02,915,Przekroczenie prędkości,10
+985,312,2001-04-06 00:00:01,16:00,913,Parking w niedozwolonym miejscu,1
+986,72,2001-06-05 00:00:01,21:16,867,Przekroczenie prędkości,20
+987,93,2001-06-03 00:00:01,03:32,657,Nieprzepisowa zmiana pasa ruchu,1
+988,51,2001-01-15 00:00:01,09:49,904,Przekroczenie prędkości,30
+989,372,2001-04-04 00:00:01,10:27,568,Jazda na zbyt wysokich obrotach,1000
+990,350,2001-05-14 00:00:01,16:31,509,Niedostosowanie się do znaku nakazu/zakazu,1
+991,369,2001-03-23 00:00:01,23:37,351,Niedostosowanie się do znaku nakazu/zakazu,1
+992,858,2001-05-18 00:00:01,09:22,218,Gwałtowne hamowanie,1
+993,349,2001-03-20 00:00:01,17:01,619,Nieprzepisowa zmiana pasa ruchu,1
+994,602,2001-03-04 00:00:01,09:48,639,Nieprzepisowa zmiana pasa ruchu,1
+995,969,2001-04-15 00:00:01,13:10,867,Przekroczenie prędkości,50
+996,221,2001-04-24 00:00:01,07:36,253,Niedostosowanie się do znaku nakazu/zakazu,1
+997,797,2001-02-17 00:00:01,17:29,890,Przekroczenie prędkości,30
+998,175,2001-05-28 00:00:01,19:02,710,Niedostosowanie się do znaku nakazu/zakazu,1
+999,217,2001-02-22 00:00:01,04:09,555,Jazda na zbyt wysokich obrotach,1000
+1000,606,2001-06-02 00:00:01,07:28,797,Parking w niedozwolonym miejscu,1
+>>>>>>> b6d1144224e480481c63ee84d9429d677e09bb5f
