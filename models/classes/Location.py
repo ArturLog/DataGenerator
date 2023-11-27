@@ -1,9 +1,9 @@
 import random
 from models.interfaces.CsvData import CsvData
 
-cities = ["Warszawa", "Kraków", "Poznań", "Wrocław", "Gdańsk", "Gdynia", "Sopot"]
-disctricts = ["Północ", "Południe", "Wschód", "Zachód", "Centrum", "Stare Miasto"]
-streets = ["Grunwaldzka", "Piłsudskiego", "Pogodna", "Miła", "Klonowa", "Sosnowa", "Mickiewicza"]
+cities = ["Warszawa", "Krakow", "Poznan", "Wroclaw", "Gdansk", "Gdynia", "Sopot"]
+disctricts = ["Polnoc", "Poludnie", "Wschod", "Zachod", "Centrum", "Stare Miasto"]
+streets = ["Grunwaldzka", "Pilsudskiego", "Pogodna", "Mila", "Klonowa", "Sosnowa", "Mickiewicza"]
 
 # Aktulanie moga sie powtarzac
 class Location(CsvData):

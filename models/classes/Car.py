@@ -57,5 +57,5 @@ class Car(CsvData):
             self.model, 
             self.generation, 
             self.production_year, 
-            self.last_inspection
+            self.last_inspection.date()
             ]

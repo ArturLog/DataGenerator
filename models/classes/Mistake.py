@@ -6,11 +6,11 @@ OBSERVANCE_OF_ROAD_REGULATIONS_MISTAKES_AMOUNT = 4
 TECHNICAL_MISTAKES_AMOUNT = 2
 
 mistake_types = {
-    "Przekroczenie prędkości": [10, 20, 30, 40, 50],
+    "Przekroczenie predkosci": [10, 20, 30, 40, 50],
     "Parking w niedozwolonym miejscu": [1],
     "Nieprzepisowa zmiana pasa ruchu": [1],
-    "Niedostosowanie się do znaku nakazu/zakazu": [1],
-    "Gwałtowne hamowanie": [1],
+    "Niedostosowanie sie do znaku nakazu/zakazu": [1],
+    "Gwaltowne hamowanie": [1],
     "Jazda na zbyt wysokich obrotach": [1000, 1500, 2000, 2500, 3000]
 }
 

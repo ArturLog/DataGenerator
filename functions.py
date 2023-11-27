@@ -40,36 +40,44 @@ def generate_random_time():
     
     return time
 
+def generate_template_time(datatime):
+    hour = datatime.hour
+    minute = datatime.minute
+    second = datatime.second
+    time = f"{hour:02d}:{minute:02d}:{second:02d}"
+    
+    return time
+
 def create_schema():
   with open('schema.sql', 'w', encoding='utf-8') as file:
     file.write('''
   CREATE DATABASE Baza;
   
   CREATE TABLE Uzytkownik (
-      PESEL INTEGER PRIMARY KEY,
-      Imie TEXT,
-      Nazwisko TEXT,
-      Plec TEXT,
+      PESEL BIGINT PRIMARY KEY,
+      Imie VARCHAR(50),
+      Nazwisko VARCHAR(50),
+      Plec VARCHAR(20),
       Data_urodzenia DATE,
       Data_uzyskania_prawa_jazdy DATE
   );
    
   CREATE TABLE Przejazd (
       ID INTEGER primary key,
-      PESEL_Uzytkownika INTEGER,
-      Nr_rejestracyjny_pojazdu TEXT,
+      PESEL_Uzytkownika BIGINT,
+      Nr_rejestracyjny_pojazdu VARCHAR(30),
       Data_rozpoczecia DATE,
-      Godzina_rozpoczecia DATE,
+      Godzina_rozpoczecia TIME,
       Data_zakonczenia DATE,
-      Godzina_zakonczenia DATE,
+      Godzina_zakonczenia TIME,
       Miejsce_rozpoczecia INTEGER,
       Miejsce_zakonczenia INTEGER,
-      Dystans INTEGER,
-      Ocena_przejazdu FLOAT,
-      Ocena_techniki_jazdy FLOAT,
-      Ocena_przestrzegania_przepisow_drogowych FLOAT,
-      Mnoznik_ceny FLOAT,
-      Koszt_przejazdu FLOAT,
+      Dystans DECIMAL(5,2),
+      Ocena_przejazdu DECIMAL(5,2),
+      Ocena_techniki_jazdy DECIMAL(5,2),
+      Ocena_przestrzegania_przepisow_drogowych DECIMAL(5,2),
+      Mnoznik_ceny DECIMAL(5,2),
+      Koszt_przejazdu DECIMAL(5,2),
       FOREIGN KEY (PESEL_Uzytkownika) REFERENCES Uzytkownik(PESEL)
   );
 
@@ -77,9 +85,9 @@ def create_schema():
       ID INTEGER PRIMARY KEY,
       ID_Przejazdu INTEGER,
       Data DATE,
-      Godzina DATE,
-      Miejsce TEXT,
-      Typ TEXT,
+      Godzina TIME,
+      Miejsce INTEGER,
+      Typ VARCHAR(50),
       Odchyl_od_poprawnej_wartosci INTEGER,
       FOREIGN KEY (ID_Przejazdu) REFERENCES Przejazd(ID)
   );

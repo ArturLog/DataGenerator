@@ -157,14 +157,14 @@ class Generator:
         
         self.create_csv(
             data=self.generate_csv_data(self.mistakes),
-            columns_names=["ID", "ID_przejazdu", "Data", "Godzina", "Miejsce", "Typ", "Odchył_od_poprawnej_wartości"],
+            columns_names=["ID", "ID_przejazdu", "Data", "Godzina", "Miejsce", "Typ", "Odchyl_od_poprawnej_wartosci"],
             file_name=f"csv/{suffix}/mistakes" +".csv",
             suffix=suffix
         )
         
         self.create_csv(
             data=self.generate_csv_data(self.cars),
-            columns_names=["Rejestracja", "VIN", "Marka", "Model", "Generacja", "Rok_produkcji", "Data_ostatniego_przeglądu"],
+            columns_names=["Rejestracja", "VIN", "Marka", "Model", "Generacja", "Rok_produkcji", "Data_ostatniego_przegladu"],
             file_name=f"csv/{suffix}/cars" + ".csv",
             suffix=suffix
         )
