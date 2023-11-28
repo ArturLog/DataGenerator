@@ -1,6 +1,7 @@
 from datetime import datetime
 from services.Generator import Generator
 from functions import create_schema
+from services.Inserter import Inserter
 
 AMOUNT_OF_USERS_FIRST_PERIOD = 1000
 AMOUNT_OF_USERS_SECOND_PERIOD = 500
@@ -41,4 +42,9 @@ if __name__ == '__main__':
                           locations_amount=AMOUNT_OF_LOCATIONS_SECOND_PERIOD)
     generator.generate_all(modify=True)
     generator.create_all_csv("second")
-  
+
+        # Convert data to SQL inserts
+    inserter = Inserter()
+    inserter.convert('users.csv', 'Uzytkownik', ["INTEGER", "TEXT", "TEXT", "TEXT", "DATE", "DATE"])
+    inserter.convert('rides.csv', 'Przejazd', ["INTEGER", "INTEGER", "TEXT", "DATE", "DATE", "DATE", "DATE", "INTEGER", "INTEGER", "INTEGER", "FLOAT", "FLOAT", "FLOAT", "FLOAT", "FLOAT"])
+    inserter.convert('mistakes.csv', 'Bledy_przejazdu', ["INTEGER", "INTEGER", "DATE", "DATE", "TEXT", "TEXT", "INTEGER"])
