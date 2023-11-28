@@ -171,7 +171,7 @@ class Generator:
         
         self.create_csv(
             data=self.generate_csv_data(self.locations),
-            columns_names=["ID", "Miasto", "Dzielnica", "Ulica", "Numer ulicy", "Kod pocztowy"],
+            columns_names=["ID", "Miasto", "Dzielnica", "Ulica", "Nr_ulicy", "Kod_pocztowy"],
             file_name=f"csv/{suffix}/locations" + ".csv",
             suffix=suffix
         )
